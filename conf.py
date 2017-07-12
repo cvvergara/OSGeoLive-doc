@@ -250,14 +250,12 @@ rst_epilog="""
                         :height: 18
 .. |osgeoproject| image:: /images/logos/OSGeo_compass.png
                         :alt: OSGeo Project
-                        :align: bottom
+                        :align: middle
                         :height: 18
-                        :target: ../sponsors_osgeo.html
-.. |osgeocommunity| image:: /images/logos/OSGeo_compass.png
+.. |osgeocommunity| image:: /images/logos/OSGeo_compass_small.png
                         :alt: OSGeo Community
                         :align: middle
                         :height: 18
-                        :target: ../sponsors_osgeo.html
 .. |version-52nSOS| replace:: 4.4.0
 .. |version-52nWPS| replace:: 3.6.1
 .. |version-cartaro| replace:: 1.9
