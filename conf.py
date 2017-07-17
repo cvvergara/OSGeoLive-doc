@@ -260,6 +260,17 @@ rst_epilog="""
                         :align: middle
                         :height: 18
                         :target: ../sponsors_osgeo.html
+.. |csw_standards| replace:: http://www.opengeospatial.org/standards/csw
+.. |fe_standards| replace:: http://www.opengeospatial.org/standards/fe
+.. |gml_standards| replace:: http://www.opengeospatial.org/standards/gml
+.. |kml_standards| replace:: http://www.opengeospatial.org/standards/kml
+.. |sensorml_standards| replace:: http://www.opengeospatial.org/standards/sensorml
+.. |sld_standards| replace:: http://www.opengeospatial.org/standards/sld
+.. |sos_standards| replace:: http://www.opengeospatial.org/standards/sos
+.. |wcs_standards| replace:: http://www.opengeospatial.org/standards/wcs
+.. |wfs_standards| replace:: http://www.opengeospatial.org/standards/wfs
+.. |wms_standards| replace:: http://www.opengeospatial.org/standards/wms
+.. |wps_standards| replace:: http://www.opengeospatial.org/standards/wps
 .. |version-52nSOS| replace:: 4.4.0
 .. |version-52nWPS| replace:: 3.6.1
 .. |version-cartaro| replace:: 1.9
