@@ -16,7 +16,7 @@
 ウェブサービス
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-52°North :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>` 
+52°North |sos_standards| 
 は、現地もしくは遠隔センサがリアルタイムに蓄積したデータの取得をサポートします。
 センサとしては人工衛星に搭載したカメラから、川の水量メーターまで様々な物を取り扱うことができます。
  
@@ -126,9 +126,9 @@ applicable:
 準拠している標準規格
 --------------------------------------------------------------------------------
 
-* :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>`
-* :doc:`Geography Markup Language (GML) <../standards/gml_overview>`
-* :doc:`Sensor Model Language (SensorML) <../standards/sensorml_overview>`
+* |sos_standards|
+* |gml_standards|
+* |sensorml_standards|
 
 
 詳細

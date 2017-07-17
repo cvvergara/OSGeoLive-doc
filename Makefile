@@ -50,11 +50,11 @@ clean:
 	rm -f `find ./*/ -type l -print`
 
 link_to_en_docs:
-	# For quickstart, standards and overview docs which have not been
+	# For quickstart, (not standards) and overview docs which have not been
 	# translated, link to english doc
 	for LANG in $(TRANSLATIONS) ; do \
-	  mkdir -p $$LANG/overview $$LANG/quickstart $$LANG/standards ; \
-	  for DOC in en/overview/* en/quickstart/* en/standards/* ; do \
+	  mkdir -p $$LANG/overview $$LANG/quickstart  ; \
+	  for DOC in en/overview/* en/quickstart/* ; do \
 	    TRANSLATED_DOC=`echo $$DOC | sed -e"s/en/$$LANG/"` ; \
 	    TARGET_EN=`echo $$DOC | sed -e"s#^#../../#"` ; \
 	    if [ ! -f $$TRANSLATED_DOC ] ; then \
@@ -96,7 +96,6 @@ fix_header_links: sphinxbuild
 	    disclaimer.html \
 	    copyright.html \
 	    overview/overview.html \
-	    standards/standards.html \
 	  ; do \
 	    sed -e "s#\(\.\./\)\($$ITEM\)#\2#" $$FILE > $(TMP) ; mv $(TMP) $$FILE ; \
 	  done; \
@@ -107,7 +106,7 @@ index2: sphinxbuild
 	#   quickstart.html,
 	#   overview.html,
 	#   standards.html
-	for ITEM in quickstart overview standards ; do \
+	for ITEM in quickstart overview ; do \
 	  for LANG in $(LANGUAGES) ; do \
 	    if [ -e $(BUILDDIR)/html/$$LANG/$$ITEM/$$ITEM.html ] ; then \
 	      cd $(BUILDDIR)/html/$$LANG/$$ITEM ; \
@@ -208,7 +207,7 @@ link_to_en_docs_pdf:
 	# For quickstart, standards and overview docs which have not been
 	# translated, link to english doc
 	for LANG in $(PDF_LANG) ; do \
-	  for DOC in en/overview/* en/quickstart/* en/standards/* ; do \
+	  for DOC in en/overview/* en/quickstart/*  ; do \
 	    TRANSLATED_DOC=`echo $$DOC | sed -e"s/en/$$LANG/"` ; \
 	    TARGET_EN=`echo $$DOC | sed -e"s#^#../../#"` ; \
 	    if [ ! -f $$TRANSLATED_DOC ] ; then \

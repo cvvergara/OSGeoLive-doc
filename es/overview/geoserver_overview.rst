@@ -84,22 +84,22 @@ Características clave
 	para la generación de imágenes. GeoWebCache se ha integrado dentro de GeoServer.
 
 **Web Processing Service (WPS)**
-  Se pueden ejecutar Algoritmos Geoespaticiales, incluyendo los de  :doc:`JTS <jts_overview>`, a travçes de la interfaz :doc:`WPS <../standards/wps_overview>` de Geoserver. Se pueden encadenar procesos y usar transformaciones de renderizado para crear potentes visualizaciones a través de la interfaz WMS.
+  Se pueden ejecutar Algoritmos Geoespaticiales, incluyendo los de  |wps_standards| de Geoserver. Se pueden encadenar procesos y usar transformaciones de renderizado para crear potentes visualizaciones a través de la interfaz WMS.
 
 Standares Implementados
 --------------------------------------------------------------------------------
 
 * Soporta numerosos estándares OGC (Open Geospatial Consortium ):
 
-  * :doc:`../standards/wms_overview`
+  * |wms_standards|
   * Web Map Tile Service (WMTS)
-  * :doc:`../standards/wfs_overview`, WFS-T (transaccional)
-  * :doc:`../standards/wcs_overview`
-  * :doc:`../standards/wps_overview`
-  * :doc:`../standards/fe_overview`
-  * :doc:`../standards/sld_overview`
-  * :doc:`../standards/gml_overview`
-  * :doc:`../standards/kml_overview`
+  * |wfs_standards|, WFS-T (transaccional)
+  * |wcs_standards|
+  * |wps_standards|
+  * |fe_standards|
+  * |sld_standards|
+  * |gml_standards|
+  * |kml_standards|
 
 Detalles
 --------------------------------------------------------------------------------

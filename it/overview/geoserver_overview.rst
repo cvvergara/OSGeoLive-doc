@@ -31,9 +31,9 @@ per visualizzare le mappe esattamente come si desidera.
 
 GeoServer e` l'implementazione di riferimento degli standard
 `Open Geospatial Consortium <http://www.opengeospatial.org>`_ (OGC)
-:doc:`../standards/wfs_overview` e
-:doc:`../standards/wcs_overview`, nonche` conforme
-:doc:`../standards/wms_overview` certificato con alte prestazioni.
+|wfs_standards| e
+|wcs_standards|, nonche` conforme
+|wms_standards| certificato con alte prestazioni.
 GeoServer costituisce una componente di base del Geospatial Web.
 
 .. image:: /images/screenshots/800x600/geoserver.png
@@ -69,22 +69,22 @@ Caratteristiche di base
     `GeoWebCache <http://geowebcache.org/>`_, che è integrato in GeoServer, crea tiles e caches di immagini di mappe da diverse sorgenti come un WMS. Implementa varie interfacce ai servizi (come WMS-C, WMTS, TMS, Google Maps KML, Virtual Earth) al fine di accellerare e ottimizzare la fornitura di immagini. Può anche ricombinare tiles per lavorare con client WMS standard
     
 **Web Processing Service (WPS)** 
-    Algoritmi geospaziali, inclusi quelli di :doc:`JTS <jts_overview>`, possono essere richiamati tramite l'interfaccia :doc:`WPS <../standards/wps_overview>` di GeoServer. Questo include il concatenamento di processi, e utilizza le trasformazioni di rappresentazioni di mappe per creare potetenti visualizzazioni attraverso l'interfaccia WMS
+    Algoritmi geospaziali, inclusi quelli di |wps_standards| di GeoServer. Questo include il concatenamento di processi, e utilizza le trasformazioni di rappresentazioni di mappe per creare potetenti visualizzazioni attraverso l'interfaccia WMS
 
 Standard implementati
 --------------------------------------------------------------------------------
 
 Supporto di numerosi standard Open Geospatial Consortium  (OGC):
 
-  * :doc:`../standards/wms_overview`
+  * |wms_standards|
   * Web Map Tile Service (WMTS)
-  * :doc:`../standards/wfs_overview`, WFS-T (transactional)
-  * :doc:`../standards/wcs_overview`
-  * :doc:`../standards/wps_overview`
-  * :doc:`../standards/fe_overview`
-  * :doc:`../standards/sld_overview` 
-  * :doc:`../standards/gml_overview`
-  * :doc:`../standards/kml_overview`
+  * |wfs_standards|, WFS-T (transactional)
+  * |wcs_standards|
+  * |wps_standards|
+  * |fe_standards|
+  * |sld_standards| 
+  * |gml_standards|
+  * |kml_standards|
 
 Dettagli
 --------------------------------------------------------------------------------

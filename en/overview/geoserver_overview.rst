@@ -61,22 +61,22 @@ Core Features
     `GeoWebCache <http://geowebcache.org/>`_, which is integrated into GeoServer, tiles and caches map images from a variety of sources such as WMS. It implements various service interfaces (such as WMS-C, WMTS, TMS, Google Maps KML, Virtual Earth) in order to accelerate and optimize map image delivery. It can also recombine tiles to work with regular WMS clients.
 
 **Web Processing Service (WPS)**
-    Geospatial algorithms, including those from :doc:`JTS <jts_overview>`, can be called through GeoServer's :doc:`WPS <../standards/wps_overview>` interface. This includes the chaining of processes, and using rendering transformations to create powerful visualisations through the WMS interface.
+    Geospatial algorithms, including those from |wps_standards| interface. This includes the chaining of processes, and using rendering transformations to create powerful visualisations through the WMS interface.
 
 Implemented Standards
 --------------------------------------------------------------------------------
 
 Support of numerous Open Geospatial Consortium  (OGC) standards:
 
-  * :doc:`../standards/wms_overview`
+  * |wms_standards|
   * Web Map Tile Service (WMTS)
-  * :doc:`../standards/wfs_overview`, WFS-T (transactional)
-  * :doc:`../standards/wcs_overview`
-  * :doc:`../standards/wps_overview`
-  * :doc:`../standards/fe_overview`
-  * :doc:`../standards/sld_overview`
-  * :doc:`../standards/gml_overview`
-  * :doc:`../standards/kml_overview`
+  * |wfs_standards|, WFS-T (transactional)
+  * |wcs_standards|
+  * |wps_standards|
+  * |fe_standards|
+  * |sld_standards|
+  * |gml_standards|
+  * |kml_standards|
 
 Details
 --------------------------------------------------------------------------------

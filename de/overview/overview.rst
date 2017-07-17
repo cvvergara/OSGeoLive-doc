@@ -194,7 +194,7 @@ Nur unter Microsoft Windows verfügbar:
 Auf früheren OSGeo-Live Releases verfügbar:
 
 
-|nologo| :doc:`OGC Standard descriptions <../standards/standards>` - nach OSGeo-Live 10.5 eingestellt
+|nologo| |OGC_standards| - nach OSGeo-Live 10.5 eingestellt
 
 
 

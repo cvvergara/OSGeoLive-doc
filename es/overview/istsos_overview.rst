@@ -22,7 +22,7 @@ istSOS
 Herramienta de Gestión de Datos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-istSOS es una herramienta de gestión de datos de sensores que permite el almacenamiento, mantenimiento y publicación de datos de observaciones de monitoreo usando el estandar del  Open Geospatial Consortium (OGC) :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>`.
+istSOS es una herramienta de gestión de datos de sensores que permite el almacenamiento, mantenimiento y publicación de datos de observaciones de monitoreo usando el estandar del  Open Geospatial Consortium (OGC) |sos_standards|.
 
 .. image:: /images/screenshots/1024x768/screenshot_istsos.png
   :scale: 60 %

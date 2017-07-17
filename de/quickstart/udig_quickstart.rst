@@ -61,7 +61,7 @@ uDig (User Friendly Internet Desktop GIS) ist ein Desktop GIS-Client zum Anzeige
 
 Mit dem Quickstart Guide soll folgendes erreicht werden:
 
-  * Hinzufügen von Vektordaten als Layer zur Karte von einer Shapedatei und von einem :doc:`Web Map Service (WMS) <../standards/wms_overview>` Server
+  * Hinzufügen von Vektordaten als Layer zur Karte von einer Shapedatei und von einem |wms_standards| Server
   * Verwenden der Standardwerkzeuge zum Navigieren in der Karte
   * Anpassen der Farbe für die Darstellung von Objekten (Style)
 
@@ -278,7 +278,7 @@ Stile
 
 #. Sobald Sie mit dem Stil zufrieden sind, können Sie das :guilabel:`Close` bestätigen, um den Dialog zu verlassen
 
-.. note:: Zu einigen Dateien werden bereits Stile mitgeliefert. Dabei gibt es unter gleichen Dateinamen eine :file:`*.sld` Datei, deren Inhalt XML basiert die Stilbeschreibung - :doc:`Styled Layer Description (SLD) <../standards/sld_overview>` - enthält. Ist eine solche Datei vorhanden, so wird der Stil automatisch auf die importierten Daten angewendet.
+.. note:: Zu einigen Dateien werden bereits Stile mitgeliefert. Dabei gibt es unter gleichen Dateinamen eine :file:`*.sld` Datei, deren Inhalt XML basiert die Stilbeschreibung - |sld_standards| - enthält. Ist eine solche Datei vorhanden, so wird der Stil automatisch auf die importierten Daten angewendet.
 
 Mitunter ist es schwierig aufgrund der Stile der verschiedenen Layer das wesentliche auf der Karte zu erkennen. Es gibt die Möglichkeit über :menuselection:`Map --> Mylar` vom Applikationsmenü auf den in der **Layers** Ansicht ausgewählten zu fokussieren. Damit werden alle anderen Layer leicht transparent dargestellt. Klicken Sie in der **Layers** Ansicht auf unterschiedliche Layer, damit Sie eine Idee davon bekommen, wie dieser Effekt wirkt. Sie können diesen Effekt über :menuselection:`Map --> Mylar` wieder deaktivieren.
 
@@ -290,7 +290,7 @@ Was kann man noch probieren?
 
 Weitere Herausforderungen, die Sie meistern können:
 
-#. Versuchen Sie, Ihre eigenen Kartenlayer oder Layer von einem :doc:`Web Feature Service (WFS) <../standards/wfs_overview>` einer Karte hinzuzufügen.
+#. Versuchen Sie, Ihre eigenen Kartenlayer oder Layer von einem |wfs_standards| einer Karte hinzuzufügen.
 #. Ändern Sie den Stil einen WFS Layers.
 
 Wie geht es weiter?

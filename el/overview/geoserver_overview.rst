@@ -58,22 +58,22 @@ GeoServer
     Ο `GeoWebCache <http://geowebcache.org/>`_ ο οποίος είναι ενσωματωμένος στον GeoServer, κόβει και αποθηκεύει τετραγωνίδια από πηγές (όπως τα WMS, WMS-C, WMTS, TMS, Google Maps KML, Virtual Earth) με στόχο να επιταχύνει και να βελτιστοποιήσει την διανομή των χαρτών μέσω διαδικτύου. Επιπλέον μπορεί να συνδιάσει τετραγωνίδια από διαφορετικές πηγές σε ενιαίους χάρτες.
 
 **Υπηρεσία διαδικτυακής επεξεργασίας (WPS)**
-    Γεωχωρικοί αλγόριθμοι, περιλαμβανομένων αυτών του :doc:`JTS <jts_overview>`, μπορούν να εκτελεστούν μέσω της υπηρεσίας :doc:`WPS <../standards/wps_overview>` του GeoServer. Αυτό περιλαμβάνει την αλυσιδωτή εκτέλεση των επεξεργασιών και στη συνέχεια την οπτικοποίηση μέσω της υπηρεσίας WMS.
+    Γεωχωρικοί αλγόριθμοι, περιλαμβανομένων αυτών του |wps_standards| του GeoServer. Αυτό περιλαμβάνει την αλυσιδωτή εκτέλεση των επεξεργασιών και στη συνέχεια την οπτικοποίηση μέσω της υπηρεσίας WMS.
 
 Υλοποιημένα Πρότυπα
 --------------------------------------------------------------------------------
 
 * Υποστήριξη μεγάλου αριθμού προτύπων του Open Geospatial Consortium  (OGC):
 
-  * :doc:`../standards/wms_overview`
+  * |wms_standards|
   * Web Map Tile Service (WMTS)
-  * :doc:`../standards/wfs_overview`, WFS-T (transactional)
-  * :doc:`../standards/wcs_overview`
-  * :doc:`../standards/wps_overview`
-  * :doc:`../standards/fe_overview`
-  * :doc:`../standards/sld_overview` 
-  * :doc:`../standards/gml_overview`
-  * :doc:`../standards/kml_overview`
+  * |wfs_standards|, WFS-T (transactional)
+  * |wcs_standards|
+  * |wps_standards|
+  * |fe_standards|
+  * |sld_standards| 
+  * |gml_standards|
+  * |kml_standards|
 
 Λεπτομέρειες
 --------------------------------------------------------------------------------

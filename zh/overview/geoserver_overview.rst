@@ -24,10 +24,10 @@ Web 服务
 　　GeoServer是一个Web服务器，支持将地图和各种格式的数据通过Web服务提供给标准客户端程序，如Web浏览器和桌面版GIS程序。这意味着空间数据可以任何 `格式 <http://docs.geoserver.org/stable/en/user/data/index.html>`_ 存储，而最终用户无需了解GIS数据细节。最简单的情形是，只需一个 Web 浏览器，最终用户即可查看开发者所定制的地图。
 
 　　GeoServer是 `Open Geospatial Consortium <http://www.opengeospatial.org>`_ (OGC)标准规范的参考实施平台，
-:doc:`../standards/wfs_overview` 和 
-:doc:`../standards/wcs_overview` 标准, 
+|wfs_standards| 和 
+|wcs_standards| 标准, 
 还有高性能的、兼容性得到充分验证的 
-:doc:`../standards/wms_overview` 。
+|wms_standards| 。
 GeoServer已成了Geospatial Web的一个核心组件。 
 
 .. image:: /images/screenshots/800x600/geoserver.png
@@ -67,12 +67,12 @@ GeoServer已成了Geospatial Web的一个核心组件。
 
 支持众多的 Open Geospatial Consortium (OGC) 标准规范:
 
-  * :doc:`../standards/wms_overview`
-  * :doc:`../standards/wfs_overview`, WFS-T（事务处理）
-  * :doc:`../standards/wcs_overview`
-  * :doc:`../standards/fe_overview`
-  * :doc:`../standards/sld_overview` 
-  * :doc:`../standards/gml_overview`
+  * |wms_standards|
+  * |wfs_standards|, WFS-T（事务处理）
+  * |wcs_standards|
+  * |fe_standards|
+  * |sld_standards| 
+  * |gml_standards|
 
 详情请见
 --------------------------------------------------------------------------------

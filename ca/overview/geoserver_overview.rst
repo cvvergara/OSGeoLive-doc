@@ -26,9 +26,9 @@ GeoServer és un servidor web que permet servir mapes i dades de diversos format
 
 GeoServer és la implementació de referència dels estàndards de l'`Open Geospatial 
 Consortium <http://www.opengeospatial.org>`_ (OGC) 
-:doc:`../standards/wfs_overview` i 
-:doc:`../standards/wcs_overview`, 
-així com un :doc:`../standards/wms_overview` certificat d'alt rendiment. 
+|wfs_standards| i 
+|wcs_standards|, 
+així com un |wms_standards| certificat d'alt rendiment. 
 GeoServer és un component clau de la Web Geoespacial. 
 
 .. image:: /images/screenshots/800x600/geoserver.png
@@ -68,7 +68,7 @@ Característiques principals
 	
 **Web Processing Service (WPS)** 
 	Algorismes geoespacials, incloent els :doc:`JTS <jts_overview>`, 
-	que es poden cridar a traves de la interface de :doc:`WPS <../standards/wps_overview>` de Geoserver.
+	que es poden cridar a traves de la interface de |wps_standards| de Geoserver.
 	Inclou l'encadenament de processos, així com l'ús de transformacions de renderitzat per tal de crear
 	visualitzacions de mapes a través de WMS.
 	
@@ -77,14 +77,14 @@ Estàndards implementats
 
 Suporta nombrosos estàndards de l'Open Geospatial Consortium  (OGC):
 
-  * :doc:`../standards/wms_overview`
+  * |wms_standards|
   * Web Map Tile Service (WMTS)
-  * :doc:`../standards/wfs_overview`, WFS-T (transaccional)
-  * :doc:`../standards/wcs_overview`
-  * :doc:`../standards/wps_overview`
-  * :doc:`../standards/fe_overview`
-  * :doc:`../standards/sld_overview` 
-  * :doc:`../standards/gml_overview`
+  * |wfs_standards|, WFS-T (transaccional)
+  * |wcs_standards|
+  * |wps_standards|
+  * |fe_standards|
+  * |sld_standards| 
+  * |gml_standards|
 
 Detalls
 --------------------------------------------------------------------------------

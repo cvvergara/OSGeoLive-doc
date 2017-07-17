@@ -19,7 +19,7 @@
 Service Web
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>` de 52°North supporte 
+The |sos_standards| de 52°North supporte 
 la lecture en directe et la capture de données compressées depuis des capteurs in-situ et distants. 
 Un capteur peut aussi bien être une caméra sur un satellite qu'une échelle pour mesurer le niveau d'eau 
 dans un courant, une station météo ou de mesure de la qualité de l'air.
@@ -103,9 +103,9 @@ Pour ces requêtes, les opérateurs de filtrage suivants sont possibles:
 Standards associés
 --------------------------------------------------------------------------------
 
-* :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>`
-* :doc:`Geography Markup Language (GML) <../standards/gml_overview>`
-* :doc:`Sensor Model Language (SensorML) <../standards/sensorml_overview>`
+* |sos_standards|
+* |gml_standards|
+* |sensorml_standards|
 
 Détails
 --------------------------------------------------------------------------------

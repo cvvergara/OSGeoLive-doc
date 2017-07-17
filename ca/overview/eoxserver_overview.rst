@@ -70,10 +70,10 @@ Aquestes són les característiques principals:
 Estàndards Implementats
 --------------------------------------------------------------------------------
 
-* Suport per a un gran número d'estàndards de :doc:`Open Geospatial Consortium  (OGC) <../standards/standards>`:
+* Suport per a un gran número d'estàndards de |OGC_standards|:
 
-  * :doc:`Web Coverage Service (WCS) <../standards/wcs_overview>` 1.0, 1.1 i 2.0, EO-WCS
-  * :doc:`Web Map Service (WMS)  <../standards/wms_overview>`, EO-WMS
+  * |wcs_standards| 1.0, 1.1 i 2.0, EO-WCS
+  * |wms_standards|, EO-WMS
   * GML, GMLCOV, EO-O&M
 
 Demo

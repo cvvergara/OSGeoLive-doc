@@ -25,7 +25,7 @@ pycsw bietet die Möglichkeit über auf Standards basierende Werkzeuge einen Kat
 
 Metadaten sind 'Daten über Daten' - beispielsweise das Erstellungsdatum, Autor, Titel, Bereich. Sie werden in der Regel als XML-Dateien vorgehalten und folgen internationalen Standards wie ISO 19115, ISO 19139 und FGDC CSDGM.
 
-pycsw ist eine `Python`_ Implementierung des :doc:`OGC Catalogue Services for the Web (CSW) Standards<../standards/csw_overview>`. Der CSW Standard definiert einfache Anwendungen zum Anzeigen, Durchsuchen und Abfragen von Metadata über räumliche Daten, Web Services und einigen anderen Datenquellen, wie Textdokumente, Spreadsheets und Audiodateien.
+pycsw ist eine `Python`_ Implementierung des |csw_standards|. Der CSW Standard definiert einfache Anwendungen zum Anzeigen, Durchsuchen und Abfragen von Metadata über räumliche Daten, Web Services und einigen anderen Datenquellen, wie Textdokumente, Spreadsheets und Audiodateien.
  
 pycsw ist Open Source Software und wurde unter der MIT Lizenz veröffentlicht. pycsw ist auf allen gängigen Plattformen (Windows, Linux, Mac OS X) lauffähig.
 

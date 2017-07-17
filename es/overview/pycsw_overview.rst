@@ -35,8 +35,7 @@ creación, autor, título, área de interés, etc., y está normalmente codifica
 como ficheros XML, siguiendo estándares internacionales como ISO 19115, ISO
 19139 y FGDC CSDGM.
 
-pycsw una implementación en `python`_ del :doc:`Estándar de servicio de
-catálogos web (CSW) de OGC <../standards/csw_overview>`. El proyecto está
+pycsw una implementación en `python`_ del |csw_standards|. El proyecto está
 certificado como que `cumple con los estándares OGC`_, y es una `referencia de
 implementación OGC`_. El estándar CSW define interfaces comunes para encontrar,
 explorar y consultar metadatos sobre datos espaciales, servicios web y recursos

@@ -26,7 +26,7 @@ pycsw consente agli utenti di pubblicare un catalogo delle descrizioni dei set d
 
 Il metadato e` un 'dato sul dato', memorizzando cose quali la data di creazione, l'autore, il titolo, l'area d'interesse, ecc, e di solito è codificato come file XML, secondo gli standard internazionali quali ISO 19115, ISO 19139 e FGDC CSDGM.
 
-pycsw è un'implementazione in `Python`_ del: doc: :doc:`OGC Catalogue Services for the Web (CSW) standard<../standards/csw_overview>`. Il progetto è certificato come `OGC Compliant`_, ed è un `OGC Reference Implementation`_. Lo standard CSW definisce interfacce comuni per scoprire, esplorare e interrogare i metadati sui dati territoriali, servizi web e le relative risorse.
+pycsw è un'implementazione in `Python`_ del: doc: |csw_standards|. Il progetto è certificato come `OGC Compliant`_, ed è un `OGC Reference Implementation`_. Lo standard CSW definisce interfacce comuni per scoprire, esplorare e interrogare i metadati sui dati territoriali, servizi web e le relative risorse.
 
 pycsw e` Open Source, rilasciato con una licenza MIT, e funziona su tutte le principali piattaforme (Windows, Linux, Mac OS X).
 

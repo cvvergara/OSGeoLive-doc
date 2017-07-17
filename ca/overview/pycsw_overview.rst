@@ -26,7 +26,7 @@ pycsw permet als usuaris publicar a la web un catàleg de descripcions de conjun
 
 Les metadades són "dades sobre les dades", i emmagatzemen coses com ara la data de creació, autor, títol, àrea d'interès, etc, i normalment es codifiquen com a fitxers XML, seguint els estàndards internacionals com ISO 19115, ISO 19139 i FGDC CSDGM.
 
-pycsw és una implementació en `Python`_  de :doc:`OGC Catalogue Services for the Web (CSW) standard<../standards/csw_overview>`. 
+pycsw és una implementació en `Python`_  de |csw_standards|. 
 El projecte està certificat com a `OGC Compliant`_, i és una `OGC Reference Implementation`_. L'estàndard CSW defineix interfícies comunes per descobrir, navegar i interrogar metadades de dades espacials, serveis web i recursos relacionats.
 
 pycsw és codi obert, amb una llicència MIT, i es pot executar a la majoria de sistemes operatius (Windows, Linux, Mac OS X).

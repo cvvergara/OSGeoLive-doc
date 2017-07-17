@@ -61,7 +61,7 @@ uDig 快速入门
 
 　　本文演示：
 
-  * 从 shp 文件和 :doc:`Web Map Service (WMS) <../standards/wms_overview>` 导入数据
+  * 从 shp 文件和 |wms_standards| 导入数据
   * 基本工具操作
   * 配置要素样式的颜色
 
@@ -278,7 +278,7 @@ Map
 
 #. 点击 :guilabel:`Close` 关闭。
 
-.. note:: 有些文件可以存储样式信息，例如 :file:`*.sld` 。其主文件名同相应的数据文件应相同。这样的 :doc:`Styled Layer Description (SLD) <../standards/sld_overview>` 样式文件存在时会被自动应用。
+.. note:: 有些文件可以存储样式信息，例如 :file:`*.sld` 。其主文件名同相应的数据文件应相同。这样的 |sld_standards| 样式文件存在时会被自动应用。
 
 　　若图层较多，编辑样式时可能难以看清效果。点击 :menuselection:`Map --> Mylar` 并在 *Layer* 试图关闭一些图层可能有助于编辑。再次选取 :menuselection:`Map --> Mylar` 可以关闭这一效果。
   
@@ -300,7 +300,7 @@ Map
 
 　　您可以继续尝试其它操作：
 
-#. 添加您自己的数据或 :doc:`Web Feature Service <../standards/wfs_overview>` 服务。
+#. 添加您自己的数据或 |wfs_standards| 服务。
 #. 更改 WFS 样式。
 
 其它信息

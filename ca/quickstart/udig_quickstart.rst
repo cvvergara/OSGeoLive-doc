@@ -47,7 +47,7 @@ uDig (User Friendly Internet Desktop GIS), és un client d'escriptori GIS per a 
 
 Aquesta Guia d'Inici Ràpid descriu com:
   
-  * llegir dades procedents d'un shapefile i des d'un :doc:`Web Map Service (WMS) <../standards/wms_overview>`
+  * llegir dades procedents d'un shapefile i des d'un |wms_standards|
   * usar eines estàndard per confeccionar mapes
   * aplicar color als diferents elements d'un mapa fent ús dels estils
 
@@ -254,7 +254,7 @@ Estils
 
    La definició de l'estil es pot trobar en els arxius amb l'extensió :file:`*.sld`. 
    El nom de l'arxiu d'estil ha de ser igual al que conté les dades.
-   Si existeix l'arxiu :doc:`Styled Layer Description (SLD) <../standards/sld_overview>`, l'estil s'aplicarà automàticament.
+   Si existeix l'arxiu |sld_standards|, l'estil s'aplicarà automàticament.
 
 De vegades és una mica difícil veure el que està passant en la capa que descriu aquests detalls. 
 Podeu focalitzar la vostra tasca en l'aspecte que més us interessi seleccionant :menuselection:`Map --> Mylar` des de la barra de menú.
@@ -269,7 +269,7 @@ Coses per provar
 
 A continuació teniu algunes propostes addicionals perquè intenteu fer pel vostre compte:
 
-#. Intenteu visualitzar les vostres dades GIS, o bé proveu d'afegir capes des d'un servei :doc:`Web Feature Service (WFS) <../standards/wfs_overview>` 
+#. Intenteu visualitzar les vostres dades GIS, o bé proveu d'afegir capes des d'un servei |wfs_standards| 
 #. Intenteu aplicar estils a una capa WFS.
 
 I ara què?

@@ -8,7 +8,7 @@ Witaj w |osgeo-live-version|
      :maxdepth: 1
      :glob:
 
-     standards/standards
+     
      download
      contact
      copyright
@@ -67,7 +67,7 @@ Dla wielu aplikacji znajdziesz pakiety instalacyjne dla
      :glob:
 
      overview/overview
-     standards/standards
+     
      contact
      copyright
      disclaimer

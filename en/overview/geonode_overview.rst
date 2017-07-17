@@ -66,13 +66,13 @@ Core Features
 Implemented Standards
 --------------------------------------------------------------------------------
 
-  * :doc:`../standards/wms_overview`
-  * :doc:`../standards/csw_overview`
-  * :doc:`../standards/wfs_overview`
-  * :doc:`../standards/wcs_overview`
-  * :doc:`../standards/fe_overview`
-  * :doc:`../standards/sld_overview` 
-  * :doc:`../standards/gml_overview`
+  * |wms_standards|
+  * |csw_standards|
+  * |wfs_standards|
+  * |wcs_standards|
+  * |fe_standards|
+  * |sld_standards| 
+  * |gml_standards|
 
 Details
 --------------------------------------------------------------------------------

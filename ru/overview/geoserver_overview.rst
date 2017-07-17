@@ -29,8 +29,8 @@ GeoServer представляет собой веб-сервер, обеспе�
 что им нужно, чтобы увидеть ваши карты в точности такими, как вы хотите, —
 это веб-браузер.
 
-GeoServer — это эталонная реализация стандартов `Open Geospatial Consortium <http://www.opengeospatial.org>`_ (OGC) :doc:`../standards/wfs_overview` и :doc:`../standards/wcs_overview`,
-а также высокопроизводительная сертифицированная реализация :doc:`../standards/wms_overview`. GeoServer является основным
+GeoServer — это эталонная реализация стандартов `Open Geospatial Consortium <http://www.opengeospatial.org>`_ (OGC) |wfs_standards| и |wcs_standards|,
+а также высокопроизводительная сертифицированная реализация |wms_standards|. GeoServer является основным
 компонентом Geospatial Web.
 
 .. image:: /images/screenshots/800x600/geoserver.png
@@ -79,12 +79,12 @@ GeoServer — это эталонная реализация стандарто�
 
 Поддержка многочисленных стандартов Open Geospatial Consortium (OGC):
 
-  * :doc:`../standards/wms_overview`
-  * :doc:`../standards/wfs_overview`, WFS-T (transactional)
-  * :doc:`../standards/wcs_overview`
-  * :doc:`../standards/fe_overview`
-  * :doc:`../standards/sld_overview` 
-  * :doc:`../standards/gml_overview`
+  * |wms_standards|
+  * |wfs_standards|, WFS-T (transactional)
+  * |wcs_standards|
+  * |fe_standards|
+  * |sld_standards| 
+  * |gml_standards|
 
 Подробности
 --------------------------------------------------------------------------------

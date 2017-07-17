@@ -10,7 +10,7 @@ Benvenuti in |osgeo-live-version|
      :maxdepth: 1
      :glob:
 
-     standards/standards
+     
      download
      contact
      copyright
@@ -62,7 +62,7 @@ Molte applicazioni sono anche provviste dell'installer per `Apple OSX <../MacIns
      :glob:
 
      overview/overview
-     standards/standards
+     
      contact
      copyright
      disclaimer

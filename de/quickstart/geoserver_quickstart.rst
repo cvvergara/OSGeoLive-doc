@@ -137,7 +137,7 @@ Seite eine neue Ressource mit :guilabel:`Add a new resource` hinzuzufügen. Auf 
 
 Anpassen der Stile
 --------------------------------------------------------------------------------
-Um den Stil eines Kartenlayers anzupassen, wird im |GS| der OGC Standard :doc:`Styled Layer Description (SLD) <../standards/sld_overview>` verwendet. Stile werden über Regeln (*Rules*) in XML definiert und steuern somit die Repräsentation der Daten über verschiedene Ausgestaltungen (*Symbolizers*).
+Um den Stil eines Kartenlayers anzupassen, wird im |GS| der OGC Standard |sld_standards| verwendet. Stile werden über Regeln (*Rules*) in XML definiert und steuern somit die Repräsentation der Daten über verschiedene Ausgestaltungen (*Symbolizers*).
 
 Sie können eine SLD Datei mit einem einfachen Texteditor erzeugen, es ist jedoch empfehlenswert, einen Grafischen Editor zu nutzen. Es gibt hierfür viele Möglichkeiten, an dieser Stelle wird auf |UG| eingegangen, weil hier direkt Shapefiles per Drag&Drop eingebunden werden können und eine Oberfläche bereitgestellt wird, die es dem Anwender erlaubt auch XML direkt eingeben zu können.
 
@@ -262,7 +262,7 @@ Seite und prüfen Sie, ob dieser gut aussieht.
 Clients für WMS Layer
 ================================================================================
 
-Eine große Anzahl von Clients unterstützt den :doc:`WMS Standard <../standards/wms_overview>` 
+Eine große Anzahl von Clients unterstützt den |wms_standards| 
 und kann die vom |GS| veröffentlichen Daten verarbeiten.
 Hier eine kleine Auswahl:
 

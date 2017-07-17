@@ -8,7 +8,7 @@
      :maxdepth: 1
      :glob:
 
-     standards/standards
+     
      download
      contact
      copyright
@@ -61,7 +61,7 @@
 
      overview/overview
      quickstart/*quickstart
-     standards/standards
+     
      contact
      copyright
      disclaimer

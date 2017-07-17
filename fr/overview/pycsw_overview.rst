@@ -25,7 +25,7 @@ pycsw permet aux utilisateurs de publier un catalogue de descriptions de jeux de
 
 La métadonnée est la 'donnée sur la donnée', stockant des choses comme la date de création, l'auteur, le titre, la zone d'intérêt, etc, et est habituellement encodée dans des fichiers XML, en suivant les standards internationaux tels que ISO 19115, ISO 19139 et FGDC CSDGM.
 
-pycsw est une implémentation en `Python`_  du :doc:` standard OGC Catalogue Services for the Web (CSW) <../standards/csw_overview>`. Le standard CSW définit les interfaces communes pour découvrir, naviguer et interroger des métadonnées à propos des données spatiales, des services web et des ressources associées.
+pycsw est une implémentation en `Python`_  du |csw_standards|. Le standard CSW définit les interfaces communes pour découvrir, naviguer et interroger des métadonnées à propos des données spatiales, des services web et des ressources associées.
 
 pycsw est Open Source, mis à disposition sous licence MIT, et fonctionne sur toutes les plates-formes majeurs (Windows, Linux, Mac OS X).
 

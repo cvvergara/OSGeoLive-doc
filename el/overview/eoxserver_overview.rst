@@ -38,10 +38,10 @@ EOxServer
 * Θέαση, επιλογή, κόψιμο και μεταφόρτωση τηλεπισκοπικών δεδομένων
 * Καταγραφή τηλεπισκοπικών δεδομένων αρχείου
 * Διαχειριστική διαδικτυακή εφαρμογή
-* Δημοσίευση δεδομένων μέσω :doc:`προτύπων του Open Geospatial Consortium (OGC) <../standards/standards>`:
+* Δημοσίευση δεδομένων μέσω |OGC_standards|:
 
-  * :doc:`Web Coverage Service (WCS) <../standards/wcs_overview>`_ 1.0, 1.1, 2.0 και προτεινόμενου EO-WCS
-  * :doc:`Web Map Service (WMS) <../standards/wms_overview>`_ και EO-WMS
+  * |wcs_standards| 1.0, 1.1, 2.0 και προτεινόμενου EO-WCS
+  * |wms_standards| και EO-WMS
   * Προτεινόμενες επεκτάσεις του WCS περιλαμβάνουν: κωδικοποίηση GeoTIFF, προεπιλεγμενες 
     χαρτογραφικές προβολές (CRSs), μετατροπή κλίμακας και δειγματοληψία.
   * Τα προτόκολα που υποστηρίζονται είναι: KVP και XML/POST (σε συνεργασία με SOAP2POST

@@ -15,7 +15,7 @@
 Web Service
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-52°North :doc:`Web Processing Service (WPS) <../standards/wps_overview>` permette
+52°North |wps_standards| permette
 l'accesso attraverso il web ad algoritmi di elaborazioni geospaziali forniti da
 Sextante, ArcGIS Server, R, GRASS 7, o funzioni personalizzate. Gli algoriti possono
 essere semplici come determinare la differenza in casi di influenza tra due diverse 

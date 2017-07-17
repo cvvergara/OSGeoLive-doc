@@ -52,7 +52,7 @@ Guides de démarrage rapide
 
    overview/overview
    quickstart/*quickstart
-   standards/standards
+   
    contact
    copyright
    disclaimer
