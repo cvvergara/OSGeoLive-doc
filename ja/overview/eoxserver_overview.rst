@@ -55,8 +55,7 @@ Python, :doc:`MapServer <mapserver_overview>`, Django/GeoDjango, :doc:`GDAL
 * View, filter, subset, and download EO data
 * Register EO data archives
 * Web based and command line administration interface
-* Publish data via :doc:`Open Geospatial Consortium (OGC) standards
-  <../standards/standards>`:
+* Publish data via |OGC_standards|:
 
   * |wcs_standards| 1.0, 1.1 and
     2.0 & proposed EO-WCS

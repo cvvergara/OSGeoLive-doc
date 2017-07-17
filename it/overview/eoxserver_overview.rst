@@ -40,8 +40,7 @@ Caratteristiche principali
 * Visualizzazione, filtro, subset e scaricamento EO data
 * Registrazione di set di dati EO
 * Interfaccia di amministrazione sul web e da linea di comando
-* Pubblicazione dei dati attraverso standard :doc:`Open Geospatial Consortium (OGC) 
-  <../standards/standards>`:
+* Pubblicazione dei dati attraverso standard |OGC_standards|:
 
   * |wcs_standards| 1.0, 1.1 e 2.0
     e il proposto EO-WCS

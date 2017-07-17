@@ -40,8 +40,7 @@ Główne funkcje
 * Przeglądanie, filtrowanie, wybieranie i pobieranie danych EO
 * Rejestracja archiwów danych EO
 * Web based and command line administration interface
-* Publikowanie danych z wykorzystaniem standardów :doc:`Open Geospatial Consortium (OGC)  
-  <../standards/standards>`:
+* Publikowanie danych z wykorzystaniem standardów |OGC_standards|:
 
   * |wcs_standards| 1.0, 1.1 and 
     2.0 & proposed EO-WCS
