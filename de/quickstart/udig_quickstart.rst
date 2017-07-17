@@ -290,7 +290,7 @@ Was kann man noch probieren?
 
 Weitere Herausforderungen, die Sie meistern können:
 
-#. Versuchen Sie, Ihre eigenen Kartenlayer oder Layer von einem :doc:`Web Feature Service (WFS) <../standards/wfs_overview>` einer Karte hinzuzufügen.
+#. Versuchen Sie, Ihre eigenen Kartenlayer oder Layer von einem |wfs_standards| einer Karte hinzuzufügen.
 #. Ändern Sie den Stil einen WFS Layers.
 
 Wie geht es weiter?

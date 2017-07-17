@@ -322,7 +322,7 @@ Things to Try
 
 Here are some additional challenges for you to try:
 
-#. Try viewing your own GIS map layers, or try adding a layer from a :doc:`Web Feature Service (WFS) <../standards/wfs_overview>` 
+#. Try viewing your own GIS map layers, or try adding a layer from a |wfs_standards| 
 #. Try styling the WFS layer.
 
 What Next?

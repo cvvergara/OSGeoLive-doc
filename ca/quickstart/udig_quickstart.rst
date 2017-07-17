@@ -269,7 +269,7 @@ Coses per provar
 
 A continuació teniu algunes propostes addicionals perquè intenteu fer pel vostre compte:
 
-#. Intenteu visualitzar les vostres dades GIS, o bé proveu d'afegir capes des d'un servei :doc:`Web Feature Service (WFS) <../standards/wfs_overview>` 
+#. Intenteu visualitzar les vostres dades GIS, o bé proveu d'afegir capes des d'un servei |wfs_standards| 
 #. Intenteu aplicar estils a una capa WFS.
 
 I ara què?

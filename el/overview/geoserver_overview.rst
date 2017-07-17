@@ -67,7 +67,7 @@ GeoServer
 
   * :doc:`../standards/wms_overview`
   * Web Map Tile Service (WMTS)
-  * :doc:`../standards/wfs_overview`, WFS-T (transactional)
+  * |wfs_standards|, WFS-T (transactional)
   * |wcs_standards|
   * :doc:`../standards/wps_overview`
   * |fe_standards|

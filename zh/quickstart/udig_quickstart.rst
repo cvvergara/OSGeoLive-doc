@@ -300,7 +300,7 @@ Map
 
 　　您可以继续尝试其它操作：
 
-#. 添加您自己的数据或 :doc:`Web Feature Service <../standards/wfs_overview>` 服务。
+#. 添加您自己的数据或 |wfs_standards| 服务。
 #. 更改 WFS 样式。
 
 其它信息
