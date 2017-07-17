@@ -271,6 +271,7 @@ rst_epilog="""
 .. |wfs_standards| replace:: http://www.opengeospatial.org/standards/wfs
 .. |wms_standards| replace:: http://www.opengeospatial.org/standards/wms
 .. |wps_standards| replace:: http://www.opengeospatial.org/standards/wps
+.. |OGC_standards| replace:: http://www.opengeospatial.org
 .. |version-52nSOS| replace:: 4.4.0
 .. |version-52nWPS| replace:: 3.6.1
 .. |version-cartaro| replace:: 1.9
