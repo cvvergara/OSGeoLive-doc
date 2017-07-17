@@ -74,7 +74,7 @@ GeoServer は `Open Geospatial Consortium <http://www.opengeospatial.org>`_ (OGC
   * |fe_standards|
   * :doc:`../standards/sld_overview`
   * |gml_standards|
-  * :doc:`../standards/kml_overview`
+  * |kml_standards|
 
 詳細
 --------------------------------------------------------------------------------

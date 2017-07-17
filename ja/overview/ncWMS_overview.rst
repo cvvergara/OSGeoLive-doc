@@ -52,7 +52,7 @@ ncWMSはOGC準拠のWebマップサービス（WMS）として多次元データ
 
 * :doc:`../standards/wms_overview` (v1.1.1、v1.3.0)
 
-* :doc:`../standards/kml_overview`
+* |kml_standards|
 
 詳細
 -------

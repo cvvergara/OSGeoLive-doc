@@ -84,7 +84,7 @@ Supporto di numerosi standard Open Geospatial Consortium  (OGC):
   * |fe_standards|
   * :doc:`../standards/sld_overview` 
   * |gml_standards|
-  * :doc:`../standards/kml_overview`
+  * |kml_standards|
 
 Dettagli
 --------------------------------------------------------------------------------

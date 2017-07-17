@@ -44,7 +44,7 @@ ncWMS快速有效地提取从通常与环境数据相关的非常大型的数据
 
 * :doc:`../standards/wms_overview` (v1.1.1, v1.3.0)
 
-* :doc:`../standards/kml_overview`
+* |kml_standards|
 
 详情
 -------
