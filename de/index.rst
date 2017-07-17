@@ -47,7 +47,7 @@ Viele Anwendungen sind auch erhältlich als ausführbare Programme für
      :glob:
 
      overview/overview
-     standards/standards
+     
      contact
      copyright
      disclaimer

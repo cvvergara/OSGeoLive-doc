@@ -70,7 +70,7 @@ Aquestes són les característiques principals:
 Estàndards Implementats
 --------------------------------------------------------------------------------
 
-* Suport per a un gran número d'estàndards de :doc:`Open Geospatial Consortium  (OGC) <../standards/standards>`:
+* Suport per a un gran número d'estàndards de |OGC_standards|:
 
   * |wcs_standards| 1.0, 1.1 i 2.0, EO-WCS
   * |wms_standards|, EO-WMS

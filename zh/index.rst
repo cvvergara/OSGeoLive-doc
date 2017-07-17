@@ -53,7 +53,7 @@
 
    overview/overview
    quickstart/*quickstart
-   standards/standards
+   
    contact
    copyright
    disclaimer

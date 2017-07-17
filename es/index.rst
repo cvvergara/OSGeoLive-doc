@@ -8,7 +8,7 @@ Bienvenido a |osgeo-live-version|
      :maxdepth: 1
      :glob:
 
-     standards/toc
+     
      overview/toc
      quickstart/toc
      download
@@ -65,7 +65,7 @@ Guías de inicio rápido
    :glob:
 
    overview/overview
-   standards/standards
+   
    contact
    copyright
    disclaimer

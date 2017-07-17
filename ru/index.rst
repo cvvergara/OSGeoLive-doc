@@ -8,7 +8,7 @@
      :maxdepth: 1
      :glob:
 
-     standards/toc
+     
      overview/toc
      quickstart/toc
      download
@@ -65,7 +65,7 @@
 
    overview/overview
    quickstart/*quickstart
-   standards/standards
+   
    contact
    copyright
    disclaimer
