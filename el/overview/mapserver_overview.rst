@@ -84,7 +84,7 @@ MapServer
 
 * Υποστήριξη μεγάλου αριθμού προτύπων του Open Geospatial Consortium  (OGC)
 
-  * :doc:`../standards/wms_overview` (πελάτης/εξυπηρετητής), |wfs_standards| (πελάτης/εξυπηρετητής με δυνατότητα ανάγνωσης μόνο), WMC, |wcs_standards|, |fe_standards|, |sld_standards|, |gml_standards|, SOS, OM
+  * |wms_standards| (πελάτης/εξυπηρετητής), |wfs_standards| (πελάτης/εξυπηρετητής με δυνατότητα ανάγνωσης μόνο), WMC, |wcs_standards|, |fe_standards|, |sld_standards|, |gml_standards|, SOS, OM
 
 * Συμβατός με Υπηρεσία Θέασης της οδηγίας INSPIRE
 

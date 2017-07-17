@@ -207,7 +207,7 @@ GeoServer 快速入门文档
 WMS 网络地图服务客户端
 ================================================================================
 
-　　支持 :doc:`WMS <../standards/wms_overview>` 的客户端很多，均可从 |GS| 读取数据。以下是包含在 Live 系统中的一些：
+　　支持 |wms_standards| 的客户端很多，均可从 |GS| 读取数据。以下是包含在 Live 系统中的一些：
 
     * :doc:`uDig <../overview/udig_overview>`
 

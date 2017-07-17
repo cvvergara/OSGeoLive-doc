@@ -66,7 +66,7 @@ GeoServer は `Open Geospatial Consortium <http://www.opengeospatial.org>`_ (OGC
 
 * 多くの Open Geospatial Consortium (OGC) 標準をサポートしています:
 
-  * :doc:`../standards/wms_overview`
+  * |wms_standards|
   * Web Map Tile Service (WMTS)
   * |wfs_standards|, WFS-T (transactional)
   * |wcs_standards|

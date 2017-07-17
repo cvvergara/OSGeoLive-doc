@@ -66,7 +66,7 @@ Core Features
 Implemented Standards
 --------------------------------------------------------------------------------
 
-  * :doc:`../standards/wms_overview`
+  * |wms_standards|
   * |csw_standards|
   * |wfs_standards|
   * |wcs_standards|

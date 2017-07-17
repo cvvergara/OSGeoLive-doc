@@ -262,7 +262,7 @@ Seite und prüfen Sie, ob dieser gut aussieht.
 Clients für WMS Layer
 ================================================================================
 
-Eine große Anzahl von Clients unterstützt den :doc:`WMS Standard <../standards/wms_overview>` 
+Eine große Anzahl von Clients unterstützt den |wms_standards| 
 und kann die vom |GS| veröffentlichen Daten verarbeiten.
 Hier eine kleine Auswahl:
 

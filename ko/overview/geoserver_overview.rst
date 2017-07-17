@@ -33,7 +33,7 @@ Consortium <http://www.opengeospatial.org>`_ (OGC)
 |wfs_standards| and 
 |wcs_standards| standards, 
 as well as a high performance certified compliant 
-:doc:`../standards/wms_overview`. 
+|wms_standards|. 
 GeoServer forms a core component of the Geospatial Web. 
 
 .. image:: /images/screenshots/800x600/geoserver.png
@@ -73,7 +73,7 @@ Implemented Standards
 
 Support of numerous Open Geospatial Consortium  (OGC) standards:
 
-  * :doc:`../standards/wms_overview`
+  * |wms_standards|
   * |wfs_standards|, WFS-T (transactional)
   * |wcs_standards|
   * |fe_standards|

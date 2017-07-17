@@ -50,7 +50,7 @@ Características principales
 Estándares implementados
 -------------------------
 
-* :doc:`../standards/wms_overview` (v1.1.1, v1.3.0)
+* |wms_standards| (v1.1.1, v1.3.0)
 
 * |kml_standards|
 

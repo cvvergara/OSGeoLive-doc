@@ -86,7 +86,7 @@ Implemented Standards
 
 * Support of numerous Open Geospatial Consortium  (OGC) standards
 
-  * :doc:`../standards/wms_overview` (client/server)
+  * |wms_standards| (client/server)
   * |wfs_standards| (non-transactional, client/server)
   * WMC
   * |wcs_standards|

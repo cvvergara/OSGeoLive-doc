@@ -36,7 +36,7 @@ standardów
 |wfs_standards| i 
 |wcs_standards|, 
 oraz wysokiej wydajności i zgodnym ze standardami
-:doc:`../standards/wms_overview`. 
+|wms_standards|. 
 GeoServer forms a core component of the Geospatial Web. 
 
 .. image:: /images/screenshots/800x600/geoserver.png
@@ -94,7 +94,7 @@ Zaimplementowane standardy
 
 * Wsparcie wielu standardów Open Geospatial Consortium (OGC):
 
-  * :doc:`../standards/wms_overview`
+  * |wms_standards|
   * Web Map Tile Service (WMTS)
   * |wfs_standards|, WFS-T (transakcyjny)
   * |wcs_standards|

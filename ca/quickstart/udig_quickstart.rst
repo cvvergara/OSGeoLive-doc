@@ -47,7 +47,7 @@ uDig (User Friendly Internet Desktop GIS), és un client d'escriptori GIS per a 
 
 Aquesta Guia d'Inici Ràpid descriu com:
   
-  * llegir dades procedents d'un shapefile i des d'un :doc:`Web Map Service (WMS) <../standards/wms_overview>`
+  * llegir dades procedents d'un shapefile i des d'un |wms_standards|
   * usar eines estàndard per confeccionar mapes
   * aplicar color als diferents elements d'un mapa fent ús dels estils
 

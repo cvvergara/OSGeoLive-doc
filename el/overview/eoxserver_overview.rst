@@ -41,7 +41,7 @@ EOxServer
 * Δημοσίευση δεδομένων μέσω :doc:`προτύπων του Open Geospatial Consortium (OGC) <../standards/standards>`:
 
   * |wcs_standards|_ 1.0, 1.1, 2.0 και προτεινόμενου EO-WCS
-  * :doc:`Web Map Service (WMS) <../standards/wms_overview>`_ και EO-WMS
+  * |wms_standards|_ και EO-WMS
   * Προτεινόμενες επεκτάσεις του WCS περιλαμβάνουν: κωδικοποίηση GeoTIFF, προεπιλεγμενες 
     χαρτογραφικές προβολές (CRSs), μετατροπή κλίμακας και δειγματοληψία.
   * Τα προτόκολα που υποστηρίζονται είναι: KVP και XML/POST (σε συνεργασία με SOAP2POST

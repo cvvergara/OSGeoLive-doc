@@ -45,7 +45,7 @@ Caratteristiche principali
 
   * |wcs_standards| 1.0, 1.1 e 2.0
     e il proposto EO-WCS
-  * :doc:`Web Map Service (WMS) <../standards/wms_overview>` & EO-WMS
+  * |wms_standards| & EO-WMS
   * Proposta estensione al WCS per includere: codifica GeoTIFF, proiezioni 
     predefinite (CRSs), riscalamento, e interpolazione.
   * Protocolli supportati sono KVP, XML/POST (usato insieme con SOAP2POST

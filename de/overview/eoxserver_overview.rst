@@ -46,7 +46,7 @@ Kernfunktionen
   <../standards/standards>`:
 
   * |wcs_standards| 1.0, 1.1 und 2.0 & vorgeschlagenes EO-WCS
-  * :doc:`Web Map Service (WMS) <../standards/wms_overview>` & EO-WMS
+  * |wms_standards| & EO-WMS
   * Vorgeschlagene Erweiterungen für WCS wie: GeoTIFF-Codierung, vordefinierte 
     Projektionen (CRSs), Skalierung und Interpolation.
   * Die unterstützen Protokolle sind: KVP und XML/POST (zusammen verwendet mit 

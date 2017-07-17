@@ -27,7 +27,7 @@ Web 服务
 |wfs_standards| 和 
 |wcs_standards| 标准, 
 还有高性能的、兼容性得到充分验证的 
-:doc:`../standards/wms_overview` 。
+|wms_standards| 。
 GeoServer已成了Geospatial Web的一个核心组件。 
 
 .. image:: /images/screenshots/800x600/geoserver.png
@@ -67,7 +67,7 @@ GeoServer已成了Geospatial Web的一个核心组件。
 
 支持众多的 Open Geospatial Consortium (OGC) 标准规范:
 
-  * :doc:`../standards/wms_overview`
+  * |wms_standards|
   * |wfs_standards|, WFS-T（事务处理）
   * |wcs_standards|
   * |fe_standards|

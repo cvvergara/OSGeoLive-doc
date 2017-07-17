@@ -62,7 +62,7 @@ editing and viewing Geospatial data.
 
 This Quick Start describes how to:
 
-  * load a map layers from a shapefile and :doc:`Web Map Service (WMS) <../standards/wms_overview>`
+  * load a map layers from a shapefile and |wms_standards|
   * use the standard map tools
   * apply colour to map features using styling
 

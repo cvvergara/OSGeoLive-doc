@@ -61,7 +61,7 @@ uDig 快速入门
 
 　　本文演示：
 
-  * 从 shp 文件和 :doc:`Web Map Service (WMS) <../standards/wms_overview>` 导入数据
+  * 从 shp 文件和 |wms_standards| 导入数据
   * 基本工具操作
   * 配置要素样式的颜色
 

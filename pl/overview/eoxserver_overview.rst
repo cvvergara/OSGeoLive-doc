@@ -45,7 +45,7 @@ Główne funkcje
 
   * |wcs_standards| 1.0, 1.1 and 
     2.0 & proposed EO-WCS
-  * :doc:`Web Map Service (WMS) <../standards/wms_overview>` & EO-WMS
+  * |wms_standards| & EO-WMS
   * Proposed extensions to WCS including: GeoTIFF encoding, predefined 
     projections (CRSs), scaling, and interpolation.
   * Protocols supported are: KVP and XML/POST (used together with SOAP2POST

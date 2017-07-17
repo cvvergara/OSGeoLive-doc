@@ -68,7 +68,7 @@ Implemented Standards
 
 Support of numerous Open Geospatial Consortium  (OGC) standards:
 
-  * :doc:`../standards/wms_overview`
+  * |wms_standards|
   * Web Map Tile Service (WMTS)
   * |wfs_standards|, WFS-T (transactional)
   * |wcs_standards|

@@ -61,7 +61,7 @@ uDig (User Friendly Internet Desktop GIS) ist ein Desktop GIS-Client zum Anzeige
 
 Mit dem Quickstart Guide soll folgendes erreicht werden:
 
-  * Hinzufügen von Vektordaten als Layer zur Karte von einer Shapedatei und von einem :doc:`Web Map Service (WMS) <../standards/wms_overview>` Server
+  * Hinzufügen von Vektordaten als Layer zur Karte von einer Shapedatei und von einem |wms_standards| Server
   * Verwenden der Standardwerkzeuge zum Navigieren in der Karte
   * Anpassen der Farbe für die Darstellung von Objekten (Style)
 

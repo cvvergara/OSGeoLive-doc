@@ -73,7 +73,7 @@ Estàndards Implementats
 * Suport per a un gran número d'estàndards de :doc:`Open Geospatial Consortium  (OGC) <../standards/standards>`:
 
   * |wcs_standards| 1.0, 1.1 i 2.0, EO-WCS
-  * :doc:`Web Map Service (WMS)  <../standards/wms_overview>`, EO-WMS
+  * |wms_standards|, EO-WMS
   * GML, GMLCOV, EO-O&M
 
 Demo
