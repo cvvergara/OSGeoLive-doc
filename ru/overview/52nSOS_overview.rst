@@ -71,7 +71,7 @@ OGC SOS 2.0.0
 Связанные стандарты
 --------------------------------------------------------------------------------
 
-* :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>`
+* |sos_standards|
 * |gml_standards|
 * |sensorml_standards|
 

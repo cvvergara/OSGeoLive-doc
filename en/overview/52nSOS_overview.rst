@@ -19,7 +19,7 @@
 Web Service
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The 52°North :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>`
+The 52°North |sos_standards|
 supports the interoperable provision of live and archived sensor observation
 data. A sensor could be a water level meter in a stream, a weather station, or
 an air quality monitoring station.
@@ -108,7 +108,7 @@ applicable:
 Applicable Standards
 -------------------------------------------------------------------------------
 
-* :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>`
+* |sos_standards|
 * |gml_standards|
 * |sensorml_standards|
 

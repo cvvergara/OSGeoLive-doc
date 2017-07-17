@@ -17,7 +17,7 @@
 Web Service
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Der 52°North :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>`
+Der 52°North |sos_standards|
 erlaubt den Zugriff auf Echtzeit-Sensordaten sowie auf Sensordatenarchive. Ein
 Sensor kann dabei z.B. eine Wetterstation, ein Pegel an einem Fluss oder eine
 Station zur Messung der Luftqualität sein.
@@ -154,7 +154,7 @@ OGC SOS 1.0.0
 Zugehörige Standards
 -------------------------------------------------------------------------------
 
-* :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>`
+* |sos_standards|
 * |gml_standards|
 * |sensorml_standards|
 

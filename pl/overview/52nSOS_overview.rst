@@ -18,7 +18,7 @@
 Usługi sieciowe
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-52°North :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>` 
+52°North |sos_standards| 
 pozwala na czytanie zarówno archiwalnych, jak i danych odbieranych bezpośrednio 
 przez sensory zdalne bądź in-situ. Sensorem może być kamera znajdująca się 
 na satelicie lub wodomierz w strumieniu.
@@ -80,7 +80,7 @@ Z powyższymi zapytaniami możliwe są następujące operatory filtrujące:
 Zaimplementowane standardy
 --------------------------------------------------------------------------------
 
-* :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>`
+* |sos_standards|
 * |gml_standards|
 * |sensorml_standards|
 

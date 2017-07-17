@@ -15,7 +15,7 @@
 Web Service
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-52°North :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>` supporta 
+52°North |sos_standards| supporta 
 la lettura dei dati in tempo reale e archiviati catturati da sensori in-situ e remoti. 
 Un sensore può essere un camera su un satellite o un misuratore del livello dell'acqua
 in un fiume.
@@ -74,7 +74,7 @@ Con queste richieste i seguenti operatori di filtro sono possibili:
 Standard Correlati
 --------------------------------------------------------------------------------
 
-* :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>`
+* |sos_standards|
 * |gml_standards|
 * |sensorml_standards|
 
