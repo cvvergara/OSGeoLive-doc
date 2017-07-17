@@ -70,7 +70,7 @@ GeoServer
   * :doc:`../standards/wfs_overview`, WFS-T (transactional)
   * :doc:`../standards/wcs_overview`
   * :doc:`../standards/wps_overview`
-  * :doc:`../standards/fe_overview`
+  * |fe_standards|
   * :doc:`../standards/sld_overview` 
   * :doc:`../standards/gml_overview`
   * :doc:`../standards/kml_overview`

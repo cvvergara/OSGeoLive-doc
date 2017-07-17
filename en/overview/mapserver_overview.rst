@@ -90,7 +90,7 @@ Implemented Standards
   * :doc:`../standards/wfs_overview` (non-transactional, client/server)
   * WMC
   * :doc:`../standards/wcs_overview`
-  * :doc:`../standards/fe_overview`
+  * |fe_standards|
   * :doc:`../standards/sld_overview`
   * :doc:`../standards/gml_overview`
   * SOS

@@ -97,7 +97,7 @@ Implementált szabványok
 
 * Számos Open Geospatial Consortium (OGC) szabvány támogatása
 
-  * :doc:`../standards/wms_overview` (kliens/szerver), :doc:`../standards/wfs_overview` (nem tranzakciós, kliens/szerver), WMC, :doc:`../standards/wcs_overview`, :doc:`../standards/fe_overview`, :doc:`../standards/sld_overview`, :doc:`../standards/gml_overview`, SOS, OM
+  * :doc:`../standards/wms_overview` (kliens/szerver), :doc:`../standards/wfs_overview` (nem tranzakciós, kliens/szerver), WMC, :doc:`../standards/wcs_overview`, |fe_standards|, :doc:`../standards/sld_overview`, :doc:`../standards/gml_overview`, SOS, OM
 
 * INSPIRE View Service kompatibilis
 

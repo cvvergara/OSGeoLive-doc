@@ -85,7 +85,7 @@ GeoNode
   * |csw_standards|
   * :doc:`../standards/wfs_overview`
   * :doc:`../standards/wcs_overview`
-  * :doc:`../standards/fe_overview`
+  * |fe_standards|
   * :doc:`../standards/sld_overview` 
   * :doc:`../standards/gml_overview`
 

@@ -76,7 +76,7 @@ Support of numerous Open Geospatial Consortium  (OGC) standards:
   * :doc:`../standards/wms_overview`
   * :doc:`../standards/wfs_overview`, WFS-T (transactional)
   * :doc:`../standards/wcs_overview`
-  * :doc:`../standards/fe_overview`
+  * |fe_standards|
   * :doc:`../standards/sld_overview` 
   * :doc:`../standards/gml_overview`
 

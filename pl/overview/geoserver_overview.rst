@@ -99,7 +99,7 @@ Zaimplementowane standardy
   * :doc:`../standards/wfs_overview`, WFS-T (transakcyjny)
   * :doc:`../standards/wcs_overview`
   * :doc:`../standards/wps_overview`
-  * :doc:`../standards/fe_overview`
+  * |fe_standards|
   * :doc:`../standards/sld_overview` 
   * :doc:`../standards/gml_overview`
 

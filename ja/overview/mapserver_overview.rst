@@ -86,7 +86,7 @@ MapServerはNASA、Minnesota Department of Natural Resources (MNDNR)の協力の
 
 * Open Geospatial Consortium  (OGC)の標準仕様のサポート
 
-  * :doc:`../standards/wms_overview` (クライアント/サーバ), :doc:`../standards/wfs_overview` (トランザクションなし, クライアント/サーバ), WMC, :doc:`../standards/wcs_overview`, :doc:`../standards/fe_overview`, :doc:`../standards/sld_overview`, :doc:`../standards/gml_overview`, SOS, OM
+  * :doc:`../standards/wms_overview` (クライアント/サーバ), :doc:`../standards/wfs_overview` (トランザクションなし, クライアント/サーバ), WMC, :doc:`../standards/wcs_overview`, |fe_standards|, :doc:`../standards/sld_overview`, :doc:`../standards/gml_overview`, SOS, OM
 
 * INSPIRE View Service compliant
 

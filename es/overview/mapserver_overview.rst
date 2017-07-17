@@ -87,7 +87,7 @@ Standares Implementados
 
 * Soporta numerosos estándares  (OGC)
 
-  * :doc:`WMS (cliente/servidor) <../standards/wms_overview>`, :doc:`WFS no-transaccional (cliente/servidor) <../standards/wfs_overview>`, WMC, :doc:`WCS <../standards/wcs_overview>`, :doc:`Filter Encoding <../standards/fe_overview>`, :doc:`SLD <../standards/sld_overview>`, :doc:`GML <../standards/gml_overview>`, SOS, OM.
+  * |fe_standards|, :doc:`SLD <../standards/sld_overview>`, :doc:`GML <../standards/gml_overview>`, SOS, OM.
 
   * Servicios de visores conforme a INSPIRE.
 
