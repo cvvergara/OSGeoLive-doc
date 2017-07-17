@@ -68,7 +68,7 @@ Related Standards
 --------------------------------------------------------------------------------
 
 * :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>`
-* :doc:`Geography Markup Language (GML) <../standards/gml_overview>`
+* |gml_standards|
 * :doc:`Sensor Model Language (SensorML) <../standards/sensorml_overview>`
 
 Details

@@ -87,7 +87,7 @@ Standares Implementados
 
 * Soporta numerosos estándares  (OGC)
 
-  * |fe_standards|, :doc:`SLD <../standards/sld_overview>`, :doc:`GML <../standards/gml_overview>`, SOS, OM.
+  * |fe_standards|, |gml_standards|, SOS, OM.
 
   * Servicios de visores conforme a INSPIRE.
 

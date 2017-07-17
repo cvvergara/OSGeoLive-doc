@@ -87,7 +87,7 @@ GeoNode
   * :doc:`../standards/wcs_overview`
   * |fe_standards|
   * :doc:`../standards/sld_overview` 
-  * :doc:`../standards/gml_overview`
+  * |gml_standards|
 
 Λεπτομέρειες
 --------------------------------------------------------------------------------
