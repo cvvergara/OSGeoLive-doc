@@ -79,7 +79,7 @@ GeoNode基于GeoServer、GeoExplorer、pycsw、Django与GeoExt构建。
   * :doc:`../standards/wfs_overview`
   * :doc:`../standards/wcs_overview`
   * |fe_standards|
-  * :doc:`../standards/sld_overview` 
+  * |sld_standards| 
   * |gml_standards|
 
 详细信息

@@ -69,7 +69,7 @@ Implementierte Standards
   * :doc:`../standards/wcs_overview`
   * :doc:`../standards/wps_overview`
   * |fe_standards|
-  * :doc:`../standards/sld_overview`
+  * |sld_standards|
   * |gml_standards|
   * |kml_standards| 
 

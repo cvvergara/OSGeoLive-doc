@@ -71,7 +71,7 @@ GeoServer已成了Geospatial Web的一个核心组件。
   * :doc:`../standards/wfs_overview`, WFS-T（事务处理）
   * :doc:`../standards/wcs_overview`
   * |fe_standards|
-  * :doc:`../standards/sld_overview` 
+  * |sld_standards| 
   * |gml_standards|
 
 详情请见

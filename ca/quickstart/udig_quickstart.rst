@@ -254,7 +254,7 @@ Estils
 
    La definició de l'estil es pot trobar en els arxius amb l'extensió :file:`*.sld`. 
    El nom de l'arxiu d'estil ha de ser igual al que conté les dades.
-   Si existeix l'arxiu :doc:`Styled Layer Description (SLD) <../standards/sld_overview>`, l'estil s'aplicarà automàticament.
+   Si existeix l'arxiu |sld_standards|, l'estil s'aplicarà automàticament.
 
 De vegades és una mica difícil veure el que està passant en la capa que descriu aquests detalls. 
 Podeu focalitzar la vostra tasca en l'aspecte que més us interessi seleccionant :menuselection:`Map --> Mylar` des de la barra de menú.

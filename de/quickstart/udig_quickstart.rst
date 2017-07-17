@@ -278,7 +278,7 @@ Stile
 
 #. Sobald Sie mit dem Stil zufrieden sind, können Sie das :guilabel:`Close` bestätigen, um den Dialog zu verlassen
 
-.. note:: Zu einigen Dateien werden bereits Stile mitgeliefert. Dabei gibt es unter gleichen Dateinamen eine :file:`*.sld` Datei, deren Inhalt XML basiert die Stilbeschreibung - :doc:`Styled Layer Description (SLD) <../standards/sld_overview>` - enthält. Ist eine solche Datei vorhanden, so wird der Stil automatisch auf die importierten Daten angewendet.
+.. note:: Zu einigen Dateien werden bereits Stile mitgeliefert. Dabei gibt es unter gleichen Dateinamen eine :file:`*.sld` Datei, deren Inhalt XML basiert die Stilbeschreibung - |sld_standards| - enthält. Ist eine solche Datei vorhanden, so wird der Stil automatisch auf die importierten Daten angewendet.
 
 Mitunter ist es schwierig aufgrund der Stile der verschiedenen Layer das wesentliche auf der Karte zu erkennen. Es gibt die Möglichkeit über :menuselection:`Map --> Mylar` vom Applikationsmenü auf den in der **Layers** Ansicht ausgewählten zu fokussieren. Damit werden alle anderen Layer leicht transparent dargestellt. Klicken Sie in der **Layers** Ansicht auf unterschiedliche Layer, damit Sie eine Idee davon bekommen, wie dieser Effekt wirkt. Sie können diesen Effekt über :menuselection:`Map --> Mylar` wieder deaktivieren.
 

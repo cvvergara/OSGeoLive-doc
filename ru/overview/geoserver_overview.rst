@@ -83,7 +83,7 @@ GeoServer — это эталонная реализация стандарто�
   * :doc:`../standards/wfs_overview`, WFS-T (transactional)
   * :doc:`../standards/wcs_overview`
   * |fe_standards|
-  * :doc:`../standards/sld_overview` 
+  * |sld_standards| 
   * |gml_standards|
 
 Подробности

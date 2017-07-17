@@ -91,7 +91,7 @@ Implemented Standards
   * WMC
   * :doc:`../standards/wcs_overview`
   * |fe_standards|
-  * :doc:`../standards/sld_overview`
+  * |sld_standards|
   * |gml_standards|
   * SOS
   * OM

@@ -76,7 +76,7 @@ Standard implementati
   * :doc:`../standards/wfs_overview`
   * :doc:`../standards/wcs_overview`
   * |fe_standards|
-  * :doc:`../standards/sld_overview` 
+  * |sld_standards| 
   * |gml_standards|
 
 Dettagli

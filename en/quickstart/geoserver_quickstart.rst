@@ -142,7 +142,7 @@ Styling
 --------------------------------------------------------------------------------
 
 To style a data set into a map layer |GS| uses an OGC standard called
-:doc:`Styled Layer Descriptors (SLD) <../standards/sld_overview>`. These 
+|sld_standards|. These 
 are represented as XML files which describe the rules that are used to 
 apply various symbolizers to the data.
 
