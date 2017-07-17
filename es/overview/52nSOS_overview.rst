@@ -72,7 +72,7 @@ Estándares relacionados
 
 * :doc:`Servicio de Observación de Sensores (SOS) <../standards/sos_overview>`
 * |gml_standards|
-* :doc:`Lenguaje Modelo Sensor (SensorML) <../standards/sensorml_overview>`
+* |sensorml_standards|
 
 Detalles
 --------------------------------------------------------------------------------

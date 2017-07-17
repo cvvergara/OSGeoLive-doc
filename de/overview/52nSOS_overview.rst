@@ -156,7 +156,7 @@ Zugehörige Standards
 
 * :doc:`Sensor Observation Service (SOS) <../standards/sos_overview>`
 * |gml_standards|
-* :doc:`Sensor Model Language (SensorML) <../standards/sensorml_overview>`
+* |sensorml_standards|
 
 
 Details
