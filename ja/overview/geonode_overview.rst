@@ -67,7 +67,7 @@ GeoNodeはGeoServer, GeoExplorer, pycsw, Django, GeoExt上に構築されてい�
 --------------------------------------------------------------------------------
 
   * :doc:`../standards/wms_overview`
-  * :doc:`../standards/csw_overview`
+  * |csw_standards|
   * :doc:`../standards/wfs_overview`
   * :doc:`../standards/wcs_overview`
   * :doc:`../standards/fe_overview`

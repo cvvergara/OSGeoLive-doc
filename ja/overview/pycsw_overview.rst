@@ -24,7 +24,7 @@ pycsw
 
 pycswは、ウェブへのデータセットの説明（メタデータ）のカタログを公開することを可能にするもので、 標準的なインターフェースやフォーマットをベースに使用でき、カタログ・クライアントによって照会および更新することができるようになっています。メタデータは、作成日時、作成者、タイトル、注目される領域などのようなものでも保存する「データについてのデータ」であり、通常、ISO 19115、ISO 19139やFGDC CSDGMなどの国際標準に従って、XMLファイルとしてエンコードされます。
 
-pycsw は、:doc:`OGC Catalogue Services for the Web (CSW) 標準<../standards/csw_overview>` の `Python`_ による実装です。Tプロジェクトは `OGC Compliant`_ と `OGC Reference Implementation`_ に認定されています。CSW規格は、空間データ、Webサービスや関連するリソースについてのメタデータの発見、ブラウズ、クエリーのための共通のインターフェースを定義します。
+pycsw は、|csw_standards| の `Python`_ による実装です。Tプロジェクトは `OGC Compliant`_ と `OGC Reference Implementation`_ に認定されています。CSW規格は、空間データ、Webサービスや関連するリソースについてのメタデータの発見、ブラウズ、クエリーのための共通のインターフェースを定義します。
 
 pycswは、MITライセンス化でリリースされているオープンソースであり、主要な全てのプラットフォーム (Windows, Linux, Mac OSX) で動作します。
 

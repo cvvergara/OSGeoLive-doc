@@ -67,7 +67,7 @@ Implemented Standards
 --------------------------------------------------------------------------------
 
   * :doc:`../standards/wms_overview`
-  * :doc:`../standards/csw_overview`
+  * |csw_standards|
   * :doc:`../standards/wfs_overview`
   * :doc:`../standards/wcs_overview`
   * :doc:`../standards/fe_overview`
