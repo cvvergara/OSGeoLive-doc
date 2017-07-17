@@ -26,7 +26,7 @@ MapServer ist eine `Open Source <http://www.opensource.org>`_ serverbasierte Anw
 mit der geografische Kartenbilder und Vektordaten 
 im Internet mittels `OGC Standards <http://www.opengeospatial.org/standards>`_ 
 wie etwa `WMS <http://www.opengeospatial.org/standards/wms>`_ , `WFS <http://www.opengeospatial.org/standards/wfs>`_ 
-und :doc:`WCS <../standards/wcs_overview>` veröffentlicht werden können.
+und |wcs_standards| veröffentlicht werden können.
 
 Dieser Quickstart beschreibt:
      

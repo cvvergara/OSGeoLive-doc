@@ -43,7 +43,7 @@ Caratteristiche principali
 * Pubblicazione dei dati attraverso standard :doc:`Open Geospatial Consortium (OGC) 
   <../standards/standards>`:
 
-  * :doc:`Web Coverage Service (WCS) <../standards/wcs_overview>` 1.0, 1.1 e 2.0
+  * |wcs_standards| 1.0, 1.1 e 2.0
     e il proposto EO-WCS
   * :doc:`Web Map Service (WMS) <../standards/wms_overview>` & EO-WMS
   * Proposta estensione al WCS per includere: codifica GeoTIFF, proiezioni 

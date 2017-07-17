@@ -94,7 +94,7 @@ Standares Implementados
   * :doc:`../standards/wms_overview`
   * Web Map Tile Service (WMTS)
   * :doc:`../standards/wfs_overview`, WFS-T (transaccional)
-  * :doc:`../standards/wcs_overview`
+  * |wcs_standards|
   * :doc:`../standards/wps_overview`
   * |fe_standards|
   * |sld_standards|

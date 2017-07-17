@@ -43,7 +43,7 @@ Główne funkcje
 * Publikowanie danych z wykorzystaniem standardów :doc:`Open Geospatial Consortium (OGC)  
   <../standards/standards>`:
 
-  * :doc:`Web Coverage Service (WCS) <../standards/wcs_overview>` 1.0, 1.1 and 
+  * |wcs_standards| 1.0, 1.1 and 
     2.0 & proposed EO-WCS
   * :doc:`Web Map Service (WMS) <../standards/wms_overview>` & EO-WMS
   * Proposed extensions to WCS including: GeoTIFF encoding, predefined 

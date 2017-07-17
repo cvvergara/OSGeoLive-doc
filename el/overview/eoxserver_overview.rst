@@ -40,7 +40,7 @@ EOxServer
 * Διαχειριστική διαδικτυακή εφαρμογή
 * Δημοσίευση δεδομένων μέσω :doc:`προτύπων του Open Geospatial Consortium (OGC) <../standards/standards>`:
 
-  * :doc:`Web Coverage Service (WCS) <../standards/wcs_overview>`_ 1.0, 1.1, 2.0 και προτεινόμενου EO-WCS
+  * |wcs_standards|_ 1.0, 1.1, 2.0 και προτεινόμενου EO-WCS
   * :doc:`Web Map Service (WMS) <../standards/wms_overview>`_ και EO-WMS
   * Προτεινόμενες επεκτάσεις του WCS περιλαμβάνουν: κωδικοποίηση GeoTIFF, προεπιλεγμενες 
     χαρτογραφικές προβολές (CRSs), μετατροπή κλίμακας και δειγματοληψία.

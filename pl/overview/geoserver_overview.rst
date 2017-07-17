@@ -34,7 +34,7 @@ GeoServer jest referencyjną implementacją `Open Geospatial
 Consortium <http://www.opengeospatial.org>`_ (OGC), 
 standardów
 :doc:`../standards/wfs_overview` i 
-:doc:`../standards/wcs_overview`, 
+|wcs_standards|, 
 oraz wysokiej wydajności i zgodnym ze standardami
 :doc:`../standards/wms_overview`. 
 GeoServer forms a core component of the Geospatial Web. 
@@ -97,7 +97,7 @@ Zaimplementowane standardy
   * :doc:`../standards/wms_overview`
   * Web Map Tile Service (WMTS)
   * :doc:`../standards/wfs_overview`, WFS-T (transakcyjny)
-  * :doc:`../standards/wcs_overview`
+  * |wcs_standards|
   * :doc:`../standards/wps_overview`
   * |fe_standards|
   * |sld_standards| 

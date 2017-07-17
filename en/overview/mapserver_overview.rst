@@ -89,7 +89,7 @@ Implemented Standards
   * :doc:`../standards/wms_overview` (client/server)
   * :doc:`../standards/wfs_overview` (non-transactional, client/server)
   * WMC
-  * :doc:`../standards/wcs_overview`
+  * |wcs_standards|
   * |fe_standards|
   * |sld_standards|
   * |gml_standards|
