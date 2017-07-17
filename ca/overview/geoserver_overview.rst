@@ -68,7 +68,7 @@ Característiques principals
 	
 **Web Processing Service (WPS)** 
 	Algorismes geoespacials, incloent els :doc:`JTS <jts_overview>`, 
-	que es poden cridar a traves de la interface de :doc:`WPS <../standards/wps_overview>` de Geoserver.
+	que es poden cridar a traves de la interface de |wps_standards| de Geoserver.
 	Inclou l'encadenament de processos, així com l'ús de transformacions de renderitzat per tal de crear
 	visualitzacions de mapes a través de WMS.
 	
@@ -81,7 +81,7 @@ Suporta nombrosos estàndards de l'Open Geospatial Consortium  (OGC):
   * Web Map Tile Service (WMTS)
   * |wfs_standards|, WFS-T (transaccional)
   * |wcs_standards|
-  * :doc:`../standards/wps_overview`
+  * |wps_standards|
   * |fe_standards|
   * |sld_standards| 
   * |gml_standards|

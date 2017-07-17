@@ -98,7 +98,7 @@ Zaimplementowane standardy
   * Web Map Tile Service (WMTS)
   * |wfs_standards|, WFS-T (transakcyjny)
   * |wcs_standards|
-  * :doc:`../standards/wps_overview`
+  * |wps_standards|
   * |fe_standards|
   * |sld_standards| 
   * |gml_standards|
