@@ -156,4 +156,14 @@ OSGeoLive
             * It facilitates sharing data between agencies.
             * It reduces long term costs associated with data maintenance,
             * and it reduces long term project risk by avoiding dependence upon proprietary formats or products, thus avoiding vendor lock-in.
+            
+.. revealjs:: Desktop GIS
+    :title-heading: h2
+    :subtitle: General GIS viewing, editing, and analysis on the desktop
+    :subtitle-heading: h3
+
+        
+    .. rv_note::
+        Let's start by reviewing Desktop GIS applications, where we find the heavy lifting applications. These applications cover the traditional GIS uses cases of viewing, editing and analysing geospatial data.
+
 
