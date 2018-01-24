@@ -240,7 +240,9 @@ OSGeoLive
     :subtitle: Developers and Translators
     :subtitle-heading: h4
     
+        <!-- Contributors and translators table is inserted here -->
+        
         <b>Project Steering Committee:</b> Angelos Tzotsos (chair), Brian M Hamlin, Cameron Shorter, Alex Mandel, Johan Van de Wauw, Bas Couwenberg, Massimo De Stefano, Astrid Emde, Ben Caradoc-Davies, Nicolas Roelandt and Vicky Vergara.
         
     .. rv_note::
-        Of course, all these free tools become much more useful with access to free mapping data.
+        As you can see listed here, many people have been involved in packaging the Open Source Software for OSGeo-Live, and literally thousands of developers have helped build the software we package. Thank you. I'd like to especially the Project Steering Committee who have led the coordination and core packaging of the OSGeo-Live project.
