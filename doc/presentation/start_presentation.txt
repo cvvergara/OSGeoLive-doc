@@ -184,4 +184,11 @@ OSGeoLive
     .. rv_note::
         We'll now look at Web Services. Web Services are accessed via a URL, and return map data in various formats. Data is primarily accessed via OGC standards-based interfaces, including Web Map Services for images, Web Feature Services for vector data and Catalog Services for the Web for Metadata.
         
+.. revealjs:: Data Stores
+    :title-heading: h2
+    :subtitle: Storing spatial data
+    :subtitle-heading: h3
 
+        
+    .. rv_note::
+        At the bottom of the stack are the databases.        
