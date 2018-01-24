@@ -68,7 +68,7 @@ OSGeoLive
             * Geospatial educators and workshop presenters use the stable OGeo-Live Virtual Machine or USB for practical class room settings.
             * Which all leads to Architects and Developers discovering, and then incorporating Open Source Geospatial software in their projects.
 
-    .. revealjs:: Reboot for 11.0</h2>
+    .. revealjs:: Reboot for 11.0
 
         * Reduced scope of OSGeoLive 11.0 release
         * Reviewed all projects, focusing on quality of documentation
@@ -234,3 +234,13 @@ OSGeoLive
         
     .. rv_note::
         We will now look at key libraries which have shown a level of quality by going through the OSGeo Incubation process.
+
+.. revealjs:: Credits
+    :title-heading: h2
+    :subtitle: Developers and Translators
+    :subtitle-heading: h4
+    
+        <b>Project Steering Committee:</b> Angelos Tzotsos (chair), Brian M Hamlin, Cameron Shorter, Alex Mandel, Johan Van de Wauw, Bas Couwenberg, Massimo De Stefano, Astrid Emde, Ben Caradoc-Davies, Nicolas Roelandt and Vicky Vergara.
+        
+    .. rv_note::
+        Of course, all these free tools become much more useful with access to free mapping data.
