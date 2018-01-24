@@ -270,3 +270,10 @@ OSGeoLive
         
     .. rv_note::
         And we'd also like to acknowledge the contributions of sponsors and supporting organisations: The OSGeo Foundation, Jirotech, the Information Center for the Environment at the University of California, the Remote Sensing Laboratory at the National Technical University of Athens, the DebianGIS and UbuntuGIS projects, and the Okeanos IaaS service.
+
+.. revealjs:: Questions?
+    :title-heading: h1
+     
+    .. rv_note::
+        This has just been a taster, do you want to know more? You can see project descriptions or download the OSGeo-Live DVD from the website. The OSGeo Foundation provides links to all things GeoSpatial and Open Source. There are many conferences worth attending, in particular the annual FOSS4G conference. And in Australia and New Zealand, Jirotech provide commercial support and training courses for GeoSpatial Open Source.
+   
