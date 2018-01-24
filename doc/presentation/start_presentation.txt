@@ -193,8 +193,6 @@ OSGeoLive
     .. rv_note::
         At the bottom of the stack are the databases.        
 
-
-
 .. revealjs:: Navigation and Maps
     :title-heading: h2
 
@@ -203,3 +201,11 @@ OSGeoLive
     .. rv_note::
         The next category we will look at is Navigation and Maps.        
         
+.. revealjs:: Spatial Tools
+    :title-heading: h2
+    :subtitle: Specific analysis tools
+    :subtitle-heading: h3
+
+        
+    .. rv_note::
+        The next category we have grouped together are Spatial Tools.
