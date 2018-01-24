@@ -192,3 +192,14 @@ OSGeoLive
         
     .. rv_note::
         At the bottom of the stack are the databases.        
+
+
+
+.. revealjs:: Navigation and Maps
+    :title-heading: h2
+
+
+        
+    .. rv_note::
+        The next category we will look at is Navigation and Maps.        
+        
