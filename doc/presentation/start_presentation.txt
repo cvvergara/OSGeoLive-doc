@@ -174,3 +174,14 @@ OSGeoLive
         
     .. rv_note::
         We will now look at browser-based clients. Browser clients are regularly used to publish maps, and increasingly being used to deliver a wide range of tools and functions previously only available in desktop applications.
+
+.. revealjs:: Web Services
+    :title-heading: h2
+    :subtitle: Publishing spatial data to the internet
+    :subtitle-heading: h3
+
+        
+    .. rv_note::
+        We'll now look at Web Services. Web Services are accessed via a URL, and return map data in various formats. Data is primarily accessed via OGC standards-based interfaces, including Web Map Services for images, Web Feature Services for vector data and Catalog Services for the Web for Metadata.
+        
+
