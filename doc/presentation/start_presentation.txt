@@ -246,3 +246,27 @@ OSGeoLive
         
     .. rv_note::
         As you can see listed here, many people have been involved in packaging the Open Source Software for OSGeo-Live, and literally thousands of developers have helped build the software we package. Thank you. I'd like to especially the Project Steering Committee who have led the coordination and core packaging of the OSGeo-Live project.
+    
+    .. revealjs:: Sponsors
+    :title-heading: h2
+
+    <small>
+    <table>
+        <tr>
+        <td>Jirotech<br/><img src="../../images/logos/jirotechlogo.jpg" width="150" alt="Jirotech" target="http://jirotech.com"/></td>
+        <td>OSGeo<br/><img src="../../images/logos/OSGeo_compass_with_text_square.png" alt="OSGeo" target="http://osgeo.org" /></td>
+        <td>UCD ICE</br><img src="../../images/logos/ucd_ice_logo.png" width="150" alt="Information Center for the Environment at the University of California, Davis" target="http://ice.ucdavis.edu" /></td>
+        </tr><tr>
+        <td>NTUA<br/><img src="../../images/logos/ntua_logo.jpg" width="200" alt="National Technical University of Athens" target="http://www.ntua.gr/index_en.html"/></td>
+        <td>DebianGIS</br><img src="../../images/logos/debiangis_mollweide.png" width="200" alt="The DebianGIS and UbuntuGIS projects" target="http://wiki.debian.org/DebianGis" /></td>
+        <td>okeanos<br/><img src="../../images/logos/okeanos-logo.jpg" width="200" alt="The Greek Academic cloud service (IaaS) Okeanos" target="https://okeanos.grnet.gr/"/></td>
+        </tr><tr>
+        <td><br/></td>
+        <td>Georepublic</br><img src="../../images/logos/georepublic.png" width="280" alt="Georepublic" target="https://georepublic.info/en/" /></td>
+        <td><br/></td>
+        </tr>
+    </table>
+    </small>
+        
+    .. rv_note::
+        And we'd also like to acknowledge the contributions of sponsors and supporting organisations: The OSGeo Foundation, Jirotech, the Information Center for the Environment at the University of California, the Remote Sensing Laboratory at the National Technical University of Athens, the DebianGIS and UbuntuGIS projects, and the Okeanos IaaS service.
