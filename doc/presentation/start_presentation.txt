@@ -166,4 +166,11 @@ OSGeoLive
     .. rv_note::
         Let's start by reviewing Desktop GIS applications, where we find the heavy lifting applications. These applications cover the traditional GIS uses cases of viewing, editing and analysing geospatial data.
 
+.. revealjs:: Browser Facing GIS
+    :title-heading: h2
+    :subtitle: General GIS viewing, editing and analysis in the browser
+    :subtitle-heading: h3
 
+        
+    .. rv_note::
+        We will now look at browser-based clients. Browser clients are regularly used to publish maps, and increasingly being used to deliver a wide range of tools and functions previously only available in desktop applications.
