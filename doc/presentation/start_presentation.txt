@@ -227,3 +227,10 @@ OSGeoLive
         
     .. rv_note::
         Of course, all these free tools become much more useful with access to free mapping data.
+
+.. revealjs:: Geospatial Libraries
+    :title-heading: h2
+
+        
+    .. rv_note::
+        We will now look at key libraries which have shown a level of quality by going through the OSGeo Incubation process.
