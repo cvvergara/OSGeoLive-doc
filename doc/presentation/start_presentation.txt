@@ -209,3 +209,12 @@ OSGeoLive
         
     .. rv_note::
         The next category we have grouped together are Spatial Tools.
+
+.. revealjs:: Domain Specific GIS
+    :title-heading: h2
+    :subtitle: Applications targeted at a specific domain
+    :subtitle-heading: h3
+
+        
+    .. rv_note::
+        In this section, we have grouped applications targeted at a specific domain.
