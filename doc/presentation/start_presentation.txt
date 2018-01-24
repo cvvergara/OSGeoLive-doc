@@ -218,3 +218,12 @@ OSGeoLive
         
     .. rv_note::
         In this section, we have grouped applications targeted at a specific domain.
+
+.. revealjs:: Data
+    :title-heading: h2
+    :subtitle: Spatial data sets
+    :subtitle-heading: h3
+
+        
+    .. rv_note::
+        Of course, all these free tools become much more useful with access to free mapping data.
