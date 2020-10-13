@@ -13,7 +13,7 @@ jobs:
           language: [de, en,es,fi,fr,hu,ja,it]
 
     env:
-        LANG_MSG: "\[${{ matrix.language }}\]"
+        LANG_MSG: "[${{ matrix.language }}]"
 
     steps:
       - uses: actions/checkout@v2
@@ -23,7 +23,7 @@ jobs:
       - name: get commit message
         run: |
            PROCESS=${{ false }}
-           if [[ $(git log --format=%B -n 2 | tr -d "'" | tr -d " " | grep "${LANG_MSG}") ]]; then
+           if [[ $(git log --format=%B -n 2 | tr -d "'" | tr -d " " | grep "\[${{ matrix.language }}\]") ]]; then
              PROCESS=${{ true }}
            fi
            if [[ "${{ matrix.language }}" == "en" ]]; then
