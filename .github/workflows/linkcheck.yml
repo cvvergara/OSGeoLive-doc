@@ -13,7 +13,7 @@ jobs:
           language: [de, en,es,fi,fr,hu,ja,it]
 
     env:
-        LANG_MSG: "[${{ matrix.language }}]"
+        LANG_MSG: "\[${{ matrix.language }}\]"
 
     steps:
       - uses: actions/checkout@v2
