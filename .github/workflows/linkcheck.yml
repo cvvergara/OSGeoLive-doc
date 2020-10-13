@@ -21,6 +21,8 @@ jobs:
         run: |
            PROCESS=${{ false }}
            git log --format=%B -n 2 | tr -d "'" | tr -d " " | grep "\[${{ matrix.language }}\]"
+
+
            if [[ $(git log --format=%B -n 2 | tr -d "'" | tr -d " " | grep "\[${{ matrix.language }}\]") ]]; then
              PROCESS=${{ true }}
            fi
