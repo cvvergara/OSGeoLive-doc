@@ -26,7 +26,7 @@ jobs:
         run: |
            commitmsg=$(git log --format=%B -n 2)
            echo "${commitmsg}"
-           echo "commitmsg=${commitmsg}" >> $GITHUB_ENV
+           echo "commitmsg='${commitmsg}'" >> $GITHUB_ENV
 
       - name: show commit message
         run : echo $commitmsg
