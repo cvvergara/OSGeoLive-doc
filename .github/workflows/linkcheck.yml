@@ -33,13 +33,32 @@ jobs:
            fi
            echo "PROCESS=${PROCESS}" >> $GITHUB_ENV
 
-      - name: show commit message
-        run : echo $commitmsg
+      - name: Install python
+        if: env.PROCESS == 'true'
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
 
-      - name: print language
+      - name: Install dependencies
+        if: env.PROCESS == 'true'
         run: |
-          echo "Language:"
-          echo "${LANG_MSG}"
-          echo "${{ github.event.head_commit.message }}"
-          echo "${commitmsg}"
+          sudo apt-get update
+          sudo apt-get install -y \
+            graphviz
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip list
+
+      - name: Configure link checks
+        if: env.PROCESS == 'true'
+        run: |
+          mkdir build
+          cd build
+          cmake -DLINKCHECK=ON -DDE=ON -DES=ON -DFI=ON -DFR=ON -DHU=ON -DJA=ON -DIT=ON ..
+
+      - name: Check Links languages
+        if: env.PROCESS == 'true'
+        run: |
+          cd build
+          make linkcheck-${{ matrix.language }}
 
