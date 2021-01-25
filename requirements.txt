@@ -1,4 +1,4 @@
-sphinx==1.6.5
+sphinx>=3.0.0
 sphinx-intl==0.9.10
 sphinxjp.themes.revealjs
 transifex-client
