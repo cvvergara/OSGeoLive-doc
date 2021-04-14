@@ -123,10 +123,10 @@ msgstr "Und vieles mehr"
 #: ../../build/doc/overview/pgrouting_overview.rst:67
 msgid ""
 "Learn more about pgRouting in the `documentation "
-"<http://docs.pgrouting.org>`__."
+"<https://docs.pgrouting.org>`__."
 msgstr ""
 "Weitere Details zu pgRouting finden sich in der `documentation "
-"<http://docs.pgrouting.org>`_."
+"<https://docs.pgrouting.org>`_."
 
 #: ../../build/doc/overview/pgrouting_overview.rst:71
 msgid "Details"
