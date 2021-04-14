@@ -401,7 +401,7 @@ msgid ""
 "<https://mapserver.org/mapfile/expressions.html>`_ in MapServer."
 msgstr ""
 "Lernen Sie mehr über `EXPRESSIONS "
-"<http://mapserver.org/mapfile/expressions.html>`_ im MapServer."
+"<https://mapserver.org/mapfile/expressions.html>`_ im MapServer."
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:295
 msgid "Publish your data as OGC WMS (Web Map Service)"
@@ -481,7 +481,7 @@ msgid ""
 "<https://mapserver.org/introduction.html#introduction>`_."
 msgstr ""
 "Lesen Sie die `Introduction to MapServer "
-"<http://mapserver.org/introduction.html#introduction>`_."
+"<https://mapserver.org/introduction.html#introduction>`_."
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:325
 msgid ""
