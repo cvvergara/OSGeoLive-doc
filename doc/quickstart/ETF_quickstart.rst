@@ -40,7 +40,6 @@ open a web page at http://localhost:9090/ETF.
 In the header, there is a menu with 4 options, each representing different views and functionalities:
 
 .. image:: /images/projects/ETF/etf-introduction.png
-    :scale: 70%
 
 #. The first one is Start test. In this section all available (i.e. installed) Executable Test Suites are listed. Within
    this section, an Executable Test Suite can be selected and run against a Test Object.
@@ -66,12 +65,10 @@ The landing view shows the available Executable Test Suites.
 
 
 .. image:: /images/projects/ETF/etf-test-suite-selection-1.png
-    :scale: 70%
 
 Additional information about a Test Suite can be accessed by clicking on the plus button.
 
 .. image:: /images/projects/ETF/etf-test-suite-selection-2.png
-    :scale: 70%
 
 This information:
 
@@ -92,7 +89,6 @@ This information:
 To start a Test Run, a Test Suite must be selected with a click on the use flip switch on the right-hand side.
 
 .. image:: /images/projects/ETF/etf-test-suite-selection-3.png
-    :scale: 70%
 
 A Start button appears once at least one Test Suite is selected.
 
@@ -101,7 +97,6 @@ can be selected for one Test Run, but must be applicable to the same Test Object
 the flip switch of all other Test Suites having different Test Object Types is disabled.
 
 .. image:: /images/projects/ETF/etf-test-suite-selection-4.png
-    :scale: 70%
 
 A Test Suite may depend on other Test Suites. The dependencies are also shown in the description of the Test Suites.
 These dependencies are also automatically executed during the test run.
@@ -114,7 +109,6 @@ Test Run configuration
 ----------------------------------
 
 .. image:: /images/projects/ETF/etf-test-run-configuration-1.png
-    :scale: 50%
 
 The Label field is mandatory and automatically preset with the current time and names of the selected Test Suites. The
 Label will be shown in the Test reports overview and can be changed in order to help find the report again after a test
@@ -132,7 +126,6 @@ only accepts files with XML and GML file ending and ZIP files containing these t
  .. note::	Other files, like schema definition files, cannot be used and are silently ignored by the ETF!
 
 .. image:: /images/projects/ETF/etf-file-based-tests-1.png
-    :scale: 70%
 
 The maximum uploadable file size is displayed when the mouse is moved over the question mark.
 
@@ -140,13 +133,11 @@ If the data are available on the web, they can be tested by providing one single
 selected as Data source, an URL to either one single XML, GML or a ZIP file can be entered.
 
 .. image:: /images/projects/ETF/etf-file-based-tests-2.png
-    :scale: 70%
 
 
 If the URL requires authentication, username and password can be provided by clicking on Credentials.
 
 .. image:: /images/projects/ETF/etf-file-based-tests-3.png
-    :scale: 70%
 
 
 
@@ -158,7 +149,6 @@ The following elements are shown when Test Suites have been selected that test o
 The URL of a service must be entered beginning with http:// or https:// .
 
 .. image:: /images/projects/ETF/etf-service-test-1.png
-    :scale: 70 %
 
 If the service requires authentication, username and password can be provided by clicking on Credentials.
 
@@ -169,7 +159,6 @@ The Test Suites button shows some basic information about the selected Test Suit
 direct dependencies.
 
 .. image:: /images/projects/ETF/etf-dependencies-and-parameters-1.png
-    :scale: 70 %
 
 If the Test accepts parameters, they are shown in the Test Suite Parameters section. Optional parameters can be
 displayed by clicking on the Optional Parameters button. A description of the parameters is displayed when the mouse is
@@ -178,7 +167,6 @@ moved over the question mark.
  .. note::	In most cases the preset default values can be used.
 
 .. image:: /images/projects/ETF/etf-dependencies-and-parameters-2.png
-    :scale: 70 %
 
 Finally the test can be started by clicking on the Start button. The view then changes automatically to the Monitor View.
 
@@ -188,12 +176,10 @@ Monitor test runs
 After a Test Run has been started the Monitor View is shown.
 
 .. image:: /images/projects/ETF/etf-monitor-test-runs-1.png
-    :scale: 70 %
 
 The blue bar indicates the progress.
 
 .. image:: /images/projects/ETF/etf-monitor-test-runs-2.png
-    :scale: 70 %
 
 The console area shows information and result messages. The Test Run can be canceled with a click on the Cancel button.
 
@@ -204,7 +190,6 @@ To reopen the Monitor View after it has been closed, select in the menu bar the 
 running tests. A click on the Test Run opens the Monitor View of that Test Run.
 
 .. image:: /images/projects/ETF/etf-monitor-test-runs-3.png
-    :scale: 70 %
 
 When a Test Run finishes and the Monitor View is opened, the Test Report is displayed automatically.
 
@@ -215,7 +200,6 @@ Test Reports
 The Test Reports view shows all reports that have been generated from Test Runs.
 
 .. image:: /images/projects/ETF/etf-test-reports-1.png
-    :scale: 70 %
 
 By clicking on the plus button information, about the start time, the test result status, the name of the Test Object
 and the used Test Suites are shown.
@@ -234,7 +218,6 @@ The top of a Test Report shows general information including the overall test re
 duration and a table, which summarizes the status of all tests on several levels.
 
 .. image:: /images/projects/ETF/etf-inspect-test-reports-1.png
-    :scale: 70 %
 
 The Test Reports are interactive. The Show switch can be used to filter Only failed or Only manual tests. All
 deactivates the filter.
@@ -242,7 +225,6 @@ deactivates the filter.
 The Level of detail switch is used to show additional technical information in the reports.
 
 .. image:: /images/projects/ETF/etf-inspect-test-reports-2.png
-    :scale: 70 %
 
 The test results are summarized hierarchically in a report. At the top level there are the Test Suites.
 
@@ -250,7 +232,6 @@ By clicking on one test suite, a description and all lower level tests in that t
 suite can be immediately recognized by the red color. The number of failed tests is shown in the top-right corner.
 
 .. image:: /images/projects/ETF/etf-inspect-test-reports-3.png
-    :scale: 70 %
 
 The green color indicates a passed test. Passed tests, which require additional manual test steps that could not be
 automated, are colored orange. The orange color may also indicate a test that has been skipped because it depends on
@@ -274,19 +255,16 @@ Each test provides a description on how aspects are tested and lists the require
 abstract test suite, from which the test has been derived (Source).
 
 .. image:: /images/projects/ETF/etf-inspect-test-reports-4.png
-    :scale: 70 %
 
 Assertions stand for atomic test queries on the lowest level. Failed, red colored assertions display error messages in
 the Messages section.
 
 .. image:: /images/projects/ETF/etf-inspect-test-reports-5.png
-    :scale: 70 %
 
 Helpful information may also be found on the next higher level, like for instance the response from a service on the
 Test Step level (note the Open saved response link in the report).
 
 .. image:: /images/projects/ETF/etf-inspect-test-reports-6.png
-    :scale: 70 %
 
 Resources
 ============
