@@ -88,7 +88,7 @@ This information:
 
 To start a Test Run, a Test Suite must be selected with a click on the use flip switch on the right-hand side.
 
-.. image:: /images/projects/ETF/etf-test-suite-selection-3.png
+.. image:: /images/projects/ETF/ETF_screenshot.png
 
 A Start button appears once at least one Test Suite is selected.
 
