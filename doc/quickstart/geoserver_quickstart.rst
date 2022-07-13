@@ -14,7 +14,7 @@
 
 
 .. |GS| replace:: GeoServer
-.. |UG| replace:: uDig 
+.. |UG| replace:: uDig
 
 
 ********************************************************************************
@@ -33,11 +33,11 @@ This Quick Start describes how to:
 
 .. contents:: Contents
    :local:
-  
+
 Start Geoserver
 ===============
 
-#. From the Start menu, select |osgeolive-appmenupath-geoserver|. The application will take a few moments to start up and will open a web page at http://localhost:8082/geoserver/web 
+#. From the Start menu, select |osgeolive-appmenupath-geoserver|. The application will take a few moments to start up and will open a web page at http://localhost:8082/geoserver/web
 
    .. image:: /images/projects/geoserver/geoserver-login.png
     :scale: 70 %
@@ -47,16 +47,16 @@ Start Geoserver
    .. image:: /images/projects/geoserver/geoserver-welcome.png
     :scale: 70 %
 
-#. Select the **Layer Preview** link at the top of the *Data* section in the left hand menu to see a preview of the layers that are loaded on the server. 
-  
+#. Select the **Layer Preview** link at the top of the *Data* section in the left hand menu to see a preview of the layers that are loaded on the server.
+
    .. image:: /images/projects/geoserver/geoserver-layerpreview.png
     :scale: 70 %
 
-#. Scroll to the bottom of the page and click on the **OpenLayers** link in the **tiger-ny** row. This will open a new window with a preview of some of the sample data. 
+#. Scroll to the bottom of the page and click on the **OpenLayers** link in the **tiger-ny** row. This will open a new window with a preview of some of the sample data.
 
    .. image:: /images/projects/geoserver/geoserver-preview.png
     :scale: 70 %
-    
+
 #. You can zoom in to the map in three ways:
 
         * by clicking on the zoom bar on the left, the higher you click on it the more zoomed in you will see.
@@ -89,18 +89,18 @@ that is included on OSGeoLive (:file:`/usr/local/share/data/natural_earth2/`).
       :align: center
       :alt: The New Store page
 
-#. Select the :guilabel:`Directory of spatial files`. You will see the following: 
+#. Select the :guilabel:`Directory of spatial files`. You will see the following:
 
    .. image:: /images/projects/geoserver/geoserver-new-vector.png
       :scale: 70 %
       :align: center
       :alt: Filling in the New Store page
 
-#. Type in a name for the Data Store (for example, *Natural Earth*) and fill in the URL to the data set - in this case :file:`/usr/local/share/data/natural_earth2/`. You can use the browse button to find the directory if your data is somewhere else. 
+#. Type in a name for the Data Store (for example, *Natural Earth*) and fill in the URL to the data set - in this case :file:`/usr/local/share/data/natural_earth2/`. You can use the browse button to find the directory if your data is somewhere else.
 #. Press :guilabel:`save`.
 
    .. image:: /images/projects/geoserver/geoserver-naturalearth.png
-      :align: center 
+      :align: center
       :scale: 70 %
       :alt: The Natural Earth Datastore
 
@@ -111,10 +111,10 @@ that is included on OSGeoLive (:file:`/usr/local/share/data/natural_earth2/`).
       :scale: 70 %
       :alt: The layer publishing page
 
-   As you scroll down the page you will see that |GS| has filled in many of the fields for you. When you reach :guilabel:`Coordinate Reference System` you will notice that under *Native SRS* it says UNKNOWN you will need to fill in the next box (*declared SRS*) to make sure |GS| knows where the data is. 
+   As you scroll down the page you will see that |GS| has filled in many of the fields for you. When you reach :guilabel:`Coordinate Reference System` you will notice that under *Native SRS* it says UNKNOWN you will need to fill in the next box (*declared SRS*) to make sure |GS| knows where the data is.
 
 #. You can type epsg:4326 in the box, or go to `http://prj2epsg.org/search <http://prj2epsg.org/search>`_ and paste in the string you see if you click on the link next to "UNKNOWN".
-#. Click on :guilabel:`Compute from data` and :guilabel:`Compute from native bounds` to fill in the Bounding Boxes. 
+#. Click on :guilabel:`Compute from data` and :guilabel:`Compute from native bounds` to fill in the Bounding Boxes.
 #. Finally hit :guilabel:`save` and you have published your first layer.
 
 .. note::
@@ -127,8 +127,8 @@ Styling data
 
 Styling a data set into a map layer |GS| uses an OGC standard called |SLD|. These are represented as XML files which describe the rules that are used to apply various symbolizers to the data.
 
-To get started, lets style the Land and Ocean datasets. 
-You can create SLD files using a simple text editor, but sometimes a graphical editor is better. There are several options here but |UG| allows you to open the shapefiles directly and apply simple styles using a GUI. It also provides a simple editor to modify the XML if I need to. 
+To get started, lets style the Land and Ocean datasets.
+You can create SLD files using a simple text editor, but sometimes a graphical editor is better. There are several options here but |UG| allows you to open the shapefiles directly and apply simple styles using a GUI. It also provides a simple editor to modify the XML if I need to.
 
 Using |UG| to create simple styles
 ----------------------------------
@@ -137,7 +137,7 @@ Using |UG| to create simple styles
 
    For more details on how to use |UG| see the :doc:`uDig Quickstart <../quickstart/udig_quickstart>`
 
-#. Open |UG| and add the shapefiles (using the add data button in the top left hand corner). 
+#. Open |UG| and add the shapefiles (using the add data button in the top left hand corner).
 #. Drag the ne_10m_land and ne_10m_ocean tables into the map window. |UG| automatically applies a style (so you can see the data).
 
    .. image:: /images/projects/geoserver/geoserver-udig_startup.png
@@ -145,7 +145,7 @@ Using |UG| to create simple styles
      :scale: 70 %
      :alt: Default Styling in uDig
 
-#. In the :ref:`Layer list <Layer_list>` select the style button (it looks like an artist's palette). 
+#. In the :ref:`Layer list <Layer_list>` select the style button (it looks like an artist's palette).
 
    .. _Layer_list:
    .. image:: /images/projects/geoserver/geoserver-layer-chooser.png
@@ -153,16 +153,16 @@ Using |UG| to create simple styles
      :scale: 70 %
      :alt: The Layer list window
 
-   This will open the :ref:`Style Pane <Style_Pane>`. 
+   This will open the :ref:`Style Pane <Style_Pane>`.
 #. In the simple window we can easily select a nice blue for the oceans by clicking on the colored box on the fill tab and choosing from the color picker it produces. We can also increase the opacity of the fill to 100% to make the color look better. Pick the same blue for the border color so it will match.
 
    .. _Style_Pane:
    .. image:: /images/projects/geoserver/geoserver-style-pane.png
      :align: center
      :scale: 70 %
-     :alt: The Style Pane 
+     :alt: The Style Pane
 
-#. Click ``OK`` and |UG| will display the changes. 
+#. Click ``OK`` and |UG| will display the changes.
 
    .. image:: /images/projects/geoserver/geoserver-blue-ocean.png
      :align: center
@@ -188,11 +188,11 @@ Adding the style to GeoServer
 
 Now we need to transfer these styles to |GS|.
 
-#. On the style window there is an export button which allows you to save the SLD file that defines your style. 
-#. Once saved, you can go to the |GS| admin page again and select ``Styles`` (at the bottom of the ``Data`` section). 
-#. Select the ``Add New Style`` link. At the bottom of that page is a file upload box and a browse button. 
-#. Clicking browse to find the files you just saved. 
-#. Click the upload link (next to the browse button) and a copy of the file appears in the editor. 
+#. On the style window there is an export button which allows you to save the SLD file that defines your style.
+#. Once saved, you can go to the |GS| admin page again and select ``Styles`` (at the bottom of the ``Data`` section).
+#. Select the ``Add New Style`` link. At the bottom of that page is a file upload box and a browse button.
+#. Clicking browse to find the files you just saved.
+#. Click the upload link (next to the browse button) and a copy of the file appears in the editor.
 #. If you click on the validate button the highlighted lines will give you an error but you can safely ignore the error (or delete those lines as they don't do anything).
 #. Press the :guilabel:`Submit` at the bottom of the page.
 
@@ -205,13 +205,13 @@ Now we need to transfer these styles to |GS|.
 Adding the style to the layer
 -----------------------------
 
-#. Click on the :guilabel:`Layers` link in the Menu on the left of the |GS| window. 
+#. Click on the :guilabel:`Layers` link in the Menu on the left of the |GS| window.
 #. Click on the layer (e.g. *ne_10m_land*), then select the :guilabel:`Publishing` tab.
 #. Change the :guilabel:`Default Style` box to the name of the style you uploaded in the previous section.
 #. Now click :guilabel:`Save` and go to the Layer Preview page to check that it looks good.
 
 
-.. note:: There are example style files for all of the example Natural Earth layers in :file:`/usr/local/share/geoserver`. 
+.. note:: There are example style files for all of the example Natural Earth layers in :file:`/usr/local/share/geoserver`.
 
 .. TBD (needs more memory)
     Adding a Raster
@@ -219,7 +219,7 @@ Adding the style to the layer
 
     In the Natural Earth folder is a folder :file:`HYP_50M_SR_W` which
     contains a raster image. You can serve this up in |GS| directly by
-    going to the stores page and selecting :menuselection:`New Stores --> World Image` 
+    going to the stores page and selecting :menuselection:`New Stores --> World Image`
     and type
     :file:`/home/user/data/natural_earth2/HYP_50M_SR_W.tif`
     into the :guilabel:`URL` box.
@@ -232,12 +232,12 @@ Adding the style to the layer
     The click :guilabel:`Save` this will take you to the *New Layers
     Chooser* then click publish and :guilabel:`Save` to finish adding the
     raster. If you go to the Layers Preview page you
-    can see the new image. 
+    can see the new image.
 
 Clients for WMS layers
 ================================================================================
 
-The |WMS| layers you are serving from |GS| can be used with a variety of clients on this OSGeoLive distribution, including: 
+The |WMS| layers you are serving from |GS| can be used with a variety of clients on this OSGeoLive distribution, including:
 
 * :doc:`uDig <../overview/udig_overview>`
 * :doc:`OpenLayers <../overview/openlayers_overview>`
@@ -253,7 +253,7 @@ Configure a NetCDF store
 
 #. After running "Start GeoServer"
 #. Login as the administrator.
-#. Click on :guilabel:`Add stores` then :guilabel:`NetCDF`. 
+#. Click on :guilabel:`Add stores` then :guilabel:`NetCDF`.
 #. Enter a value for Data Source Name (this example uses "netcdf") and a NetCDF URL. You can use this sample file::
 
     file:///usr/local/share/data/netcdf/polyphemus_20120401.nc
@@ -270,7 +270,7 @@ Preview the NetCDF layer
 ------------------------
 
 #. Select "Layer Preview" from the menu on the left
-#. Scroll down to find the "cite:O3" entry, and click on the "OpenLayers" link to show a preview of the layer. 
+#. Scroll down to find the "cite:O3" entry, and click on the "OpenLayers" link to show a preview of the layer.
 #. Clicking on points will cause the value of "Ozone_concentration" to be shown in a table at the bottom of the map.
 
     .. image:: /images/projects/geoserver/geoserver-netcdf-preview.png
@@ -286,7 +286,7 @@ What next?
 
 This is only the first step on the road to using GeoServer. There is a lot more functionality you can try.
 
-* GeoServer Project home - http://geoserver.org/
+* GeoServer Project home - https://geoserver.org/
 
 * GeoServer User Manual - https://docs.geoserver.org/latest/en/user/
 

@@ -32,7 +32,7 @@ Y | leaflet | 1.6.0 | Y | Y | Browser Facing GIS | | Mobile Friendly Interactive
 #   OSGeo Projects | | | | | | | | | | | |
 Y | deegree | 3.4.1 | Y | Y | Web Services | | OGC Web Services | deegree3 | http://www.deegree.org | OSGeo_project | deegree | Y
 Y | geonetwork | 3.2.1 | Y | Y | Web Services | | Metadata Catalogue | geonetwork-opensource | https://geonetwork-opensource.org | OSGeo_project | GeoNetwork | Y
-Y | geoserver | 2.18.1 | Y | Y | Web Services | | OGC Web Services | geoserver | http://geoserver.org/ | OSGeo_project | GeoServer | Y
+Y | geoserver | 2.18.1 | Y | Y | Web Services | | OGC Web Services | geoserver | https://geoserver.org/ | OSGeo_project | GeoServer | Y
 Y | mapcache | 1.10.0 | Y | Y | Web Services | | OGC Web Services | mapcache | https://mapserver.org/mapcache | OSGeo_project | MapCache | Y
 Y | mapserver | 7.6.2 | Y | Y | Web Services | | OGC Web Services | mapserver | https://mapserver.org | OSGeo_project | MapServer | Y
 Y | pycsw | 2.6.0 | Y | Y | Web Services | | Metadata Catalogue | pycsw | https://pycsw.org/ | OSGeo_project | pycsw | Y
