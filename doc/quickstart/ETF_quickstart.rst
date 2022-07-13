@@ -35,7 +35,7 @@ Introduction
 ===============
 
 From the Start menu, select |osgeolive-appmenupath-ETF|. The application will take a few moments to start up and will
-open a web page at http://localhost:9090/ETF.
+open a web page at http://localhost:9090/ETF
 
 In the header, there is a menu with 4 options, each representing different views and functionalities:
 
@@ -146,7 +146,7 @@ Service Tests
 
 The following elements are shown when Test Suites have been selected that test one service.
 
-The URL of a service must be entered beginning with http:// or https:// .
+The URL of a service must be entered beginning with ``http://`` or ``https://`` .
 
 .. image:: /images/projects/ETF/etf-service-test-1.png
 
