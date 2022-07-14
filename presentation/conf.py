@@ -32,7 +32,7 @@ html_theme_options = {
 # -- Options for Reveal.js output ---------------------------------------------
 revealjs_static_path = ["'@CMAKE_CURRENT_SOURCE_DIR@/../_static'"]
 revealjs_google_fonts = ["M PLUS 1p",]
-revealjs_style_theme = "white"
+revealjs_style_theme = "presentation.css"
 revealjs_script_conf = """
     {
         controls: true,
