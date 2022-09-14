@@ -297,6 +297,7 @@ msgstr "Dokumentáció"
 msgid ""
 "`MapServer Documentation <http://localhost/mapserver/doc/index.html>`__"
 msgstr ""
+"`MapServer Dokumentáció <http://localhost/mapserver/doc/index.html>`__"
 
 #: ../../build/doc/overview/mapserver_overview.rst:118
 msgid "Details"

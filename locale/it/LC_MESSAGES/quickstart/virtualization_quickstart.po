@@ -259,6 +259,7 @@ msgstr ""
 msgid ""
 "``sudo apt-get install --yes virtualbox-guest-utils virtualbox-guest-x11``"
 msgstr ""
+"``sudo apt-get install --yes virtualbox-guest-utils virtualbox-guest-x11``"
 
 #: ../../build/doc/quickstart/virtualization_quickstart.rst:105
 msgid ""

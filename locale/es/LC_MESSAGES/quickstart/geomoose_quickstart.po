@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2011~2019, OSGeo
+# Copyright (C) 2011~2022, OSGeo
 # This file is distributed under the same license as the OSGeoLive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -10,9 +10,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 14.0\n"
+"Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-18 12:48-0500\n"
+"POT-Creation-Date: 2022-08-06 09:15-0500\n"
 "PO-Revision-Date: 2017-09-20 16:04+0000\n"
 "Last-Translator: Vicky Vergara <vicky@georepublic.de>, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/osgeo/teams/66156/es/)\n"
@@ -259,6 +259,14 @@ msgstr ""
 
 #: ../../build/doc/quickstart/geomoose_quickstart.rst:101
 msgid ""
+"You may need to scroll down in the \"Super Tab\" to find the \"Go\" button "
+"if your browser window is small."
+msgstr ""
+"Es posible que deba desplazarse hacia abajo en la \"Super Pestaña\" para "
+"encontrar el botón \"Ir\" si la ventana de su navegador es pequeña."
+
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:106
+msgid ""
 "Finally, click the \"Go\" button to actually select the features.  GeoMoose "
 "will return a summary of what was selected in the Super Tab as well, "
 "highlight the selected features on the map, and show an attribute table of "
@@ -269,7 +277,7 @@ msgstr ""
 "en la Super Tab, resaltará las características seleccionadas en el mapa y "
 "mostrará una tabla de atributos de ellas."
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:106
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:111
 msgid ""
 "If you hover over a line in the table, the corresponding feature on the map "
 "will be highlighted.  Additionally, you can use the funnel icons in the "
@@ -285,11 +293,11 @@ msgstr ""
 "utilizando el icono de descarga para la parte superior e izquierda de la "
 "tabla."
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:110
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:115
 msgid "Search for features"
 msgstr "Buscar características"
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:112
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:117
 msgid ""
 "You can also search for features by attribute.  To start, hover over the "
 "\"Search\" menu in the toolbar and then click on the \"Search Parcels\" "
@@ -301,7 +309,7 @@ msgstr ""
 "el ícono \"Buscar Parcelas\".  Introduzca sus parámetros de búsqueda en la "
 "Super Tab y haga click en el botón \"Go!\"."
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:116
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:121
 msgid ""
 "The following screenshot demonstrates a search of all parcel owners "
 "containing the name \"frank\"."
@@ -309,11 +317,11 @@ msgstr ""
 "La siguiente captura de pantalla demuestra una búsqueda de todos los "
 "propietarios de parcelas que contienen el nombre \"Frank\"."
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:120
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:125
 msgid "Three results appear in the list and are highlighted on the map."
 msgstr "Tres resultados aparecen en la lista y se destacan en el mapa."
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:124
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:129
 msgid ""
 "Clicking the magnifying glass icon/parcel number will zoom you to the "
 "specific parcel as illustrated in the following screenshot."
@@ -321,11 +329,11 @@ msgstr ""
 "Haciendo click en el ícono de lupa/número de parcela, se acercará a la "
 "parcela específica tal como se ilustra en la siguiente pantalla."
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:130
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:135
 msgid "Print the map"
 msgstr "Imprimir el mapa"
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:132
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:137
 msgid ""
 "This next screenshot shows how the Print tool looks as provided with demo "
 "for GeoMoose.  When you click on the Print tool, a dialog appears which asks"
@@ -338,7 +346,7 @@ msgstr ""
 "un título para el mapa impreso, el tamaño de la página y rotación, "
 "resolución impresa y muestra una vista previa de lo que se imprimirá."
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:136
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:141
 msgid ""
 "Clicking the Print button in the dialog will generate a PDF printout that "
 "you can open or save."
@@ -346,11 +354,11 @@ msgstr ""
 "Haciendo click en el botón de Imprimir en el cuadro de diálogo se va a "
 "generar una impresión PDF que puede abrir o guardar."
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:142
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:147
 msgid "What next?"
 msgstr "¿Qué sigue?"
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:144
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:149
 msgid ""
 "This is only the first step on the road to using GeoMoose. There is a lot "
 "more functionality you can try."
@@ -358,27 +366,27 @@ msgstr ""
 "Esto es sólo el primer paso en el camino al uso de GeoMoose. Hay mucha más "
 "funcionalidad que puede tratar."
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:147
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:152
 msgid "GeoMoose Project home"
 msgstr "Proyecto GeoMoose, inicio"
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:149
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:154
 msgid "https://www.geomoose.org/"
 msgstr "https://www.geomoose.org/"
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:151
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:156
 msgid "GeoMoose Tutorial"
 msgstr "Tutorial de GeoMoose "
 
-#: ../../build/doc/quickstart/geomoose_quickstart.rst:153
+#: ../../build/doc/quickstart/geomoose_quickstart.rst:158
 msgid "https://www.geomoose.org/quickstart.html"
 msgstr "https://www.geomoose.org/quickstart.html"
 
-#: ../../build/doc/<rst_epilog>:12
+#: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
 msgstr "vmdk"
 
-#: ../../build/doc/<rst_epilog>:15
+#: ../../build/doc/<rst_epilog>:16
 msgid "nologo"
 msgstr "nologo"
 

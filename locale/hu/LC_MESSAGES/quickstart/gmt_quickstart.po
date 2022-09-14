@@ -191,11 +191,11 @@ msgstr "Telepítse a következő csomagokat:"
 
 #: ../../build/doc/quickstart/gmt_quickstart.rst:121
 msgid "gmt-dcw"
-msgstr ""
+msgstr "gmt-dcw"
 
 #: ../../build/doc/quickstart/gmt_quickstart.rst:122
 msgid "gmt-gshhg"
-msgstr ""
+msgstr "gmt-gshhg"
 
 #: ../../build/doc/quickstart/gmt_quickstart.rst:128
 msgid "Examples will be found in: `/usr/share/doc/gmt/examples`"

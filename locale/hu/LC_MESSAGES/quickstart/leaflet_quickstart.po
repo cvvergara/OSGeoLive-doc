@@ -54,6 +54,10 @@ msgid ""
 "MapProxy**. This will provide background tiles that will be used in this "
 "demo."
 msgstr ""
+"A gyorstalpaló futtatása előtt el kell indítania a MapProxy-t. Az OSGeoLive-"
+"on ez a **Geospatial\\\\Web Services\\\\MapProxy\\\\Start MapProxy** alatt "
+"található. Ez háttér csempéket szolgáltat, melyeket ebben a demóban "
+"használunk."
 
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:30
 msgid "View the example_"
@@ -119,6 +123,9 @@ msgid ""
 "conference. First we'll initialize the map and set its view to our chosen "
 "geographical coordinates and a zoom level:"
 msgstr ""
+"Készítsünk egy térképet Firenzéről a 2022-esFOSS4G konferencia "
+"megjelölésével. Először inicializáljuk a térképet és beállítjuk a nézetet a "
+"választott földrajzi koordinátákra és a nagyítási szintet:"
 
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:72
 msgid ""
@@ -147,6 +154,10 @@ msgid ""
 "background maps such as openstreetmap will result in a much better user "
 "experience."
 msgstr ""
+"Ezután egy csempe réteget adunk a térképünkhöz.  Ebben az esetben a live "
+"DVD-n található MapProxy által szolgáltatott csempe képeket használjuk. "
+"Vegye észre, hogy sokkal jobb felhasználói élményt nyújt egy szebb "
+"háttértérkép mint például az openstreetmap."
 
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:79
 msgid ""

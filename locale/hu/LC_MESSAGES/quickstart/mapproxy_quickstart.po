@@ -143,11 +143,11 @@ msgstr ""
 
 #: ../../build/doc/quickstart/mapproxy_quickstart.rst:69
 msgid "**mapnik_tile**:"
-msgstr ""
+msgstr "**mapnik_tile**:"
 
 #: ../../build/doc/quickstart/mapproxy_quickstart.rst:69
 msgid "The world population rendered by Mapnik as tile layer."
-msgstr ""
+msgstr "A világ népessége csempe rétegként a Mapnik használatával."
 
 #: ../../build/doc/quickstart/mapproxy_quickstart.rst:73
 msgid "**geoserver**:"

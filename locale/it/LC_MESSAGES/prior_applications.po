@@ -82,7 +82,7 @@ msgstr "LibLAS_"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "`QuickStart <LibLAS_q_>`__"
-msgstr ""
+msgstr "`Guida rapida <LibLAS_q_>`__"
 
 #: ../../build/doc/prior_applications.rst:1
 #: ../../build/doc/prior_applications.rst:1
@@ -100,7 +100,7 @@ msgstr "MapSlicer_"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "`QuickStart <MapSlicer_q_>`__"
-msgstr ""
+msgstr "`Guida rapida <MapSlicer_q_>`__"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "Create Map Tiles"
@@ -125,7 +125,7 @@ msgstr "Geomajas_"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "`QuickStart <Geomajas_q_>`__"
-msgstr ""
+msgstr "`Guida rapida <Geomajas_q_>`__"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "Browser GIS Client"
@@ -137,7 +137,7 @@ msgstr "OSSIM_"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "`QuickStart <OSSIM_q_>`__"
-msgstr ""
+msgstr "`Guida rapida <OSSIM_q_>`__"
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "11.0"

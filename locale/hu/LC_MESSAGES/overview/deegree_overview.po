@@ -155,6 +155,7 @@ msgstr "WMS 1.1.1 és 1.3.0 szabványok implementálása"
 #: ../../build/doc/overview/deegree_overview.rst:64
 msgid "Official OGC reference implementation for WMS 1.1.1 and WMS 1.3.0"
 msgstr ""
+"Hivatalos OGC referencia implementáció WMS 1.1.1 és WMS 1.3.0 verziókhoz"
 
 #: ../../build/doc/overview/deegree_overview.rst:65
 msgid ""

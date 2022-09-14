@@ -37,11 +37,11 @@ msgstr "OSGeoLive"
 
 #: ../../build/presentation/revealjs/presentation.rst:12
 msgid "Version: 15"
-msgstr ""
+msgstr "Versione: 15"
 
 #: ../../build/presentation/revealjs/presentation.rst:14
 msgid "Released: August 2022"
-msgstr ""
+msgstr "Rilasciato: Agosto 2022"
 
 #: ../../build/presentation/revealjs/presentation.rst:18
 msgid ""
@@ -65,11 +65,11 @@ msgstr "Trova questa presentazione"
 
 #: ../../build/presentation/revealjs/presentation.rst:41
 msgid "`Presentation <https://live.osgeo.org/en/presentation.html>`__"
-msgstr ""
+msgstr "`Presentazione <https://live.osgeo.org/en/presentation.html>`__"
 
 #: ../../build/presentation/revealjs/presentation.rst:43
 msgid "https://live.osgeo.org/en/presentation.html"
-msgstr ""
+msgstr "https://live.osgeo.org/en/presentation.html"
 
 #: ../../build/presentation/revealjs/presentation.rst:45
 msgid ""
@@ -81,16 +81,16 @@ msgstr ""
 
 #: ../../build/presentation/revealjs/presentation.rst:47
 msgid "https://osgeo.github.io/OSGeoLive-doc/en/presentation.html"
-msgstr ""
+msgstr "https://osgeo.github.io/OSGeoLive-doc/en/presentation.html"
 
 #: ../../build/presentation/revealjs/presentation.rst:51
 #: ../../build/presentation/revealjs/presentation.rst:62
 msgid "What is new in 15.0"
-msgstr ""
+msgstr "Cosa c'è di nuovo nella 15.0"
 
 #: ../../build/presentation/revealjs/presentation.rst:64
 msgid "Updated to Lubuntu 22.04 LTS"
-msgstr ""
+msgstr "Aggiornato a Lubuntu 22.04 LTS"
 
 #: ../../build/presentation/revealjs/presentation.rst:68
 msgid ""
@@ -100,35 +100,35 @@ msgstr ""
 
 #: ../../build/presentation/revealjs/presentation.rst:72
 msgid "QGIS 3.22.7,"
-msgstr ""
+msgstr "QGIS 3.22.7,"
 
 #: ../../build/presentation/revealjs/presentation.rst:73
 msgid "GDAL 3.4.3,"
-msgstr ""
+msgstr "GDAL 3.4.3,"
 
 #: ../../build/presentation/revealjs/presentation.rst:74
 msgid "PROJ 8.2.1,"
-msgstr ""
+msgstr "PROJ 8.2.1,"
 
 #: ../../build/presentation/revealjs/presentation.rst:75
 msgid "PostGIS 3.2.0,"
-msgstr ""
+msgstr "PostGIS 3.2.0,"
 
 #: ../../build/presentation/revealjs/presentation.rst:76
 msgid "GRASS  8.2.0,"
-msgstr ""
+msgstr "GRASS  8.2.0,"
 
 #: ../../build/presentation/revealjs/presentation.rst:77
 msgid "GeoServer 2.21.0,"
-msgstr ""
+msgstr "GeoServer 2.21.0,"
 
 #: ../../build/presentation/revealjs/presentation.rst:78
 msgid "MapServer 7.6.4,"
-msgstr ""
+msgstr "MapServer 7.6.4,"
 
 #: ../../build/presentation/revealjs/presentation.rst:80
 msgid "and many more..."
-msgstr ""
+msgstr "e molti altri..."
 
 #: ../../build/presentation/revealjs/presentation.rst:84
 msgid "New project added: ETF testing framework software"
@@ -144,7 +144,7 @@ msgstr "Aggiornamenti della documentazione"
 
 #: ../../build/presentation/revealjs/presentation.rst:96
 msgid "OSM data for Firenze"
-msgstr ""
+msgstr "Dati OSM per Firenze"
 
 #: ../../build/presentation/revealjs/presentation.rst:100
 msgid ""
@@ -228,11 +228,11 @@ msgstr "Standard Aperti"
 
 #: ../../build/presentation/revealjs/presentation.rst:215
 msgid "Open Education"
-msgstr ""
+msgstr "Open Education"
 
 #: ../../build/presentation/revealjs/presentation.rst:216
 msgid "Open Research"
-msgstr ""
+msgstr "Open Research"
 
 #: ../../build/presentation/revealjs/presentation.rst:217
 msgid "Open Data"
@@ -645,12 +645,12 @@ msgstr "eoxserver_logo"
 
 #: ../../build/presentation/revealjs/presentation.rst:485
 msgid "|ETF_logo|"
-msgstr ""
+msgstr "|ETF_logo|"
 
 #: ../../build/presentation/revealjs/presentation.rst:1325
 #: ../../build/presentation/revealjs/presentation.rst:1325
 msgid "ETF_logo"
-msgstr ""
+msgstr "ETF_logo"
 
 #: ../../build/presentation/revealjs/presentation.rst:485
 msgid "|ncWMS_logo|"
@@ -976,7 +976,7 @@ msgstr "GIS per un uso specifico"
 
 #: ../../build/presentation/revealjs/presentation.rst:997
 msgid "|xygrib_logo| XyGrib"
-msgstr ""
+msgstr "|xygrib_logo| XyGrib"
 
 #: ../../build/presentation/revealjs/presentation.rst:1369
 #: ../../build/presentation/revealjs/presentation.rst:1369
@@ -1122,7 +1122,7 @@ msgstr "Crediti"
 
 #: ../../build/presentation/revealjs/presentation.rst:1164
 msgid "Developers and project maintainers"
-msgstr ""
+msgstr "Sviluppatori e manutentori di progetti"
 
 #: ../../build/presentation/revealjs/presentation.rst:1165
 msgid "Authors and reviewers of the documentation"
@@ -1182,7 +1182,7 @@ msgstr "Enock Seth Nyamador"
 
 #: ../../build/presentation/revealjs/presentation.rst:1198
 msgid "Get involved"
-msgstr ""
+msgstr "Partecipa"
 
 #: ../../build/presentation/revealjs/presentation.rst:1200
 msgid "Become a member of our team"
@@ -1225,7 +1225,7 @@ msgstr ""
 
 #: ../../build/presentation/revealjs/presentation.rst:1214
 msgid "There is a good possibility to get to know cool software!"
-msgstr ""
+msgstr "C'è una buona possibilità di conoscere software interessanti!"
 
 #: ../../build/presentation/revealjs/presentation.rst:1215
 msgid "Translate and improve the documentation"
@@ -1327,4 +1327,4 @@ msgstr "georepublic_logo"
 
 #: ../../build/presentation/revealjs/presentation.rst:1243
 msgid "Try out OSGeoLive"
-msgstr ""
+msgstr "Prova OSGeoLive"
