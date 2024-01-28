@@ -12,6 +12,7 @@ cmake -DHTML=ON -DFI=ON -DIT=ON -DJA=ON -DES=ON -DFR=ON -DDE=ON -DHU=ON -DOSGeoL
 make
 popd
 bash scripts/clean-images.sh
+bash scripts/listimagestocompress.sh
 touch build/_build/html/.nojekyll # needed for gh pages to keep dirs starting with _
 du -h build/_build/html
 popd

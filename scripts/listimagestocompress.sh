@@ -1,19 +1,34 @@
 #!/bin/bash
+
+# Requirement install pngquant
+if [ -z "$1" ]
+then
+  echo "No argument supplied"
+  percent=50
+else
+  percent=$1
+fi
+percent=$(($percent / 100))
+
+
 rm -rf _compressed
 mkdir _compressed
-cp -r _build _compressed/_build
+cp -r build _compressed/build
 echo "file;new;orig;difference" > debian/tocompress.txt
-for j in $(find _build -name *.png -type f)
+for file in $(find build -name *.png -type f)
 do
-	pngquant -f --ext .png --quality 70-95 --skip-if-larger _compressed/$j
-	a=$(du -b _compressed/$j |awk '{print $1}');
-	b=$(du -b $j |awk '{print $1}');
+  filesize=$(du -b $file |awk '{print $1}');
 
-	if [ "$(($a+$a))" -lt "$b"  -a  "$b" -gt 32768 ] ; then
-	echo "$j;$a;$b" >>debian/tocompress.txt
+  # file is small skip
+  if [ "$filesize" -lt 32768 ] ; then continue; fi
 
-	#git add $j
-	#git commit -m "Compress $j with pngquant ($a -> $b)"
-	fi
+  pngquant -f --ext .png --quality 70-95 --skip-if-larger _compressed/$file
+  compressedsize=$(du -b _compressed/$file |awk '{print $1}');
+
+  # if the double the compression size is less than the file
+  if [ "$compressedsize" -lt "$(($filesize * $percent))" ] ; then
+    echo "$file;$compressedsize;$filesize;$(($filesize-$compressedsize))" >>debian/tocompress.txt
+    cp _compressed/$file $file
+  fi
 done
 rm -rf _compressed
