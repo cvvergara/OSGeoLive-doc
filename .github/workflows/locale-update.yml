@@ -61,6 +61,6 @@ jobs:
 
           git diff --staged
           # Add the files, commit and push
-          git diff --staged --quiet || git commit -m "Update locale: commit ${{ env.GIT_HASH }}"
+          git diff --staged --quiet || git commit -m "Locale update: for commit ${{ env.GIT_HASH }}"
           git restore .  # Remove the unstaged changes before rebasing
           git push
