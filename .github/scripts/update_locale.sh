@@ -10,7 +10,7 @@
 
 DIR=$(git rev-parse --show-toplevel)
 
-pushd "${DIR}" > /dev/null || exit 1
+pushd -f "${DIR}" > /dev/null || exit 1
 
 pushd build > /dev/null || exit 1
 cmake -DLOCALE=ON ..
