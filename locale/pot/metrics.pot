@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-15 20:42-0600\n"
+"POT-Creation-Date: 2024-05-06 05:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgid "|osgeolive-version| Project Metrics"
 msgstr ""
 
 #: ../../build/doc/metrics.rst:8
-msgid "Metrics provided by `OpenHUB <https://www.openhub.net/>`_ which are derived from the projects' code repositories. Note these metrics have known deficiencies (such as caused by repositories moving), and only provide partial indications about the projects' development. Lack of change in smaller, concise packages and libraries may simply reflect a level of maturity and completeness."
+msgid "Metrics provided by `OpenHUB <https://openhub.net/>`_ which are derived from the projects' code repositories. Note these metrics have known deficiencies (such as caused by repositories moving), and only provide partial indications about the projects' development. Lack of change in smaller, concise packages and libraries may simply reflect a level of maturity and completeness."
 msgstr ""
 
 #: ../../build/doc/metrics.rst:14
@@ -32,11 +32,11 @@ msgstr ""
 msgid "Desktop GIS"
 msgstr ""
 
-#: ../../build/doc/metrics.rst:36
+#: ../../build/doc/metrics.rst:37
 msgid "Browser Facing GIS"
 msgstr ""
 
-#: ../../build/doc/metrics.rst:51
+#: ../../build/doc/metrics.rst:52
 msgid "Web Services"
 msgstr ""
 
@@ -44,23 +44,23 @@ msgstr ""
 msgid "Data Stores"
 msgstr ""
 
-#: ../../build/doc/metrics.rst:89
+#: ../../build/doc/metrics.rst:90
 msgid "Navigation and Maps"
 msgstr ""
 
-#: ../../build/doc/metrics.rst:102
+#: ../../build/doc/metrics.rst:103
 msgid "Spatial Tools"
 msgstr ""
 
-#: ../../build/doc/metrics.rst:114
+#: ../../build/doc/metrics.rst:115
 msgid "Domain Specific GIS"
 msgstr ""
 
-#: ../../build/doc/metrics.rst:122
+#: ../../build/doc/metrics.rst:123
 msgid "Data"
 msgstr ""
 
-#: ../../build/doc/metrics.rst:133
+#: ../../build/doc/metrics.rst:134
 msgid "Geospatial Libraries"
 msgstr ""
 
