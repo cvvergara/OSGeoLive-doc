@@ -181,19 +181,10 @@ latex_documents = [
 
 # Linkcheck configuration, see http://sphinx.pocoo.org/latest/config.html#options-for-the-linkcheck-builder
 
+user_agent = 'Mozilla/5.0 (X11; Linux x86_64; rv:25.0) Gecko/20100101 Firefox/25.0'
 linkcheck_ignore = [
-        # currently SSL_ERROR_BAD_CERT_DOMAIN
-        # TODO remove this line when the CERT is fixed
+        # Potential Security Risk
         r'https://www.rspatial.org',
-
-        # link exists but does not accept robots and linkchecker is a robot
-        # used in overview/mapserver_overview
-        'http://www.dnr.state.mn.us/maps/compass.html',
-
-        # TODO this link is failing: RemoteDisconnected('Remote end closed connection without response'))
-        # ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-        'https://www.iso.org',
-        r'https://inspire.ec.europa.eu',
 
         # links to the disk internals
         r'http://localhost', r'https://localhost',
@@ -204,27 +195,27 @@ linkcheck_ignore = [
         # 403 Client Error
         r'https://docs.etf-validator.net',
         r'https://etf-validator.net',
-        r'https://www.ogc.org',
+        r'https://www.intel.com',
         r'https://external.ogc.org',
-        r'https://www.safe.com',
+
+        #SL: TLSV1_ALERT_INTERNAL_ERROR
         r'https://www.geowebcache.org',
+
+        # 504 Server Error: Gateway Time-out
         r'https://www.geoext.org',
 
-        # link exists but when many link checks are done link checker fails
         # ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-        # Used in quickstart/osm_quickstart
-        'https://www.openstreetmap.org/edit',
+        r'https://www.jirotech.com',
+
+        # 404 Client Error: Not Found
+        'https://www.ogc.org/projects/groups/wg',
 
         # link exists but link check failes
         # SSL: CERTIFICATE_VERIFY_FAILED
-        # Used in sponsors.rst
         'https://www.ntua.gr/en',
-        'https://www.ice.ucdavis.edu/',
-
-        # Link with certiciate problems
-        # Used in quickstart/liblas_quickstart
-        #'https://epsg.org/home.html',
         'https://www.epsg.org/',
+        'https://epsg.org/home.html',
+
 
         # Link to the presentation
         r'presentation.html'
