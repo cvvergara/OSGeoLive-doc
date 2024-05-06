@@ -265,26 +265,26 @@ rst_epilog="""
                         :align: middle
                         :height: 18
                         :target: https://localhost/osgeolive/sponsors_osgeo.html
-.. |CAT| replace:: `Catalogue Service <https://www.ogc.org/standards/cat>`__
-.. |CSW| replace:: `Catalogue Service for the Web (CSW) <https://www.ogc.org/standards/cat>`__
-.. |GML| replace:: `Geography Markup Language (GML) <https://www.ogc.org/standards/gml>`__
-.. |FE| replace:: `Filter Encoding (FE) <https://www.ogc.org/standards/filter>`__
+.. |CAT| replace:: `Catalogue Service <https://www.ogc.org/standard/cat>`__
+.. |CSW| replace:: `Catalogue Service for the Web (CSW) <https://www.ogc.org/standard/cat>`__
+.. |GML| replace:: `Geography Markup Language (GML) <https://www.ogc.org/standard/gml>`__
+.. |FE| replace:: `Filter Encoding (FE) <https://www.ogc.org/standard/filter>`__
 .. |ISO19105| replace:: `ISO 19105 <https://committee.iso.org/sites/tc211/home/projects/projects---complete-list/iso-19105.html>`__
-.. |KML| replace:: `KML <https://www.ogc.org/standards/kml>`__
-.. |OGCAPIFEATURES| replace:: `OGC API - Features <https://www.ogc.org/standards/ogcapi-features>`__
+.. |KML| replace:: `KML <https://www.ogc.org/standard/kml>`__
+.. |OGCAPIFEATURES| replace:: `OGC API - Features <https://www.ogc.org/standard/ogcapi-features>`__
 .. |ORM| replace:: `OGC Reference Model (ORM) <https://www.ogc.org/standards/orm>`__
-.. |SENSORML| replace:: `Sensor Model Language (SensorML) <https://www.ogc.org/standards/sensorml>`__
-.. |SFS| replace:: `Simple Feature Access (SFS) <https://www.ogc.org/standards/sfs>`__
-.. |SFSQL| replace:: `Simple Features for SQL (SFS) <https://www.ogc.org/standards/sfs>`__
-.. |SLD| replace:: `Styled Layer Descriptor (SLD) <https://www.ogc.org/standards/sld>`__
-.. |SOS| replace:: `Sensor Observation Service (SOS) <https://www.ogc.org/standards/sos>`__
-.. |WCPS| replace:: `Web Coverage Processing Service <https://www.ogc.org/standards/wcps>`__
-.. |WCS| replace:: `Web Coverage Service (WCS) <https://www.ogc.org/standards/wcs>`__
-.. |WMC| replace:: `Web Map Context (WMC) <https://www.ogc.org/standards/wmc>`__
-.. |WMS| replace:: `Web Map Service (WMS) <https://www.ogc.org/standards/wms>`__
-.. |WMTS| replace:: `OpenGIS Web Map Tile Service (WMTS) <https://www.ogc.org/standards/wmts>`__
-.. |WFS| replace:: `Web Feature Service (WFS) <https://www.ogc.org/standards/wfs>`__
-.. |WPS| replace:: `Web Processing Service (WPS) <https://www.ogc.org/standards/wps>`__
+.. |SENSORML| replace:: `Sensor Model Language (SensorML) <https://www.ogc.org/standard/sensorml>`__
+.. |SFS| replace:: `Simple Feature Access (SFS) <https://www.ogc.org/standard/sfs>`__
+.. |SFSQL| replace:: `Simple Features for SQL (SFS) <https://www.ogc.org/standard/sfs>`__
+.. |SLD| replace:: `Styled Layer Descriptor (SLD) <https://www.ogc.org/standard/sld>`__
+.. |SOS| replace:: `Sensor Observation Service (SOS) <https://www.ogc.org/standard/sos>`__
+.. |WCPS| replace:: `Web Coverage Processing Service <https://www.ogc.org/standard/wcps>`__
+.. |WCS| replace:: `Web Coverage Service (WCS) <https://www.ogc.org/standard/wcs>`__
+.. |WMC| replace:: `Web Map Context (WMC) <https://www.ogc.org/standard/wmc>`__
+.. |WMS| replace:: `Web Map Service (WMS) <https://www.ogc.org/standard/wms>`__
+.. |WMTS| replace:: `OpenGIS Web Map Tile Service (WMTS) <https://www.ogc.org/standard/wmts>`__
+.. |WFS| replace:: `Web Feature Service (WFS) <https://www.ogc.org/standard/wfs>`__
+.. |WPS| replace:: `Web Processing Service (WPS) <https://www.ogc.org/standard/wps>`__
 .. |OGC| replace:: `Open Geospatial Consortium (OGC) <https://www.ogc.org>`__
 .. |OGCS| replace:: `OGC Standards <https://www.ogc.org/standards>`__
 .. |SUPPORT| replace:: `OSGeo service providers <https://www.osgeo.org/service-providers>`__

@@ -36,7 +36,7 @@ die "ERROR: Failed to find: '$projects_info_file'\n" unless -f $projects_info_fi
 
 
 ######################################################
-# process section 
+# process section
 ######################################################
 
 print "\nBuilding the 'metrics.rst' file\n" if $DEBUG;
@@ -123,10 +123,10 @@ sub get_section {
         s{^\s+|\s+$}{}g foreach @values;
 
 
-        
+
         if(defined($values[8]) && ($values[8] !~ "NA")) {
             ++$count;
-            $contents .= "    <script type=\"text/javascript\" src=\"https://www.openhub.net/p/$values[8]/widgets/project_factoids_stats?format=js\"></script>\n";
+            $contents .= "    <script type=\"text/javascript\" src=\"https://openhub.net/p/$values[8]/widgets/project_factoids_stats?format=js\"></script>\n";
         }
     }
 
@@ -156,7 +156,7 @@ sub write_script {
 |osgeolive-version| Project Metrics
 ================================================================================
 
-Metrics provided by `OpenHUB <https://www.openhub.net/>`_ which are derived
+Metrics provided by `OpenHUB <https://openhub.net/>`_ which are derived
 from the projects' code repositories. Note these metrics have known deficiencies
 (such as caused by repositories moving), and only provide partial indications
 about the projects' development. Lack of change in smaller, concise packages
@@ -166,7 +166,7 @@ Viewing the metrics requires an Internet connection and Javascript to be enabled
 
 .. raw:: html
 
-  <script type='text/javascript' src='https://www.openhub.net/p/OSGeo-Live/widgets/project_factoids_stats?format=js'></script>
+  <script type='text/javascript' src='https://openhub.net/p/OSGeo-Live/widgets/project_factoids_stats?format=js'></script>
   <br/>
 
 $sections
