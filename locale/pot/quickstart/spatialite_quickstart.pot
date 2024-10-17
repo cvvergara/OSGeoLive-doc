@@ -88,75 +88,75 @@ msgstr ""
 msgid "Now let's try tweaking this SQL statement to get NOME and (Lat,Long) for only the NOME_PROV fields include \"BRESCIA\", this time using the MunicipalHallsView. In the upper right SQL pane type::"
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:95
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:93
 msgid "Click the \"Execute SQL\" button at the right, and see the results in the bottom right pane."
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:102
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:100
 msgid "Run spatialite from the command line"
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:104
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:102
 msgid "Users needing to script or automate queries will learn the advantages of working with a spatialite database from the command line interface. In this example, we will load a shapefile, and search for schools which are near highway 42."
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:106
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:104
 msgid "Before working from the command line, we need to open a terminal window: :menuselection:`System Tools -> LXTerminal`."
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:108
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:106
 msgid "In the terminal open a sample database with **spatialite** by typing::"
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:113
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:111
 msgid "Helpful commands from the command line::"
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:121
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:119
 msgid "Create a new spatialite database and load a shapefile"
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:123
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:121
 msgid "Let's create a new, empty spatialite database, and load two shapefiles from the north_carolina dataset::"
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:159
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:157
 msgid "Note the format of the .loadshp command: first the shapefile without the .shp extension, then the name of the new spatialite table, next the character encoding, and finally the EPSG code of the shapefile's CRS."
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:161
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:159
 msgid "Now we'll query for schools near to highway 42.::"
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:172
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:170
 msgid "Finally, we output the query to a \"comma separated values\" text file \"schools_rt42.txt\" with the following commands::"
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:185
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:183
 msgid "Things to try"
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:187
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:185
 msgid "Here are some additional challenges for you to try:"
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:189
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:187
 msgid "Inspect geometries with spatialite-gui"
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:190
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:188
 msgid "Open and edit SpatiaLite layers in QGIS"
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:193
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:191
 msgid "What next?"
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:195
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:193
 msgid "To learn more about SpatiaLite, a starting point is the `SpatiaLite project page`_."
 msgstr ""
 
-#: ../../build/doc/quickstart/spatialite_quickstart.rst:199
+#: ../../build/doc/quickstart/spatialite_quickstart.rst:197
 msgid "Be sure to visit the tutorial `Spatialite cookbook`_"
 msgstr ""
 

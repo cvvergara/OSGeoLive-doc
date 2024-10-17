@@ -189,7 +189,7 @@ msgid "Open QuickOSM from `Vector --> QuickOSM --> QuickOSM`"
 msgstr ""
 
 #: ../../build/doc/quickstart/osm_quickstart.rst:136
-#: ../../build/doc/quickstart/osm_quickstart.rst:196
+#: ../../build/doc/quickstart/osm_quickstart.rst:195
 msgid "Search for all the pubs in the FOSS4G city"
 msgstr ""
 
@@ -205,119 +205,119 @@ msgstr ""
 msgid "Click `Run query`. The resulting data will be loaded in your QGIS project as temporal data"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:141
+#: ../../build/doc/quickstart/osm_quickstart.rst:140
 msgid "You can now save the data via `Export -> Save as....`. Choose i.e. Geopackage and save the data as `buenos_aires_pubs`."
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:143
+#: ../../build/doc/quickstart/osm_quickstart.rst:142
 msgid "You also find many OSM Plugins for QGIS. Search for `OSM` in the plugin repository."
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:147
+#: ../../build/doc/quickstart/osm_quickstart.rst:146
 msgid "Using OSM as basemap in QGIS"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:150
+#: ../../build/doc/quickstart/osm_quickstart.rst:149
 msgid "XYZ Tiles"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:152
+#: ../../build/doc/quickstart/osm_quickstart.rst:151
 msgid "By default, QGIS comes with OpenStreetMap basemap layer and is located in the `Browser Panel` under `XYZ Tiles`."
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:158
+#: ../../build/doc/quickstart/osm_quickstart.rst:157
 msgid "QuickMapServices"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:160
+#: ../../build/doc/quickstart/osm_quickstart.rst:159
 msgid "`QuickMapServices` plugin allows you to easily add various map services as basemaps with one click in QGIS."
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:162
+#: ../../build/doc/quickstart/osm_quickstart.rst:161
 msgid "Homepage: https://github.com/nextgis/quickmapservices"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:164
+#: ../../build/doc/quickstart/osm_quickstart.rst:163
 msgid "You have to enable the Plugin in QGIS. Search for `QuickMapServices` from `Plugins --> Manage and Install Plugins` in QGIS"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:165
+#: ../../build/doc/quickstart/osm_quickstart.rst:164
 msgid "Add an OSM basemap from `Web --> QuickMapServices --> OSM`"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:171
+#: ../../build/doc/quickstart/osm_quickstart.rst:170
 msgid "Start working with OSM data"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:173
+#: ../../build/doc/quickstart/osm_quickstart.rst:172
 msgid "There are several ways to download OpenStreetMap data for your region. You can get the data in several formats."
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:175
+#: ../../build/doc/quickstart/osm_quickstart.rst:174
 msgid "You can use the following tools and services to extract OSM data for your area of interest."
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:179
+#: ../../build/doc/quickstart/osm_quickstart.rst:178
 msgid "Geofabrik"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:181
+#: ../../build/doc/quickstart/osm_quickstart.rst:180
 msgid "`Geofabrik <https://download.geofabrik.de/>`_ provides daily worldwide OpenStreetMap data extracts by subregion and country. Choose the region or country you are interested in. Data is provided in three formats: `.osm.pbf`, `.shp.zip` and `.osm.bz2`. `.osm.pbf` and`.shp.zip` can be opened directly in QGIS."
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:185
+#: ../../build/doc/quickstart/osm_quickstart.rst:184
 msgid "**.osm.bz2** contains raw OSM XML files `.osm`, `osm2pgsql`_ works well with them, find out more about working with them here https://wiki.openstreetmap.org/wiki/OSM_XML"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:189
+#: ../../build/doc/quickstart/osm_quickstart.rst:188
 msgid "Overpass turbo"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:191
+#: ../../build/doc/quickstart/osm_quickstart.rst:190
 msgid "Overpass turbo is a web based data mining tool for OpenStreetMap based on the Overpass-API."
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:193
+#: ../../build/doc/quickstart/osm_quickstart.rst:192
 msgid "Have a look at the web client and download all the pubs in the FOSS4G city."
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:195
+#: ../../build/doc/quickstart/osm_quickstart.rst:194
 msgid "Open https://overpass-turbo.eu/"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:197
+#: ../../build/doc/quickstart/osm_quickstart.rst:196
 msgid "Click on the button `Wizard` and paste the query to the search column `amenity=pub in \"Buenos Aires\"`"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:198
+#: ../../build/doc/quickstart/osm_quickstart.rst:197
 msgid "Then click the button `build and run query`"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:199
+#: ../../build/doc/quickstart/osm_quickstart.rst:198
 msgid "Click `zoom to data` in the map canvas to navigate to your results"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:205
+#: ../../build/doc/quickstart/osm_quickstart.rst:204
 msgid "HOT Export Tool"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:207
+#: ../../build/doc/quickstart/osm_quickstart.rst:206
 msgid "The Humanitarian OpenStreetMap Team (HOT) provides an export tool for OpenStreetMap too. To use it you need an OSM account. You can download data in several formats and have history for your downloaded data and exports."
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:211
+#: ../../build/doc/quickstart/osm_quickstart.rst:210
 msgid "Here is a quickstart: https://export.hotosm.org/en/v3/learn/quick_start"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:215
+#: ../../build/doc/quickstart/osm_quickstart.rst:214
 msgid "What next?"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:217
+#: ../../build/doc/quickstart/osm_quickstart.rst:216
 msgid "Find out more about OSM on the website: https://www.openstreetmap.org"
 msgstr ""
 
-#: ../../build/doc/quickstart/osm_quickstart.rst:219
+#: ../../build/doc/quickstart/osm_quickstart.rst:218
 msgid "Get support: https://www.openstreetmap.org/help"
 msgstr ""
 
