@@ -35,7 +35,7 @@ Start the Jupyter server
 
 From the application launch menu in the lower left corner.
 
-* Choose  *Geospatial* -> *Spatial Tools* -> *Jupyter Notebook*
+* Choose *Geospatial* -> *Spatial Tools* -> *Jupyter Notebook*
 
 A terminal window will open and a startup log will begin to scroll. Afterwards a
 web browser is launched showing the Jupyter Notebook dashboard.

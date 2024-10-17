@@ -30,7 +30,7 @@ in a multi-threaded environment and is aimed primarily,  but not
 exclusively, at web-based development.
 
 High-level Python bindings (boost.python) facilitate rapid application
-development,  targeting zope3, django etc.
+development, targeting zope3, django etc.
 
 Mapnik is cross platform. Packages are available for most linux
 distributions and installers are commonly used on Mac OS X and windows.
