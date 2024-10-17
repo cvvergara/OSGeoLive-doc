@@ -69,7 +69,7 @@ From the toolbar on top of the notebook you can choose different options:
 
 * Cell-> Run Cells: will run the code in the cell with the focus and will move
   to the next cell.
-* Cell-> Run All:  will run all the cells and show the results If everything
+* Cell-> Run All: will run all the cells and show the results If everything
   worked as planned you should be able to see the results at the bottom of the
   page.
 
