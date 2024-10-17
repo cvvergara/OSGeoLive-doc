@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.14.0\n"
+"Generated-By: Babel 2.11.0\n"
 
 #: ../../build/doc/quickstart/pywps_quickstart.rst:23
 msgid "PyWPS Quickstart"
@@ -211,8 +211,8 @@ msgstr ""
 
 #: ../../build/doc/quickstart/pywps_quickstart.rst:163
 msgid ""
-"Deployment to production -  The `pywps-flask` service is just an example"
-" and not designed for production. One possible alternative is a Django "
+"Deployment to production - The `pywps-flask` service is just an example "
+"and not designed for production. One possible alternative is a Django "
 "based service, `pywps-django <https://github.com/jorgejesus/pywps-"
 "django>`_. The documentation provides further details on how to `set up a"
 " production service "
