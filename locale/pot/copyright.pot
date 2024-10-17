@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-14 01:55+0000\n"
+"POT-Creation-Date: 2024-10-17 01:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -89,7 +89,7 @@ msgid "**Concise CC-By-SA and attribution:**"
 msgstr ""
 
 #: ../../build/doc/copyright.rst:62
-msgid "© 2011 [Your Name] under a `CC By SA License <https://creativecommons.org/licenses/by-sa/3.0/>`__.  [Derived from|Includes|Extends] :doc:`OSGeoLive <index>` documentation by :doc:`OSGeoLive contributors <copyright>`."
+msgid "© 2011 [Your Name] under a `CC By SA License <https://creativecommons.org/licenses/by-sa/3.0/>`__. [Derived from|Includes|Extends] :doc:`OSGeoLive <index>` documentation by :doc:`OSGeoLive contributors <copyright>`."
 msgstr ""
 
 #: ../../build/doc/copyright.rst:67

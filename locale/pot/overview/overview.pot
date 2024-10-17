@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 15:05-0600\n"
+"POT-Creation-Date: 2024-10-17 01:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,7 +52,6 @@ msgstr ""
 #: ../../build/doc/<rst_epilog>:0
 #: ../../build/doc/<rst_epilog>:0
 #: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Project"
 msgstr ""
 
@@ -68,8 +67,6 @@ msgstr ""
 #: ../../build/doc/<rst_epilog>:0
 #: ../../build/doc/<rst_epilog>:0
 #: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
 msgstr ""
 
@@ -77,15 +74,6 @@ msgstr ""
 msgid "|vmdk| Included only on OSGeoLive VMDK version"
 msgstr ""
 
-#: ../../build/doc/<rst_epilog>:13
-#: ../../build/doc/<rst_epilog>:13
-#: ../../build/doc/<rst_epilog>:13
-#: ../../build/doc/<rst_epilog>:13
-#: ../../build/doc/<rst_epilog>:13
-#: ../../build/doc/<rst_epilog>:13
-#: ../../build/doc/<rst_epilog>:13
-#: ../../build/doc/<rst_epilog>:13
-#: ../../build/doc/<rst_epilog>:13
 #: ../../build/doc/<rst_epilog>:13
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
@@ -104,7 +92,7 @@ msgid "|OSGeo_project| :doc:`grass_overview` - [:doc:`Quickstart <../quickstart/
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:43
-msgid "|OSGeo_project| |vmdk| :doc:`gvsig_overview` - [:doc:`Quickstart <../quickstart/gvsig_quickstart>`]"
+msgid "|OSGeo_project||vmdk| :doc:`gvsig_overview` - [:doc:`Quickstart <../quickstart/gvsig_quickstart>`]"
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:45
@@ -141,17 +129,11 @@ msgstr ""
 #: ../../build/doc/<rst_epilog>:16
 #: ../../build/doc/<rst_epilog>:16
 #: ../../build/doc/<rst_epilog>:16
-#: ../../build/doc/<rst_epilog>:16
-#: ../../build/doc/<rst_epilog>:16
-#: ../../build/doc/<rst_epilog>:16
-#: ../../build/doc/<rst_epilog>:16
-#: ../../build/doc/<rst_epilog>:16
-#: ../../build/doc/<rst_epilog>:16
 msgid "nologo"
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:49
-msgid "|nologo| |vmdk| :doc:`qfield_overview` - [:doc:`Quickstart <../quickstart/qfield_quickstart>`]"
+msgid "|nologo||vmdk| :doc:`qfield_overview` - [:doc:`Quickstart <../quickstart/qfield_quickstart>`]"
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:51
@@ -159,7 +141,7 @@ msgid "|nologo| :doc:`saga_overview` - [:doc:`Quickstart <../quickstart/saga_qui
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:53
-msgid "|nologo| |vmdk| :doc:`udig_overview` - [:doc:`Quickstart <../quickstart/udig_quickstart>`]"
+msgid "|nologo||vmdk| :doc:`udig_overview` - [:doc:`Quickstart <../quickstart/udig_quickstart>`]"
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:57
@@ -255,7 +237,7 @@ msgid "|OSGeo_project| :doc:`zoo-project_overview` - [:doc:`Quickstart <../quick
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:165
-msgid "|OSGeo_community| |vmdk| :doc:`actinia_overview` - [:doc:`Quickstart <../quickstart/actinia_quickstart>`] - Processing of Geographical Data"
+msgid "|OSGeo_community||vmdk| :doc:`actinia_overview` - [:doc:`Quickstart <../quickstart/actinia_quickstart>`] - Processing of Geographical Data"
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:167
@@ -263,7 +245,7 @@ msgid "|nologo| :doc:`eoxserver_overview` - [:doc:`Quickstart <../quickstart/eox
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:169
-msgid "|nologo| |vmdk| :doc:`ETF_overview` - [:doc:`Quickstart <../quickstart/ETF_quickstart>`] - Testing framework for validating spatial data, metadata and web services in Spatial Data Infrastructures (SDIs)"
+msgid "|nologo||vmdk| :doc:`ETF_overview` - [:doc:`Quickstart <../quickstart/ETF_quickstart>`] - Testing framework for validating spatial data, metadata and web services in Spatial Data Infrastructures (SDIs)"
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:171
@@ -271,7 +253,7 @@ msgid "|nologo| :doc:`qgis_mapserver_overview` - [:doc:`Quickstart <../quickstar
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:173
-msgid "|nologo| |vmdk| :doc:`re3gistry_overview` - [:doc:`Quickstart <../quickstart/re3gistry_quickstart>`] - Management of reference codes"
+msgid "|nologo||vmdk| :doc:`re3gistry_overview` - [:doc:`Quickstart <../quickstart/re3gistry_quickstart>`] - Management of reference codes"
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:175
@@ -279,7 +261,7 @@ msgid "|nologo| :doc:`t-rex_overview` - [:doc:`Quickstart <../quickstart/t-rex_q
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:177
-msgid "|nologo| |vmdk| :doc:`52nSOS_overview` - [:doc:`Quickstart <../quickstart/52nSOS_quickstart>`] - Sensor Observation Service"
+msgid "|nologo||vmdk| :doc:`52nSOS_overview` - [:doc:`Quickstart <../quickstart/52nSOS_quickstart>`] - Sensor Observation Service"
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:181
@@ -299,7 +281,7 @@ msgid "|OSGeo_community| :doc:`pgrouting_overview` - [:doc:`Quickstart <../quick
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:203
-msgid "|OSGeo_community| |vmdk| :doc:`rasdaman_overview` - [:doc:`Quickstart <../quickstart/rasdaman_quickstart>`] - Multi-Dimensional Raster Database"
+msgid "|OSGeo_community||vmdk| :doc:`rasdaman_overview` - [:doc:`Quickstart <../quickstart/rasdaman_quickstart>`] - Multi-Dimensional Raster Database"
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:205
@@ -351,7 +333,7 @@ msgid "|OSGeo_project| :doc:`otb_overview` - [:doc:`Quickstart <../quickstart/ot
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:265
-msgid "|nologo| |vmdk| :doc:`gmt_overview` - [:doc:`Quickstart <../quickstart/gmt_quickstart>`] - Cartographic Rendering"
+msgid "|nologo||vmdk| :doc:`gmt_overview` - [:doc:`Quickstart <../quickstart/gmt_quickstart>`] - Cartographic Rendering"
 msgstr ""
 
 #: ../../build/doc/overview/overview.rst:267

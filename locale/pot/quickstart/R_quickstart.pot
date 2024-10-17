@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 15:05-0600\n"
+"POT-Creation-Date: 2024-10-17 01:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -169,7 +169,7 @@ msgid "For more information on spatial aspects of R, the best place to start is 
 msgstr ""
 
 #: ../../build/doc/quickstart/R_quickstart.rst:275
-msgid "You might also want to check out the  `R-Spatial <https://r-spatial.org>`_ and `RSpatial <https://rspatial.org>`_ pages."
+msgid "You might also want to check out the `R-Spatial <https://r-spatial.org>`_ and `RSpatial <https://rspatial.org>`_ pages."
 msgstr ""
 
 #: ../../build/doc/<rst_epilog>:13
