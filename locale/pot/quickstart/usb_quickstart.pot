@@ -77,114 +77,114 @@ msgid "(This is the recommended process for creating a USB. It is applicable to 
 msgstr ""
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:45
-msgid "The version of Ubuntu you are running, needs to be the same or newer than the version of Lubuntu being installed onto your USB. If installing OSGeoLive 8.0 onto a USB, then you will need to be running Ubuntu 14.04 or newer."
-msgstr ""
-
-#: ../../build/doc/quickstart/usb_quickstart.rst:47
-msgid ":doc:`Download <../download>` osgeolive or osgeolive-mini to your computer's hard drive."
+msgid "The version of Ubuntu you are running, needs to be the same or newer than the version of Lubuntu being installed onto your USB.  If installing OSGeoLive 8.0 onto a USB, then you will need to be running Ubuntu 14.04 or newer."
 msgstr ""
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:49
-msgid "Boot your computer into a recent Ubuntu/Xbuntu distribution. You can do this by running from an OSGeoLive DVD, as explained in :doc:`osgeolive_quickstart`."
+msgid ":doc:`Download <../download>` osgeolive or osgeolive-mini to your computer's hard drive."
 msgstr ""
 
 #: ../../build/doc/quickstart/usb_quickstart.rst:51
+msgid "Boot your computer into a recent Ubuntu/Xbuntu distribution. You can do this by running from an OSGeoLive DVD, as explained in :doc:`osgeolive_quickstart`."
+msgstr ""
+
+#: ../../build/doc/quickstart/usb_quickstart.rst:53
 msgid "Insert the USB flash drive into your computer."
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:56
+#: ../../build/doc/quickstart/usb_quickstart.rst:58
 msgid "Select :menuselection:`System Tools --> Startup Disk Creator`, or search for `Startup Disk Creator` from the Unity desktop."
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:61
+#: ../../build/doc/quickstart/usb_quickstart.rst:63
 msgid "Select the osgeolive or osgeolive-mini ISO Image that you downloaded earlier."
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:63
+#: ../../build/doc/quickstart/usb_quickstart.rst:65
 msgid "Select the USB flash drive. If you have extra room you might adjust the slider to create persistent storage space on the USB drive (recommended). In order for this option to be available you will need an 8+ GB USB flash drive."
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:65
+#: ../../build/doc/quickstart/usb_quickstart.rst:67
 msgid "Select :guilabel:`Make Startup Disk`"
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:70
+#: ../../build/doc/quickstart/usb_quickstart.rst:72
 msgid "Wait 20 minutes or so for the USB flash drive to be created."
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:74
+#: ../../build/doc/quickstart/usb_quickstart.rst:76
 msgid "Booting from the USB drive:"
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:76
+#: ../../build/doc/quickstart/usb_quickstart.rst:78
 msgid "Start with the computer off."
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:77
+#: ../../build/doc/quickstart/usb_quickstart.rst:79
 msgid "Insert the USB drive into an open USB port."
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:78
+#: ../../build/doc/quickstart/usb_quickstart.rst:80
 msgid "Power on the Machine and select to boot from USB:"
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:80
+#: ../../build/doc/quickstart/usb_quickstart.rst:82
 msgid "Most computers are not set to boot from a USB drive by default."
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:81
+#: ../../build/doc/quickstart/usb_quickstart.rst:83
 msgid "When booting, look for a message indicating a Boot Menu (most commonly you press F12)"
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:82
+#: ../../build/doc/quickstart/usb_quickstart.rst:84
 msgid "If your computer does not have a boot menu, then boot into your system BIOS. The button to enter BIOS varies by brand and model of computer. If you can't figure out yours try this website that lists many BIOS hotkeys. https://www.mydigitallife.net/comprehensive-list-of-how-key-to-press-to-access-bios-for-various-oem-and-computer-systems/"
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:84
+#: ../../build/doc/quickstart/usb_quickstart.rst:86
 msgid "Select to boot from the USB device."
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:86
+#: ../../build/doc/quickstart/usb_quickstart.rst:88
 msgid "Note, that for some computers you will need to have the USB drive inserted into the computer in order to select it."
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:87
+#: ../../build/doc/quickstart/usb_quickstart.rst:89
 msgid "Note also, the USB drive is often listed under hard drives rather than removable devices."
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:88
+#: ../../build/doc/quickstart/usb_quickstart.rst:90
 msgid "This `Video <https://www.youtube.com/watch?v=eQBdVO-n6Mg>`_ demonstrates booting from USB."
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:91
+#: ../../build/doc/quickstart/usb_quickstart.rst:93
 msgid "Run:"
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:93
+#: ../../build/doc/quickstart/usb_quickstart.rst:95
 msgid "Run as per: :doc:`osgeolive_quickstart`"
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:96
+#: ../../build/doc/quickstart/usb_quickstart.rst:98
 msgid "See Also:"
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:98
+#: ../../build/doc/quickstart/usb_quickstart.rst:100
 msgid ":doc:`osgeolive_quickstart`"
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:99
+#: ../../build/doc/quickstart/usb_quickstart.rst:101
 msgid ":doc:`virtualization_quickstart`"
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:100
+#: ../../build/doc/quickstart/usb_quickstart.rst:102
 msgid ":doc:`osgeolive_install_quickstart`"
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:101
+#: ../../build/doc/quickstart/usb_quickstart.rst:103
 msgid "Alternative USB creation methods and latest tips are collected here: `wiki <https://wiki.osgeo.org/wiki/Live_GIS_Disc_Quick_Start_for_USB>`_"
 msgstr ""
 
-#: ../../build/doc/quickstart/usb_quickstart.rst:102
+#: ../../build/doc/quickstart/usb_quickstart.rst:104
 msgid "Questions can be directed to our email list: https://lists.osgeo.org/pipermail/osgeolive/"
 msgstr ""
 

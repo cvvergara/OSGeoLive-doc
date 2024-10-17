@@ -164,47 +164,47 @@ msgstr ""
 msgid "Features within vector layers can be styled. The style is determined by a combination of fill, stroke, text and image, which are all optional. In addition, a style can be applied to a layer, which determines the style of all contained features, or to an individual feature."
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:236
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:238
 msgid "A style is represented by the ``ol.style.Style`` class which has properties to set the ``fill``, ``stroke``, ``text`` and ``image`` to be applied. The next example shows the World's administrative limits dataset styled to use a green fill and stroke:"
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:266
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:268
 msgid "In the code, we have loaded a TopoJSON file and styled it through the ``style`` property. We have set a ``fill`` and ``stroke``, required for lines and polygons, and an ``image`` (in this case a circle) used for point features."
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:271
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:273
 msgid "Work with events"
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:273
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:275
 msgid "Most of the components, like map, layers or controls, trigger events to notify changes. For example we can be notified each time the mouse is moved over the map, or when a feature is added to a vector layer, etc."
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:275
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:277
 msgid "Events can be easily registered on an object with the ``on()`` method and unregistered with ``un()``."
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:277
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:279
 msgid "The following code registers an event on a map instance, and will be notified each time the pointer is moved. Within the callback function we obtain the pointer coordinates and print in the browser console in two different projections."
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:290
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:292
 msgid "What next?"
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:292
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:294
 msgid "Sometimes the quickest way to work out how OpenLayers works is to look at examples and their source code. You can find more OpenLayers information here:"
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:295
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:297
 msgid "`API Docs <https://localhost/openlayers/apidoc/>`_"
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:297
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:299
 msgid "`Examples <https://localhost/openlayers/examples/>`_"
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:299
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:301
 msgid "`OpenLayers.org Website <https://openlayers.org/>`_"
 msgstr ""
 

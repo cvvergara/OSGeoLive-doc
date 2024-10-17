@@ -104,23 +104,23 @@ msgstr ""
 msgid "If you saved the XyGrib file into your home directory, navigate to :file:`/home` and select your ``user`` directory as the GRIB data directory. Then right click on the file listing's background to show hidden files, including the ``.xygrib`` directory that contains the GRIB download files."
 msgstr ""
 
-#: ../../build/doc/quickstart/opencpn_quickstart.rst:84
+#: ../../build/doc/quickstart/opencpn_quickstart.rst:87
 msgid "There is no need to uncompress the file. Click on the \">\" to the left of the filename and select from the list of available forecast times."
 msgstr ""
 
-#: ../../build/doc/quickstart/opencpn_quickstart.rst:88
+#: ../../build/doc/quickstart/opencpn_quickstart.rst:92
 msgid "What next?"
 msgstr ""
 
-#: ../../build/doc/quickstart/opencpn_quickstart.rst:90
+#: ../../build/doc/quickstart/opencpn_quickstart.rst:94
 msgid "Documentation is available from the Help menu or online at https://opencpn.org/OpenCPN/info/manuals.html"
 msgstr ""
 
-#: ../../build/doc/quickstart/opencpn_quickstart.rst:95
+#: ../../build/doc/quickstart/opencpn_quickstart.rst:99
 msgid "Website: https://www.opencpn.org"
 msgstr ""
 
-#: ../../build/doc/quickstart/opencpn_quickstart.rst:97
+#: ../../build/doc/quickstart/opencpn_quickstart.rst:101
 msgid "Support: https://www.cruisersforum.com/forums/f134"
 msgstr ""
 
