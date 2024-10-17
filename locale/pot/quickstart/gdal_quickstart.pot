@@ -213,7 +213,7 @@ msgid "Here we reproject to the Ortho projection."
 msgstr ""
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:250
-msgid "Note how the poles are clipped?  This is because the edges at the pole can't be reprojected gdalwarp does not read all the data.  We can force gdalwarp to read a bunch of surplus data around chunks as one way to resolve this."
+msgid "Note how the poles are clipped? This is because the edges at the pole can't be reprojected gdalwarp does not read all the data.  We can force gdalwarp to read a bunch of surplus data around chunks as one way to resolve this."
 msgstr ""
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:256
