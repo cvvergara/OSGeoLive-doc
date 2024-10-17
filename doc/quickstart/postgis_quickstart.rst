@@ -477,8 +477,8 @@ from the Databases folder, existing on the OSGeoLive Desktop.
   :align: center
 
 Here, you have the option of creating a new connection to a PostgreSQL server,
-or connecting to an existing server.  The red "X" on the ``PostgreSQL`` server
-denotes that you haven't been yet connected.  Click on it then enter the user
+or connecting to an existing server. The red "X" on the ``PostgreSQL`` server
+denotes that you haven't been yet connected. Click on it then enter the user
 name ``user`` and the master password ``user``.
 
 After connection established, you can see the list of the databases already existing in the system.

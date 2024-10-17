@@ -148,7 +148,7 @@ What does the above mean? If we put it in simple words, it's a |WMS|
 **GetMap**
 request that tells MapServer to "*use the following Mapfile to render the
 specified layers as a png image based on some user-supplied parameters such
-as image size, geographical extent, projection, etc.*".  All layers
+as image size, geographical extent, projection, etc.*". All layers
 specified in the "*&LAYERS=...*" property having *STATUS ON* in the Mapfile
 will be rendered in addition to all layers with *STATUS DEFAULT*. The
 result looks like the following:

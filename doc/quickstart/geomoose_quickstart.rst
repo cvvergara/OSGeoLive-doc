@@ -75,7 +75,7 @@ The GeoMoose measure tool allows you to:
 #. Click the double ended arrow icon in the top toolbar to start the measuring tool.
 #. Choose to measure a point, line, or polygon.
 #. Click on the map where you want to measure. To measure a point, just click
-   the point on the map you want to measure.  To measure a line or polygon click
+   the point on the map you want to measure. To measure a line or polygon click
    on the map for each vertex a of the line/polygon.
 #. Double click to end the line/polygon.
 

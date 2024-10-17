@@ -24,9 +24,9 @@ Core Features
 --------------------------------------------------------------------------------
 
 Essentially a collection of geographic objects (map, layer, datasource,
-feature, geometry),  the library doesn't rely on "windowing systems" and
-can be deployed in any server environment.  It is intended to play fair
-in a multi-threaded environment and is aimed primarily,  but not
+feature, geometry), the library doesn't rely on "windowing systems" and
+can be deployed in any server environment. It is intended to play fair
+in a multi-threaded environment and is aimed primarily, but not
 exclusively, at web-based development.
 
 High-level Python bindings (boost.python) facilitate rapid application
