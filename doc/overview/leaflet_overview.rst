@@ -15,9 +15,7 @@
 Browser/Mobile Map Library
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Leaflet is an JavaScript library for browser based, mobile-friendly, interactive
-maps. It is light weight, yet has all the features most developers ever need for
-online maps.
+Leaflet is an JavaScript library for browser based, mobile-friendly, interactive maps. It is light weight, yet has all the features most developers ever need for online maps.
 
 Leaflet is designed with simplicity, performance and usability in mind.
 It works efficiently across all major desktop and mobile platforms out of

@@ -411,12 +411,10 @@ Most of the OSGeo desktop tools have functions for importing spatial data from o
 
 Importing shapefiles to QGIS can be done via the handy QGIS Database Manager. You find the manager in the menu. Go to ``Database -> DB Manager``.
 
-Deploys the Postgis item, then the NaturalEarth item. It will then connect to
-the Natural Earth database. Leave the password blank if it asks. In the public
-item, there is the list of the layers provided by the database. You'll see the
-main manager window. On the left you can select tables from the database and use
-the tabs on the right find out about them. The Preview tab will show you a
-little map.
+Deploys the Postgis item, then the NaturalEarth item. It will then connect to the Natural Earth database. Leave
+the password blank if it asks. In the public item, there is the list of the layers provided by the database. You'll see the main manager window. On the left you can select
+tables from the database and use the tabs on the right find out about them. The Preview tab
+will show you a little map.
 
 .. image:: /images/projects/postgis/postgis_managerpreview.png
   :scale: 75 %
@@ -476,10 +474,9 @@ from the Databases folder, existing on the OSGeoLive Desktop.
   :alt: phpPgAdmin main
   :align: center
 
-Here, you have the option of creating a new connection to a PostgreSQL server,
-or connecting to an existing server. The red "X" on the ``PostgreSQL`` server
-denotes that you haven't been yet connected. Click on it then enter the user
-name ``user`` and the master password ``user``.
+Here, you have the option of creating a new connection to a PostgreSQL server, or connecting to an existing server.
+The red "X" on the ``PostgreSQL`` server denotes that you haven't been yet connected.
+Click on it then enter the user name ``user`` and the master password ``user``.
 
 After connection established, you can see the list of the databases already existing in the system.
 
