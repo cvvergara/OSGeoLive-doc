@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-17 01:22+0000\n"
+"POT-Creation-Date: 2024-08-17 21:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -172,27 +172,27 @@ msgstr ""
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:130
 msgid ""
-"Learn more about the OGC |WCPS| Language standard (which was heavily "
+"Learn more about the OGC  |WCPS| Language standard (which was heavily "
 "inspired by rasdaman); a good starting point is the `documentation and "
 "tutorials page <https://standards.rasdaman.com/>`_  and `WCPS Query "
 "SandBox <http://localhost/rasdaman-demo/demo/client/query-"
 "sandbox.html>`_."
 msgstr ""
 
-#: ../../build/doc/quickstart/rasdaman_quickstart.rst:134
+#: ../../build/doc/quickstart/rasdaman_quickstart.rst:133
 msgid ""
 "Interested in coverage data and services in general? Visit OGC's "
 "`Coverages Domain Working Group wiki "
 "<https://external.ogc.org/twiki_public/CoveragesDWG/WebHome>`_."
 msgstr ""
 
-#: ../../build/doc/quickstart/rasdaman_quickstart.rst:135
+#: ../../build/doc/quickstart/rasdaman_quickstart.rst:134
 msgid ""
 "Explore the `rasdaman documentation <https://doc.rasdaman.org>`_ to learn"
 " about rasdaman administration, its query language, and data ingestion."
 msgstr ""
 
-#: ../../build/doc/quickstart/rasdaman_quickstart.rst:136
+#: ../../build/doc/quickstart/rasdaman_quickstart.rst:135
 msgid ""
 "Go to the `multi-dimensional demo <http://localhost/rasdaman-demo>`_ to "
 "explore interactive 1-D to 4-D rasdaman demos. The small ones are part of"

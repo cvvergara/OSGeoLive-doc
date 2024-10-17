@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-17 01:22+0000\n"
+"POT-Creation-Date: 2024-08-17 21:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -87,7 +87,7 @@ msgid "Interoperable: able to work with most known data formats:"
 msgstr ""
 
 #: ../../build/doc/overview/gvsig_overview.rst:46
-msgid "raster : ecw, ENVI hdr, ERDAS img, (Geo)TIFF, GRASS, NetCDF..."
+msgid "raster : ecw,  ENVI hdr, ERDAS img, (Geo)TIFF, GRASS, NetCDF..."
 msgstr ""
 
 #: ../../build/doc/overview/gvsig_overview.rst:47
@@ -241,7 +241,7 @@ msgid "Export/import of Web Map Context (WMC)"
 msgstr ""
 
 #: ../../build/doc/overview/gvsig_overview.rst:97
-msgid "Search on catalogues with CSW (ISO/19115 and ebRIM)"
+msgid "Search on catalogues with  CSW (ISO/19115 and ebRIM)"
 msgstr ""
 
 #: ../../build/doc/overview/gvsig_overview.rst:98

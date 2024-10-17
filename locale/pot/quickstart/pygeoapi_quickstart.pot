@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-17 01:22+0000\n"
+"POT-Creation-Date: 2024-08-17 15:05-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -105,34 +105,34 @@ msgid "Now that we have the service available we can query it using various clie
 msgstr ""
 
 #: ../../build/doc/quickstart/pygeoapi_quickstart.rst:102
-msgid "Each Open API has an interactive documentation page at http://localhost:5000/openapi. In this interactive webpage you can read about the various methods in the service, but also directly interact with them via web forms."
+msgid "Each Open API has an interactive documentation page at  http://localhost:5000/openapi. In this interactive webpage you can read about the various methods in the service, but also directly interact with them via web forms."
 msgstr ""
 
-#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:110
+#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:107
 msgid "OGC API’s have been developed with the `W3C Spatial Data on the Web Best Practices <https://www.w3.org/TR/sdw-bp>`_ in mind. An important aspect of these best practices is search engine optimization. Pygeoapi adds some crawl optimizations on top of the requirements of the Open API standards; collection metadata can be crawled by search engines in a structured way, with the goal to make the collections discoverable in tools like Google Dataset Search. To evaluate the structured data capabilities you can use the Structured Data Testing tools of Yandex or Google. Copy the html source of the countries collection page (or the url of a collection page of an online pygeoapi instance) into a structured data testing tool and evaluate what structured data the tool is able to extract from it. The search engine will use that information in its datasets index."
 msgstr ""
 
-#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:113
+#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:110
 msgid "Using OGC API - Features in Desktop GIS"
 msgstr ""
 
-#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:115
+#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:112
 msgid "In this quickstart we use QGIS to query the service, but similar workflow is possible in other GIS tooling, e.g. ArcGIS, FME, OpenLayers."
 msgstr ""
 
-#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:117
+#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:114
 msgid "Starting from QGIS 3.14 you can add an OGC API - Features layer as vector layer. From the ``Layer / Add Layer`` menu select ``Add WFS Layer...``."
 msgstr ""
 
-#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:122
+#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:119
 msgid "On the window that opens create a new connection, enter the url to the service http://localhost:5000."
 msgstr ""
 
-#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:124
+#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:121
 msgid "Click Ok, and then ``connect`` to load the available collections in the service."
 msgstr ""
 
-#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:129
+#: ../../build/doc/quickstart/pygeoapi_quickstart.rst:126
 msgid "Select the ``countries`` collection and click ‘Add’ to add the layer in the QGIS map."
 msgstr ""
 

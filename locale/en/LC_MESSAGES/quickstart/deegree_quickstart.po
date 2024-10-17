@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-17 01:22+0000\n"
+"POT-Creation-Date: 2024-08-17 15:05-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.16.0\n"
+"Generated-By: Babel 2.14.0\n"
 
 #: ../../build/doc/quickstart/deegree_quickstart.rst:23
 msgid "deegree Quickstart"
@@ -121,11 +121,11 @@ msgstr ""
 #: ../../build/doc/quickstart/deegree_quickstart.rst:70
 msgid ""
 "Click on the **+** on the right side to open a layer tree showing all "
-"available layers. You can activate the a variety of layers served by the "
-"deegree WMS here."
+"available  layers. You can activate the a variety of layers served by the"
+" deegree WMS here."
 msgstr ""
 
-#: ../../build/doc/quickstart/deegree_quickstart.rst:75
+#: ../../build/doc/quickstart/deegree_quickstart.rst:73
 msgid ""
 "The map client is based on `OpenLayers <https://openlayers.org/>`_. You "
 "can pan through the map holding the left mouse button and drag the map. "
@@ -133,27 +133,27 @@ msgid ""
 "left side."
 msgstr ""
 
-#: ../../build/doc/quickstart/deegree_quickstart.rst:80
+#: ../../build/doc/quickstart/deegree_quickstart.rst:78
 msgid "What next?"
 msgstr ""
 
-#: ../../build/doc/quickstart/deegree_quickstart.rst:82
+#: ../../build/doc/quickstart/deegree_quickstart.rst:80
 msgid ""
 "This was just a short introduction to the features of deegree 3. There is"
 " more information in the demo installations and on the deegree website."
 msgstr ""
 
-#: ../../build/doc/quickstart/deegree_quickstart.rst:85
+#: ../../build/doc/quickstart/deegree_quickstart.rst:83
 msgid "deegree website - Available here: https://www.deegree.org"
 msgstr ""
 
-#: ../../build/doc/quickstart/deegree_quickstart.rst:87
+#: ../../build/doc/quickstart/deegree_quickstart.rst:85
 msgid ""
 "deegree documentation - Available here: "
 "https://www.deegree.org/documentation/"
 msgstr ""
 
-#: ../../build/doc/quickstart/deegree_quickstart.rst:89
+#: ../../build/doc/quickstart/deegree_quickstart.rst:87
 msgid ""
 "deegree docker images - Available here: "
 "https://hub.docker.com/r/deegree/deegree3-docker/"

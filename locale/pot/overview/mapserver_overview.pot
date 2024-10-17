@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 16.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-17 01:22+0000\n"
+"POT-Creation-Date: 2024-08-17 15:05-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -181,7 +181,7 @@ msgid "Implemented Standards"
 msgstr ""
 
 #: ../../build/doc/overview/mapserver_overview.rst:93
-msgid "Support of numerous Open Geospatial Consortium (OGC) standards"
+msgid "Support of numerous Open Geospatial Consortium  (OGC) standards"
 msgstr ""
 
 #: ../../build/doc/overview/mapserver_overview.rst:95
