@@ -1,30 +1,30 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2011~2022, OSGeo
 # This file is distributed under the same license as the OSGeoLive package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
 # Translators:
 # Vicky Vergara <vicky@georepublic.de>, 2021
 # Nicolas Roelandt (Personnel), 2022
-# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-03 09:57+0000\n"
+"POT-Creation-Date: 2024-08-17 21:19+0000\n"
 "PO-Revision-Date: 2017-09-20 16:05+0000\n"
 "Last-Translator: Nicolas Roelandt (Personnel), 2022\n"
-"Language-Team: French (https://www.transifex.com/osgeo/teams/66156/fr/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Language-Team: French (https://www.transifex.com/osgeo/teams/66156/fr/)\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:15
-msgid ""
-"This project is only included on the OSGeoLive virtual machine disk (VMDK)"
+msgid "This project is only included on the OSGeoLive virtual machine disk (VMDK)"
 msgstr ""
 "Ce projet n’est inclus que sur le disque de machine virtuelle OSGeoLive "
 "(VMDK)"
@@ -36,26 +36,26 @@ msgstr "Guide de démarrage rapide avec Rasdaman"
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:25
 msgid ""
 "Rasdaman is a Big Data Engine for flexible ad-hoc analytics on multi-"
-"dimensional spatio-temporal sensor, image, simulation, and statistics data "
-"of unlimited size. The Web Coverage Processing Service (WCPS) query language"
-" is an Open Geospatial Consortium (OGC) standard wich allows filtering and "
-"processing of multi-dimensional raster coverages, such as sensor, "
-"simulation, image, and statistics data using web services. The WCPS queries "
-"are translated to rasdaman query language, rasql, and are executed on "
-"rasdaman. This quick start shows how to access and manipulate an example 2D "
-"coverage using WCPS language."
+"dimensional spatio-temporal sensor, image, simulation, and statistics "
+"data of unlimited size. The Web Coverage Processing Service (WCPS) query "
+"language is an Open Geospatial Consortium (OGC) standard wich allows "
+"filtering and processing of multi-dimensional raster coverages, such as "
+"sensor, simulation, image, and statistics data using web services. The "
+"WCPS queries are translated to rasdaman query language, rasql, and are "
+"executed on rasdaman. This quick start shows how to access and manipulate"
+" an example 2D coverage using WCPS language."
 msgstr ""
 "Rasdaman est un moteur Big Data pour l’analyse ad hoc flexible sur les "
 "données multidimensionnelles de capteur spatio-temporel, d’image, de "
-"simulation et de statistiques de taille illimitée. Le langage de requête du "
-"Service de traitement de la couverture Web (WCPS) est une norme de l'Open "
-"Geospatial Consortium (OGC) qui permet le filtrage et le traitement des "
-"couvertures raster multidimensionnelles, telles que les données sur les "
-"capteurs, la simulation, l’image et les statistiques à l’aide de services "
-"Web. Les requêtes WCPS sont traduites en langue de requête rasdaman, rasql, "
-"et sont exécutées sur rasdaman. Ce guide de démarrage rapide montre comment "
-"accéder et manipuler une couverture 2D par exemple en utilisant le langage "
-"WCPS."
+"simulation et de statistiques de taille illimitée. Le langage de requête "
+"du Service de traitement de la couverture Web (WCPS) est une norme de "
+"l'Open Geospatial Consortium (OGC) qui permet le filtrage et le "
+"traitement des couvertures raster multidimensionnelles, telles que les "
+"données sur les capteurs, la simulation, l’image et les statistiques à "
+"l’aide de services Web. Les requêtes WCPS sont traduites en langue de "
+"requête rasdaman, rasql, et sont exécutées sur rasdaman. Ce guide de "
+"démarrage rapide montre comment accéder et manipuler une couverture 2D "
+"par exemple en utilisant le langage WCPS."
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:31
 msgid "Contents"
@@ -68,27 +68,27 @@ msgstr "Configuration"
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:36
 msgid ""
 "The first step before trying any of the following queries is to start "
-"rasdaman and Tomcat. Open the *Databases* directory on the Desktop, and then"
-" *Start Rasdaman Server*. Allow two to three minutes for rasdaman and "
-"especially Tomcat to fully start (once the `rasdaman web client "
+"rasdaman and Tomcat. Open the *Databases* directory on the Desktop, and "
+"then *Start Rasdaman Server*. Allow two to three minutes for rasdaman and"
+" especially Tomcat to fully start (once the `rasdaman web client "
 "<http://localhost:8080/rasdaman/ows>`_ loads in the browser)."
 msgstr ""
 "La première étape avant d’essayer l’une des requêtes suivantes est de "
-"commencer rasdaman et Tomcat. Ouvrez l’annuaire *Databases* sur le bureau, "
-"puis *Start Rasdaman Server*. Prévoyez deux à trois minutes pour rasdaman et"
-" surtout Tomcat pour démarrer complètement (une fois que le `client web "
-"rasdaman <http://localhost:8080/rasdaman/ows>`_ est chargé dans le "
-"navigateur)."
+"commencer rasdaman et Tomcat. Ouvrez l’annuaire *Databases* sur le "
+"bureau, puis *Start Rasdaman Server*. Prévoyez deux à trois minutes pour "
+"rasdaman et surtout Tomcat pour démarrer complètement (une fois que le "
+"`client web rasdaman <http://localhost:8080/rasdaman/ows>`_ est chargé "
+"dans le navigateur)."
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:42
 msgid ""
-"Afterwards, you can open *Rasdaman-Earthlook Demo* from the same directory, "
-"which will launch a local demonstrator in the browser. For a more hands-on "
-"tutorial though, continue with the next examples here."
+"Afterwards, you can open *Rasdaman-Earthlook Demo* from the same "
+"directory, which will launch a local demonstrator in the browser. For a "
+"more hands-on tutorial though, continue with the next examples here."
 msgstr ""
 "Ensuite, vous pouvez ouvrir *Rasdaman-Earthlook Demo* à partir du même "
-"répertoire, qui lancera un démonstrateur local dans le navigateur. Pour un "
-"tutoriel plus pratique, continuez avec les prochains exemples ici."
+"répertoire, qui lancera un démonstrateur local dans le navigateur. Pour "
+"un tutoriel plus pratique, continuez avec les prochains exemples ici."
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:48
 msgid "Running WCPS queries"
@@ -104,9 +104,9 @@ msgid ""
 "switch to the *ProcessCoverages* tab, and enter your query in the query "
 "boxes and press send."
 msgstr ""
-"Allez sur le `client web rasdaman <http://localhost:8080/rasdaman/ows>`_, "
-"passez à l’onglet *ProcessCoverages* et entrez votre requête dans les cases "
-"de requête et appuyez sur envoyer."
+"Allez sur le `client web rasdaman <http://localhost:8080/rasdaman/ows>`_,"
+" passez à l’onglet *ProcessCoverages* et entrez votre requête dans les "
+"cases de requête et appuyez sur envoyer."
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:52
 msgid ""
@@ -115,8 +115,8 @@ msgid ""
 "browser."
 msgstr ""
 "Ajoutez votre requête dans cette url : utilisez "
-"http://localhost:8080/rasdaman/ows?query=your_query à exécuter à l’aide d’un"
-" navigateur."
+"http://localhost:8080/rasdaman/ows?query=your_query à exécuter à l’aide "
+"d’un navigateur."
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:56
 msgid "Running coverage"
@@ -127,8 +127,8 @@ msgid ""
 "The example coverage which will be used subsequently is a 6 MB image as "
 "below:"
 msgstr ""
-"L’exemple de couverture qui sera utilisé ultérieurement est une image de 6 "
-"Mo comme ci-dessous:"
+"L’exemple de couverture qui sera utilisé ultérieurement est une image de "
+"6 Mo comme ci-dessous:"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:64
 msgid "Access full coverage"
@@ -136,10 +136,10 @@ msgstr "Accéder à la couverture complète"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:66
 msgid "The WCPS query to access the full coverage is as follows:"
-msgstr ""
-"La requête WCPS pour accéder à la couverture complète est la suivante :"
+msgstr "La requête WCPS pour accéder à la couverture complète est la suivante :"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:72
+#, python-format
 msgid ""
 "Click on `coverage request "
 "<http://localhost:8080/rasdaman/ows?query=for%20c%20in%20(NIR)%20return%20encode%28c,%20%22png%22%29>`_"
@@ -160,6 +160,7 @@ msgstr ""
 "suivante :"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:84
+#, python-format
 msgid ""
 "Click on the `subsetting request "
 "<http://localhost:8080/rasdaman/ows?query=for%20c%20in%20(NIR)%20return%20encode%28c[i(0:500),"
@@ -184,6 +185,7 @@ msgstr ""
 "suivante :"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:101
+#, python-format
 msgid ""
 "Click on `band extraction "
 "<http://localhost:8080/rasdaman/ows?query=for%20c%20in%20(NIR)%20return%20encode%28c.red,%20%22png%22%29>`_"
@@ -192,8 +194,8 @@ msgid ""
 msgstr ""
 "Cliquez sur `band extraction "
 "<http://localhost:8080/rasdaman/ows?query=forn%20(NIR)%20returnncode.red,22png29>`_"
-" pour l’exécuter; vous devriez voir l’image suivante dans le navigateur en "
-"conséquence:"
+" pour l’exécuter; vous devriez voir l’image suivante dans le navigateur "
+"en conséquence:"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:107
 msgid "Arithmetic operation: Extracting NDVI of the coverage"
@@ -202,14 +204,14 @@ msgstr "Opération arithmétique : Extraction de l'indice NDVI de la couverture"
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:109
 msgid ""
 "The NDVI (Normalized Difference Vegetation Index) is a measure for the "
-"probability of vegetation in remote sensing, i.e., the closer to +1 a pixel "
-"is, the more likely it is plants. The WCPS query to derive NDVI from the "
-"coverage is as follows:"
+"probability of vegetation in remote sensing, i.e., the closer to +1 a "
+"pixel is, the more likely it is plants. The WCPS query to derive NDVI "
+"from the coverage is as follows:"
 msgstr ""
 "Le NDVI (Normalized Difference Vegetation Index) est une mesure de la "
-"probabilité de végétation dans la télédétection, c’est-à-dire que plus le "
-"pixel est proche de +1, plus il est probable qu’il s’agit de plantes. La "
-"requête WCPS pour extraire le NDVI de la couverture est la suivante:"
+"probabilité de végétation dans la télédétection, c’est-à-dire que plus le"
+" pixel est proche de +1, plus il est probable qu’il s’agit de plantes. La"
+" requête WCPS pour extraire le NDVI de la couverture est la suivante:"
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:127
 msgid "What next?"
@@ -218,30 +220,32 @@ msgstr "Ensuite ?"
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:129
 msgid ""
 "The `rasdaman tutorial <https://tutorial.rasdaman.org/>`_ provides a "
-"condensed introduction to the concepts behind rasdaman, rasql and the OGC "
-"web services support."
+"condensed introduction to the concepts behind rasdaman, rasql and the OGC"
+" web services support."
 msgstr ""
 "Le `tutoriel de rasdaman <https://tutorial.rasdaman.org/>`_ fournit une "
-"introduction condensée aux concepts derrière rasdaman, rasql et le support "
-"des services Web OGC."
+"introduction condensée aux concepts derrière rasdaman, rasql et le "
+"support des services Web OGC."
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:130
+#, fuzzy
 msgid ""
 "Learn more about the OGC |WCPS| Language standard (which was heavily "
 "inspired by rasdaman); a good starting point is the `documentation and "
-"tutorials page <https://standards.rasdaman.com/>`_ and `WCPS Query SandBox "
-"<http://localhost/rasdaman-demo/demo/client/query-sandbox.html>`_."
+"tutorials page <https://standards.rasdaman.com/>`_  and `WCPS Query "
+"SandBox <http://localhost/rasdaman-demo/demo/client/query-"
+"sandbox.html>`_."
 msgstr ""
-"Pour en savoir plus sur le language |WCPS| normalisé par l'OGC (qui a été "
-"fortement inspirée par rasdaman); un bon point de départ est la page de "
-"`documentation et de tutoriels <https://standards.rasdaman.com/>`_et le ` "
-"bac à sable de requête WCPS <http://localhost/rasdaman-"
-"demo/demo/client/query-sandbox.html>`_."
+"Pour en savoir plus sur le language |WCPS| normalisé par l'OGC (qui a été"
+" fortement inspirée par rasdaman); un bon point de départ est la page de "
+"`documentation et de tutoriels <https://standards.rasdaman.com/>`_et le `"
+" bac à sable de requête WCPS <http://localhost/rasdaman-demo/demo/client"
+"/query-sandbox.html>`_."
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:133
 msgid ""
-"Interested in coverage data and services in general? Visit OGC's `Coverages "
-"Domain Working Group wiki "
+"Interested in coverage data and services in general? Visit OGC's "
+"`Coverages Domain Working Group wiki "
 "<https://external.ogc.org/twiki_public/CoveragesDWG/WebHome>`_."
 msgstr ""
 "Vous vous intéressez aux données et services de couverture en général? "
@@ -250,25 +254,25 @@ msgstr ""
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:134
 msgid ""
-"Explore the `rasdaman documentation <https://doc.rasdaman.org>`_ to learn "
-"about rasdaman administration, its query language, and data ingestion."
+"Explore the `rasdaman documentation <https://doc.rasdaman.org>`_ to learn"
+" about rasdaman administration, its query language, and data ingestion."
 msgstr ""
-"Explorez la `documentation de rasdaman <https://doc.rasdaman.org>`_ pour en "
-"savoir plus sur l’administration de rasdaman, son langage de requête, et "
-"l’ingestion de données."
+"Explorez la `documentation de rasdaman <https://doc.rasdaman.org>`_ pour "
+"en savoir plus sur l’administration de rasdaman, son langage de requête, "
+"et l’ingestion de données."
 
 #: ../../build/doc/quickstart/rasdaman_quickstart.rst:135
 msgid ""
 "Go to the `multi-dimensional demo <http://localhost/rasdaman-demo>`_ to "
-"explore interactive 1-D to 4-D rasdaman demos. The small ones are part of "
-"OSGeoLive, those utilizing larger sets (beyond this drive's capacity) "
+"explore interactive 1-D to 4-D rasdaman demos. The small ones are part of"
+" OSGeoLive, those utilizing larger sets (beyond this drive's capacity) "
 "forward to the `OGC standards showcase site "
 "<https://standards.rasdaman.com>`_ ."
 msgstr ""
 "Allez à la `démo multidimensionnelle <http://localhost/rasdaman-demo>`_ "
 "pour explorer les démonstrations intéractives 1-D à 4-D de rasdaman. Les "
-"petites ont été intégrées à OSGeoLive, celles qui utilisent de plus grands "
-"ensembles (au-delà de la capacité de ce lecteur) vers le site de "
+"petites ont été intégrées à OSGeoLive, celles qui utilisent de plus "
+"grands ensembles (au-delà de la capacité de ce lecteur) vers le site de "
 "`démonstration des normes OGC <https://standards.rasdaman.com>`_ ."
 
 #: ../../build/doc/<rst_epilog>:13
@@ -279,10 +283,11 @@ msgstr "vmdk"
 msgid "nologo"
 msgstr "Pas de logo"
 
-#: ../../build/doc/<rst_epilog>:0
+#: ../../build/doc/<rst_epilog>
 msgid "OSGeo Project"
 msgstr "Projet OSGeo"
 
-#: ../../build/doc/<rst_epilog>:0 ../../build/doc/<rst_epilog>:0
+#: ../../build/doc/<rst_epilog>
 msgid "OSGeo Community"
 msgstr "Communauté OSGeo"
+
