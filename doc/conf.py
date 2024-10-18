@@ -182,11 +182,24 @@ latex_documents = [
 # Linkcheck configuration, see http://sphinx.pocoo.org/latest/config.html#options-for-the-linkcheck-builder
 
 linkcheck_retries = 3  # default is 1
+olinkcheck_request_headers = {
+    "https://opensource.org/": {
+      'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux i686; '
+                                                'rv:24.0) Gecko/20100101 Firefox/24.0'
+    },
+    "*": {
+        "Accept": "text/html,application/xhtml+xml",
+    }
+}
 
 linkcheck_ignore = [
         # currently SSL_ERROR_BAD_CERT_DOMAIN
         # TODO remove this line when the CERT is fixed
         r'https://www.rspatial.org',
+
+
+        # NewConnectionError
+        r'http://udig.refractions.net',
 
         # link exists but does not accept robots and linkchecker is a robot
         # used in overview/mapserver_overview
