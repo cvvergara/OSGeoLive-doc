@@ -234,7 +234,6 @@ linkcheck_ignore = [
         # 403 Client Error
         r'https://docs.etf-validator.net',
         r'https://etf-validator.net',
-        r'https://www.ogc.org',
         r'https://external.ogc.org',
         r'https://www.safe.com',
         r'https://www.geowebcache.org',
