@@ -49,6 +49,7 @@ jobs:
         run: |
           # allways processing english, no matter what the change was
           if [[ "${{ matrix.language }}" == "en" ]]; then echo "PROCESS=true" >> $GITHUB_ENV; fi
+          if [[ "${{ matrix.language }}" == "en" ]]; then echo "CHK_LINK=true" >> $GITHUB_ENV; fi
 
           # if there is a change on the translation
           if git diff --name-only HEAD^ HEAD | grep -q "^locale/${{ matrix.language }}" ; then echo "PROCESS=true" >> $GITHUB_ENV; fi
