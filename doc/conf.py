@@ -184,10 +184,12 @@ latex_documents = [
 linkcheck_retries = 3  # default is 1
 olinkcheck_request_headers = {
     r'https://www.ogc.org', {
-      'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux i686; ' 'rv:24.0) Gecko/20100101 Firefox/24.0'
+      'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux i686; '
+                                                'rv:24.0) Gecko/20100101 Firefox/24.0'
     },
     r'https://opensource.org/': {
-      'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux i686; ' 'rv:24.0) Gecko/20100101 Firefox/24.0'
+      'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux i686; '
+                                                'rv:24.0) Gecko/20100101 Firefox/24.0'
     },
     "*": {
         "Accept": "text/html,application/xhtml+xml",
