@@ -186,8 +186,9 @@ linkcheck_retries = 3  # default is 1
 # About User-Agent:
 # https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
 linkcheck_request_headers = {
+    "https://docs.etf-validator.net/": { 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:25.0) Gecko/20100101 Firefox/25.0' },
     "https://hub.docker.com/": { 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:25.0) Gecko/20100101 Firefox/25.0' },
-    "https://opensource.org/": { 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:25.0) Gecko/20100101 Firefox/25.0' },
+    "https://opensource.org/": { 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)' },
     "*": { "Accept": "text/html,application/xhtml+xml", }
 }
 
