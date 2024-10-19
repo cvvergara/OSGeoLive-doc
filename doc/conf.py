@@ -229,8 +229,9 @@ linkcheck_ignore = [
         r'https://www.ogc.org',
         #r'https://www.safe.com',
         r'https://sourceforge.net',
-        r'"https://opensource.org',
+        r'"https://opensource.org/',
         r'https://docs.etf-validator.net',
+        r'https://etf-validator.net',
         r'https://www.mydigitallife.net',
 
         # link exists but when many link checks are done link checker fails
