@@ -225,13 +225,13 @@ linkcheck_ignore = [
         r'https://live.osgeo.org/archive/16.0',
 
         # 403 Client Error Forbidden for url
-        #r'https://www.intel.com',
-        #r'https://www.ogc.org',
+        r'https://www.intel.com',
+        r'https://www.ogc.org',
         #r'https://www.safe.com',
-        #r'https://sourceforge.net',
-        #r'"https://opensource.org',
-        #r'https://docs.etf-validator.net',
-        #r'https://www.mydigitallife.net',
+        r'https://sourceforge.net',
+        r'"https://opensource.org',
+        r'https://docs.etf-validator.net',
+        r'https://www.mydigitallife.net',
 
         # link exists but when many link checks are done link checker fails
         # ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
