@@ -182,17 +182,12 @@ latex_documents = [
 # Linkcheck configuration, see http://sphinx.pocoo.org/latest/config.html#options-for-the-linkcheck-builder
 
 linkcheck_retries = 3  # default is 1
-olinkcheck_request_headers = {
-    r'https://www.ogc.org': {
-      'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux i686; '
-                                                'rv:24.0) Gecko/20100101 Firefox/24.0'
-    },
-    r'https://opensource.org/': {
-      'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux i686; '
-                                                'rv:24.0) Gecko/20100101 Firefox/24.0'
-    },
+
+# About User-Agent:
+# https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
+linkcheck_request_headers = {
     '*': {
-        'Accept': "text/html,application/xhtml+xml",
+      'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:25.0) Gecko/20100101 Firefox/25.0'
     }
 }
 
@@ -217,10 +212,6 @@ linkcheck_ignore = [
         'https://www.iso.org',
         r'https://inspire.ec.europa.eu',
 
-        #  403 Client Error: Forbidden for url
-        r'https://www.intel.com/',
-        r'https://www.mydigitallife.net/',
-
         # HTTPSConnectionPool
         r'https://worldwind.arc.nasa.gov/java/',
         r'https://r-spatial.org',
@@ -235,13 +226,10 @@ linkcheck_ignore = [
         r'https://live.osgeo.org/archive/15.0',
         r'https://live.osgeo.org/archive/16.0',
 
-        # 403 Client Error
-        r'https://docs.etf-validator.net',
-        r'https://etf-validator.net',
-        r'https://external.ogc.org',
+        # 403 Client Error Forbidden for url
+        r'https://www.intel.com/',
+        r'https://www.ogc.org',
         r'https://www.safe.com',
-        r'https://www.geowebcache.org',
-        r'https://www.geoext.org',
 
         # link exists but when many link checks are done link checker fails
         # ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
