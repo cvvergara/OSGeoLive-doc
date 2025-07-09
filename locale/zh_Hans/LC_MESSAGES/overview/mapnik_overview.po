@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:42-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -41,11 +41,11 @@ msgid "Core Features"
 msgstr ""
 
 #: ../../build/doc/overview/mapnik_overview.rst:33
-msgid "Essentially a collection of geographic objects (map, layer, datasource, feature, geometry),  the library doesn't rely on \"windowing systems\" and can be deployed in any server environment.  It is intended to play fair in a multi-threaded environment and is aimed primarily,  but not exclusively, at web-based development."
+msgid "Essentially a collection of geographic objects (map, layer, datasource, feature, geometry), the library doesn't rely on \"windowing systems\" and can be deployed in any server environment. It is intended to play fair in a multi-threaded environment and is aimed primarily, but not exclusively, at web-based development."
 msgstr ""
 
 #: ../../build/doc/overview/mapnik_overview.rst:39
-msgid "High-level Python bindings (boost.python) facilitate rapid application development,  targeting zope3, django etc."
+msgid "High-level Python bindings (boost.python) facilitate rapid application development, targeting zope3, django etc."
 msgstr ""
 
 #: ../../build/doc/overview/mapnik_overview.rst:42

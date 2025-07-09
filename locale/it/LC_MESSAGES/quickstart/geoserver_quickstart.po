@@ -11,21 +11,22 @@
 # Federico Gianoli <fritz4@gmail.com>, 2022
 # Vicky Vergara <vicky@georepublic.de>, 2022
 # Stefano Campus <skampus@gmail.com>, 2022
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-05 12:30-0600\n"
-"PO-Revision-Date: 2017-09-20 16:03+0000\n"
-"Last-Translator: Stefano Campus <skampus@gmail.com>, 2022\n"
+"PO-Revision-Date: 2024-05-02 06:45+0000\n"
+"Last-Translator: luca <lucadeluge@gmail.com>\n"
+"Language-Team: Italian <https://weblate.osgeo.org/projects/osgeolive/"
+"geoserver_quickstart/it/>\n"
 "Language: it\n"
-"Language-Team: Italian (https://www.transifex.com/osgeo/teams/66156/it/)\n"
-"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 "
-"? 1 : 2;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 == 0)"
+" ? 1 : 2);\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:28
@@ -146,11 +147,11 @@ msgstr ""
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:83
 msgid ""
-"Experiment with this view and look at some of the other previews.  Once "
+"Experiment with this view and look at some of the other previews. Once "
 "you are comfortable viewing existing data you can move on to adding some "
 "new data."
 msgstr ""
-"Sperimenta con questa vista e guarda alcune delle altre anteprime.  Una "
+"Sperimenta con questa vista e guarda alcune delle altre anteprime. Una "
 "volta che ti senti a tuo agio nel visualizzare i dati esistenti, puoi "
 "passare all'aggiunta di alcuni nuovi dati."
 
@@ -225,7 +226,7 @@ msgstr "Premi :guilabel:`salva`."
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst
 msgid "The Natural Earth Datastore"
-msgstr "Il  Datastore Natural Earth"
+msgstr "Il Datastore Natural Earth"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:126
 msgid ""
@@ -254,7 +255,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:139
 msgid "You can type epsg:4326 in the box"
-msgstr ""
+msgstr "Puoi digitare epsg:4326 nel box"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:140
 msgid ""
@@ -328,8 +329,8 @@ msgid ""
 "For more details on how to use |UG| see the :doc:`uDig Quickstart "
 "<../quickstart/udig_quickstart>`"
 msgstr ""
-"Per maggiori dettagli su come usare |UG| vedi il :doc:`uDig Quickstart "
-"<../quickstart/udig_quickstart>`."
+"Per maggiori dettagli su come usare |UG| vedi il :doc:`uDig Quickstart <../"
+"quickstart/udig_quickstart>`"
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:172
 msgid ""
@@ -682,4 +683,3 @@ msgstr "Progetto OSGeo"
 #: ../../build/doc/<rst_epilog>
 msgid "OSGeo Community"
 msgstr "Comunità OSGeo"
-

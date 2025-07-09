@@ -5,32 +5,33 @@
 #
 # Translators:
 # Ko Nagase <nagase@georepublic.co.jp>, 2022
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-05 12:30-0600\n"
-"PO-Revision-Date: 2017-09-20 16:05+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2022\n"
+"PO-Revision-Date: 2024-11-02 13:09+0000\n"
+"Last-Translator: Ko Nagase <geosanak@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.osgeo.org/projects/osgeolive/"
+"qgis_mapserver_quickstart/ja/>\n"
 "Language: ja\n"
-"Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)"
-"\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:21
 msgid "QGIS Server Quickstart"
-msgstr "QGIS サーバ クイックスタート"
+msgstr "QGIS Server クイックスタート"
 
 #: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:23
 msgid ""
 "QGIS Server provides a web map service (WMS) based on libraries from the "
 "QGIS desktop application."
-msgstr "QGIS サーバは、QGIS デスクトップアプリケーションと同じライブラリを使用して、Webマップサービス(WMS)を提供します。"
+msgstr "QGIS Serverは、QGIS デスクトップアプリケーションと同じライブラリを使用して、W"
+"ebマップサービス(WMS)を提供します。"
 
 #: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:25
 msgid "This Quick Start describes how to:"
@@ -38,7 +39,7 @@ msgstr "このクイックスタートでは、次の方法について説明し
 
 #: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:27
 msgid "update an existing QGIS project and render it with QGIS Server"
-msgstr "既存の QGIS プロジェクトを開いて、QGIS サーバでレンダリングしましょう。"
+msgstr "既存の QGIS プロジェクトを開いて、QGIS Serverでレンダリングしましょう。"
 
 #: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:28
 msgid "create a new QGIS project and open the WMS directly in a browser"
@@ -57,17 +58,16 @@ msgid ""
 "OSGeoLive contains an example of web map viewer based on the GeoExt "
 "Javascript framework and using QGIS Server for rendering the map."
 msgstr ""
-"OSGeoLive には、GeoExt Javascript フレームワークにもとづくサンプル地図ビューアが収録されていますので、QGIS "
-"サーバをつかって地図をレンダリングしましょう。"
+"OSGeoLive には、GeoExt Javascript "
+"フレームワークにもとづくサンプル地図ビューアが収録されていますので、QGIS "
+"Serverをつかって地図をレンダリングしましょう。"
 
 #: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:39
-#, fuzzy
 msgid ""
 "Click |menu_qgis|. You should see a browser window with a web map viewer "
 "showing a world map."
-msgstr ""
-":menuselection:`Geospatial --> Web Services --> QGIS Server` "
-"をクリックします。ブラウザウィンドウに、世界のマップを表示するWebマップビューアが表示されます。"
+msgstr "|menu_qgis| をクリックします。ブラウザウィンドウに、世界のマップを表示するWeb"
+"マップビューアが表示されます。"
 
 #: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:43
 msgid ""
@@ -85,7 +85,7 @@ msgstr "さて、これで QGIS で地図スタイルを変更できるように
 
 #: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:52
 msgid "Click |menu_qgis|"
-msgstr ""
+msgstr "|menu_qgis| をクリックします"
 
 #: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:54
 msgid "Choose :menuselection:`Project --> Open` from the menu bar."
@@ -171,7 +171,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:95
 msgid "What next?"
-msgstr "次のステップ"
+msgstr "次のステップは何?"
 
 #: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:97
 msgid ""
@@ -222,4 +222,3 @@ msgstr "OSGeo プロジェクト"
 #: ../../build/doc/<rst_epilog>
 msgid "OSGeo Community"
 msgstr "OSGeo コミュニティ"
-

@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:42-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -161,7 +161,7 @@ msgid "Apply style to features"
 msgstr ""
 
 #: ../../build/doc/quickstart/openlayers_quickstart.rst:233
-msgid "Features within vector layers can be styled. The style is determined by a combination of fill, stroke, text  and image, which are all optional. In addition, a style can be applied to a layer, which determines the style of all contained features, or to an individual feature."
+msgid "Features within vector layers can be styled. The style is determined by a combination of fill, stroke, text and image, which are all optional. In addition, a style can be applied to a layer, which determines the style of all contained features, or to an individual feature."
 msgstr ""
 
 #: ../../build/doc/quickstart/openlayers_quickstart.rst:236

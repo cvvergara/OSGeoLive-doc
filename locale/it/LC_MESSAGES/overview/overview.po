@@ -14,16 +14,17 @@ msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-05 12:30-0600\n"
-"PO-Revision-Date: 2023-04-02 18:08+0000\n"
-"Last-Translator: stefano <stefano.campus@regione.piemonte.it>\n"
+"PO-Revision-Date: 2024-08-18 22:45+0000\n"
+"Last-Translator: Celia Virginia Vergara Castillo <vicky@erosion.dev>\n"
+"Language-Team: Italian <https://weblate.osgeo.org/projects/osgeolive/"
+"overview/it/>\n"
 "Language: it\n"
-"Language-Team: Italian "
-"<https://weblate.osgeo.org/projects/osgeolive/overview/it/>\n"
-"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 "
-"== 0) ? 1 : 2);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 == 0)"
+" ? 1 : 2);\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../build/doc/overview/overview.rst:6
@@ -124,7 +125,7 @@ msgstr "Client WebGIS"
 
 #: ../../build/doc/overview/overview.rst:55
 msgid "General GIS viewing, editing and analysis in the browser"
-msgstr "GIS generali per visualizzazione, modifiche, e analisi sul browser:"
+msgstr "GIS generali per visualizzazione, modifiche, e analisi sul browser"
 
 #: ../../build/doc/overview/overview.rst:77
 msgid ""
@@ -200,7 +201,7 @@ msgstr "Servizi Web"
 
 #: ../../build/doc/overview/overview.rst:97
 msgid "Publishing spatial data to the internet"
-msgstr "Publicare dati spaziali su internet:"
+msgstr "Publicare dati spaziali su internet"
 
 #: ../../build/doc/overview/overview.rst:143
 msgid ""
@@ -275,13 +276,12 @@ msgstr ""
 "<../quickstart/mapproxy_quickstart>`] - Proxy WMS & tile services"
 
 #: ../../build/doc/overview/overview.rst:161
-#, fuzzy
 msgid ""
 "|OSGeo_project| :doc:`pygeoapi_overview` - [:doc:`Quickstart "
 "<../quickstart/pygeoapi_quickstart>`] - OGC Web Services"
 msgstr ""
-"|OSGeo_community| :doc:`pygeoapi_overview` - [:doc:`Guida rapida "
-"<../quickstart/pygeoapi_quickstart>`] - Servizi Web OGC"
+"|OSGeo_project| :doc:`pygeoapi_overview` - [:doc:`Guida rapida <../"
+"quickstart/pygeoapi_quickstart>`] - Servizi Web OGC"
 
 #: ../../build/doc/overview/overview.rst:163
 msgid ""
@@ -374,7 +374,7 @@ msgstr "Database"
 
 #: ../../build/doc/overview/overview.rst:187
 msgid "Storing spatial data"
-msgstr "Archiviare dati spaziali:"
+msgstr "Archiviare dati spaziali"
 
 #: ../../build/doc/overview/overview.rst:201
 msgid ""
@@ -516,7 +516,7 @@ msgstr "GIS per un uso specifico"
 
 #: ../../build/doc/overview/overview.rst:277
 msgid "Applications targeted at a specific domain"
-msgstr "Applicazioni mirate ad uno specifico campo:"
+msgstr "Applicazioni mirate ad uno specifico campo"
 
 #: ../../build/doc/overview/overview.rst:285
 msgid ""
@@ -535,8 +535,8 @@ msgid "Spatial data sets"
 msgstr "Set di dati spaziali"
 
 #: ../../build/doc/overview/overview.rst:301
-msgid "|nologo| :doc:`naturalearth_overview`  - Global Data Sets"
-msgstr "|nologo| :doc:`naturalearth_overview`  - Set di Dati Globali"
+msgid "|nologo| :doc:`naturalearth_overview` - Global Data Sets"
+msgstr "|nologo| :doc:`naturalearth_overview` - Set di Dati Globali"
 
 #: ../../build/doc/overview/overview.rst:303
 msgid "|nologo| :doc:`nc_dataset_overview`"
@@ -544,14 +544,14 @@ msgstr "|nologo| :doc:`nc_dataset_overview`"
 
 #: ../../build/doc/overview/overview.rst:305
 msgid ""
-"|nologo| :doc:`netcdf_dataset_overview`  - Time series temperature and "
+"|nologo| :doc:`netcdf_dataset_overview` - Time series temperature and "
 "precipitation"
 msgstr ""
 "|nologo| :doc:`netcdf_dataset_overview` - Serie temporali di temperature "
 "e precipitazioni"
 
 #: ../../build/doc/overview/overview.rst:307
-msgid "|nologo| :doc:`osm_dataset_overview`  - Sample extract from OpenStreetMap"
+msgid "|nologo| :doc:`osm_dataset_overview` - Sample extract from OpenStreetMap"
 msgstr "|nologo| :doc:`osm_dataset_overview` - Estratto d’esempio di OpenStreetMap"
 
 #: ../../build/doc/overview/overview.rst:311
@@ -568,12 +568,12 @@ msgstr ""
 "Geospaziali"
 
 #: ../../build/doc/overview/overview.rst:328
-msgid "|OSGeo_project| :doc:`geos_overview`  - C/C++ Spatial Library"
-msgstr "|OSGeo_project| :doc:`geos_overview`  - Libreria Spaziale C/C++"
+msgid "|OSGeo_project| :doc:`geos_overview` - C/C++ Spatial Library"
+msgstr "|OSGeo_project| :doc:`geos_overview` - Libreria Spaziale C/C++"
 
 #: ../../build/doc/overview/overview.rst:330
-msgid "|OSGeo_project| :doc:`geotools_overview`  - Java GIS Toolkit"
-msgstr "|OSGeo_project| :doc:`geotools_overview`  - Java GIS Toolkit"
+msgid "|OSGeo_project| :doc:`geotools_overview` - Java GIS Toolkit"
+msgstr "|OSGeo_project| :doc:`geotools_overview` - Java GIS Toolkit"
 
 #: ../../build/doc/overview/overview.rst:332
 msgid ""
@@ -585,23 +585,23 @@ msgstr ""
 "delle Coordinate"
 
 #: ../../build/doc/overview/overview.rst:334
-msgid "|nologo| :doc:`jts_overview`  - Java Topology Suite"
-msgstr "|nologo| :doc:`jts_overview`  - Java Topology Suite"
+msgid "|nologo| :doc:`jts_overview` - Java Topology Suite"
+msgstr "|nologo| :doc:`jts_overview` - Java Topology Suite"
 
 #: ../../build/doc/overview/overview.rst:338
 msgid "Geospatial Standards"
 msgstr "Standard geospaziali"
 
 #: ../../build/doc/overview/overview.rst:348
-msgid "|nologo| :doc:`ogc_overview`  - Open Geospatial Consortium"
-msgstr "|nologo| :doc:`ogc_overview`  - Open Geospatial Consortium"
+msgid "|nologo| :doc:`ogc_overview` - Open Geospatial Consortium"
+msgstr "|nologo| :doc:`ogc_overview` - Open Geospatial Consortium"
 
 #: ../../build/doc/overview/overview.rst:350
 msgid ""
-"|nologo| :doc:`inspire_overview`  - Infrastructure for Spatial "
+"|nologo| :doc:`inspire_overview` - Infrastructure for Spatial "
 "Information in Europe"
 msgstr ""
-"|nologo| :doc:`inspire_overview`  - Infrastructure for Spatial "
+"|nologo| :doc:`inspire_overview` - Infrastructure for Spatial "
 "Information in Europe"
 
 #: ../../build/doc/overview/overview.rst:354
@@ -611,4 +611,3 @@ msgstr "Disponibili nelle precedenti versioni di OSGeo Live"
 #: ../../build/doc/overview/overview.rst:366
 msgid ":doc:`../prior_applications`"
 msgstr ":doc:`../prior_applications`"
-

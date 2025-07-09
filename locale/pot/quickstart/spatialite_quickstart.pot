@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-05 12:30-0600\n"
+"POT-Creation-Date: 2024-08-17 15:05-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -85,7 +85,7 @@ msgid "Run an SQL query"
 msgstr ""
 
 #: ../../build/doc/quickstart/spatialite_quickstart.rst:86
-msgid "Now let's try tweaking this SQL statement to get NOME and (Lat,Long) for only the NOME_PROV fields include \"BRESCIA\", this time using the MunicipalHallsView.  In the upper right SQL pane type::"
+msgid "Now let's try tweaking this SQL statement to get NOME and (Lat,Long) for only the NOME_PROV fields include \"BRESCIA\", this time using the MunicipalHallsView. In the upper right SQL pane type::"
 msgstr ""
 
 #: ../../build/doc/quickstart/spatialite_quickstart.rst:93
@@ -172,6 +172,7 @@ msgstr ""
 msgid "OSGeo Project"
 msgstr ""
 
+#: ../../build/doc/<rst_epilog>:0
 #: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
 msgstr ""

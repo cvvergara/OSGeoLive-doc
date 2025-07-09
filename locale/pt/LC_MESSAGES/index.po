@@ -2,25 +2,27 @@
 # Copyright (C) 2011~2022, OSGeo
 # This file is distributed under the same license as the OSGeoLive package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # Eduardo G. S. Pereira <edu_vcd@hotmail.com>, 2017
 # Vicky Vergara <vicky@georepublic.de>, 2020
-# 
-#, fuzzy
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:42-0600\n"
-"PO-Revision-Date: 2017-01-21 16:46+0000\n"
-"Last-Translator: Vicky Vergara <vicky@georepublic.de>, 2020\n"
-"Language-Team: Portuguese (Brazil) (https://app.transifex.com/osgeo/teams/66156/pt_BR/)\n"
+"PO-Revision-Date: 2024-09-27 19:35+0000\n"
+"Last-Translator: Kaue de Moraes Vestena <kauemv2@gmail.com>\n"
+"Language-Team: Portuguese <https://weblate.osgeo.org/projects/osgeolive/"
+"index/pt/>\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : ((n != 0 && n % "
+"1000000 == 0) ? 1 : 2);\n"
+"X-Generator: Weblate 5.4.3\n"
 
 #: ../../build/doc/index.rst:3
 msgid "Welcome to |osgeolive-version|"
@@ -46,8 +48,8 @@ msgstr ""
 
 #: ../../build/doc/index.rst:17
 msgid ""
-"It provides pre-configured applications for a range of geospatial use cases,"
-" including storage, publishing, viewing, analysis and manipulation of data. "
+"It provides pre-configured applications for a range of geospatial use cases, "
+"including storage, publishing, viewing, analysis and manipulation of data. "
 "It also contains sample datasets and documentation."
 msgstr ""
 "Provê aplicações pré-configuradas para um grande número de uso de casos "
@@ -81,17 +83,17 @@ msgstr "Selecione e rode as aplicações do menu \"Geospatial\"."
 msgid ""
 "OSGeoLive is an `OSGeo Foundation <https://www.osgeo.org/>`_ project. The "
 "OSGeo Foundation is a not-for-profit supporting Geospatial Open Source "
-"Software development, promotion and `education "
-"<https://www.osgeo.org/initiatives/geo-for-all/>`_."
+"Software development, promotion and `education <https://www.osgeo.org/"
+"initiatives/geo-for-all/>`_."
 msgstr ""
-"OSGeoLive é um dos projetos da `Fundação OSGeo <https://www.osgeo.org/>`_. A"
-" Fundação OSGeo, que não busca lucros, suporta o desenvolvimento de "
-"softwares geoespaciais livres, a divulgação destes e a `educação "
-"<https://www.osgeo.org/initiatives/geo-for-all/>`_."
+"OSGeoLive é um dos projetos da `Fundação OSGeo <https://www.osgeo.org/>`_. A "
+"Fundação OSGeo, que não busca lucros, suporta o desenvolvimento de softwares "
+"geoespaciais livres, a divulgação destes e a `educação <https://www.osgeo."
+"org/initiatives/geo-for-all/>`_."
 
 #: ../../build/doc/index.rst:34
 msgid "Quick Starts"
-msgstr "Quick Starts"
+msgstr "Inícios Rápidos"
 
 #: ../../build/doc/index.rst:68
 msgid "Presentation"
@@ -99,22 +101,22 @@ msgstr "Apresentação"
 
 #: ../../build/doc/index.rst:70
 msgid ""
-"A half hour `presentation <presentation.html>`__, highlighting all OSGeoLive"
-" applications, is available with slides, script"
+"A half hour `presentation <presentation.html>`__, highlighting all OSGeoLive "
+"applications, is available with slides, script"
 msgstr ""
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
-msgstr ""
+msgstr "vmdk"
 
 #: ../../build/doc/<rst_epilog>:16
 msgid "nologo"
-msgstr ""
+msgstr "nologo"
 
 #: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Project"
-msgstr ""
+msgstr "Projeto OSGeo"
 
-#: ../../build/doc/<rst_epilog>:0 ../../build/doc/<rst_epilog>:0
+#: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
-msgstr ""
+msgstr "Comunidade OSGeo"

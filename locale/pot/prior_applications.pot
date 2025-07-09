@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-05 12:30-0600\n"
+"POT-Creation-Date: 2024-11-18 17:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,8 +36,52 @@ msgstr ""
 msgid "|nologo|"
 msgstr ""
 
-#: ../../build/doc/<rst_epilog>:16
+#: ../../build/doc/<rst_epilog>:14
 msgid "nologo"
+msgstr ""
+
+#: ../../build/doc/prior_applications.rst:1
+msgid "52nWPS_"
+msgstr ""
+
+#: ../../build/doc/prior_applications.rst:1
+msgid "`QuickStart <52nWPS_q_>`__"
+msgstr ""
+
+#: ../../build/doc/prior_applications.rst:1
+msgid "16.0"
+msgstr ""
+
+#: ../../build/doc/prior_applications.rst:1
+msgid "Web Processing Services"
+msgstr ""
+
+#: ../../build/doc/prior_applications.rst:1
+msgid "udig_"
+msgstr ""
+
+#: ../../build/doc/prior_applications.rst:1
+msgid "`QuickStart <udig_q_>`__"
+msgstr ""
+
+#: ../../build/doc/prior_applications.rst:1
+msgid "Desktop GIS"
+msgstr ""
+
+#: ../../build/doc/prior_applications.rst:1
+msgid "ncWMS_"
+msgstr ""
+
+#: ../../build/doc/prior_applications.rst:1
+msgid "`QuickStart <ncwms_q_>`__"
+msgstr ""
+
+#: ../../build/doc/prior_applications.rst:1
+msgid "14.0"
+msgstr ""
+
+#: ../../build/doc/prior_applications.rst:1
+msgid "Web Map Service"
 msgstr ""
 
 #: ../../build/doc/prior_applications.rst:1
@@ -69,14 +113,6 @@ msgid "Create Map Tiles"
 msgstr ""
 
 #: ../../build/doc/prior_applications.rst:1
-msgid "|osgeo_community|"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
-msgstr ""
-
-#: ../../build/doc/prior_applications.rst:1
 msgid "Geomajas_"
 msgstr ""
 
@@ -86,6 +122,14 @@ msgstr ""
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "Browser GIS Client"
+msgstr ""
+
+#: ../../build/doc/prior_applications.rst:1
+msgid "|osgeo_community|"
+msgstr ""
+
+#: ../../build/doc/<rst_epilog>:0
+msgid "OSGeo Community"
 msgstr ""
 
 #: ../../build/doc/prior_applications.rst:1
@@ -364,7 +408,7 @@ msgstr ""
 msgid "Web Service"
 msgstr ""
 
-#: ../../build/doc/<rst_epilog>:13
+#: ../../build/doc/<rst_epilog>:11
 msgid "vmdk"
 msgstr ""
 

@@ -6,26 +6,26 @@
 # Translators:
 # MarPetra <mvergaratrejo@gmail.com>, 2020
 # Ko Nagase <nagase@georepublic.co.jp>, 2022
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-05 12:30-0600\n"
-"PO-Revision-Date: 2019-07-18 21:56+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2022\n"
+"PO-Revision-Date: 2024-11-02 13:09+0000\n"
+"Last-Translator: Ko Nagase <geosanak@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.osgeo.org/projects/osgeolive/"
+"actinia_quickstart/ja/>\n"
 "Language: ja\n"
-"Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)"
-"\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:16
 msgid ""
-"This  project is only included on the OSGeoLive virtual machine disk "
+"This project is only included on the OSGeoLive virtual machine disk "
 "(VMDK)"
 msgstr "このプロジェクトはOSGeoLive仮想マシンディスク(VMDK)にのみ含まれています"
 
@@ -61,13 +61,16 @@ msgstr "`curl` などのコマンドラインツール"
 msgid ""
 "through `Jupyter notebooks <https://github.com/actinia-org/actinia-"
 "jupyter>`__"
-msgstr ""
+msgstr "`Jupyter ノートブック <https://github.com/actinia-org/actinia-jupyter>`__ "
+"経由"
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:37
 msgid ""
 "the `Python interface <https://github.com/actinia-org/actinia-python-"
 "client>`__"
 msgstr ""
+"`Python インターフェース <https://github.com/actinia-org/actinia-python-"
+"client>`__"
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:38
 msgid "the `Postman` or `RESTman` extension for browsers"
@@ -97,7 +100,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:48
 msgid "Using actinia with a Jupyter notebook"
-msgstr ""
+msgstr "Jupyter Notebookでactiniaを使用する"
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:50
 msgid ""
@@ -105,6 +108,9 @@ msgid ""
 "`https://github.com/actinia-org/actinia-jupyter <https://github.com"
 "/actinia-org/actinia-jupyter>`_"
 msgstr ""
+"`https://github.com/actinia-org/actinia-jupyter <https://github.com/"
+"actinia-org/actinia-jupyter>`_ "
+"から、actinia用の多数のJupyterノートブックが利用可能です"
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:54
 msgid "Introduction to ace - actinia command execution"
@@ -163,7 +169,8 @@ msgstr "GRASS GISセッションでは、必ず次のコマンドを実行して
 msgid ""
 "The user must setup the following environmental variables to specify the "
 "actinia server and credentials:"
-msgstr "ユーザは、次の環境変数を設定して、Actiniaサーバと認証情報を指定する必要があります: "
+msgstr "ユーザは、次の環境変数を設定して、Actiniaサーバと認証情報を指定する必要があり"
+"ます:"
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:90
 msgid "Access sample data"
@@ -485,7 +492,7 @@ msgstr "GRASS GISアドオン(拡張機能)のインストール"
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:478
 msgid "What next?"
-msgstr "次のステップ"
+msgstr "次のステップは何?"
 
 #: ../../build/doc/quickstart/actinia_quickstart.rst:480
 msgid ""
@@ -534,4 +541,3 @@ msgstr "OSGeo プロジェクト"
 #: ../../build/doc/<rst_epilog>
 msgid "OSGeo Community"
 msgstr "OSGeo コミュニティ"
-

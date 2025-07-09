@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-06 09:15-0500\n"
-"PO-Revision-Date: 2023-03-29 19:22+0000\n"
-"Last-Translator: Astrid Emde <astrid.emde@posteo.de>\n"
+"PO-Revision-Date: 2024-10-14 15:25+0000\n"
+"Last-Translator: Celia Virginia Vergara Castillo <vicky@erosion.dev>\n"
 "Language-Team: German <https://weblate.osgeo.org/projects/osgeolive/"
 "proj_overview/de/>\n"
 "Language: de\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16.4\n"
+"X-Generator: Weblate 5.4.3\n"
 
 #: ../../build/doc/overview/proj_overview.rst:17
 msgid "PROJ"
@@ -60,9 +60,8 @@ msgid ""
 "PROJ has been translated from C to `other languages "
 "<https://trac.osgeo.org/metacrs/wiki>`_. These sub-projects include:"
 msgstr ""
-"PROJ wurde von C in \"andere <https: "
-"trac.osgeo.org/metacrs/wiki=\"\">Sprachen\" übersetzt. Zu diesen "
-"Teilprojekten gehören:</https:>"
+"PROJ wurde von C in \"andere <https: trac.osgeo.org/metacrs/wiki=\"\">"
+"Sprachen\" übersetzt. Zu diesen Teilprojekten gehören:"
 
 #: ../../build/doc/overview/proj_overview.rst:29
 msgid ""
@@ -88,7 +87,7 @@ msgid ""
 "definitions"
 msgstr ""
 "`EPSG.io <https://epsg.io/>`_ - Webseite zum abfragen von "
-"Koordinatensystemen-Definitionen."
+"Koordinatensystemen-Definitionen"
 
 #: ../../build/doc/overview/proj_overview.rst:34
 msgid ""
@@ -129,10 +128,10 @@ msgstr "Unterstützte Standards"
 #: ../../build/doc/overview/proj_overview.rst:53
 msgid ""
 "PROJ uses coordinate system definitions defined by the `European Petroleum "
-"Survey Group (EPSG) <https://www.epsg.org/>`_. Well Known Text (WKT) format."
+"Survey Group (EPSG) <https://epsg.org/>`_. Well Known Text (WKT) format."
 msgstr ""
 "PROJ verwendet die von der `European Petroleum Survey Group (EPSG) "
-"<https://www.epsg.org/>` festgelegten Koordinatensystemdefinitionen. Well "
+"<https://epsg.org/>` festgelegten Koordinatensystemdefinitionen. Well "
 "Known Text (WKT) Format."
 
 #: ../../build/doc/overview/proj_overview.rst:59
@@ -161,7 +160,7 @@ msgstr "**Unterstützte Plattformen:** Windows, Linux, Mac"
 
 #: ../../build/doc/overview/proj_overview.rst:69
 msgid "**API Interfaces:** C, C++, Python, Java, Ruby"
-msgstr " **API Schnittstellen:** C, C++, Python, Java, Ruby"
+msgstr "**API Schnittstellen:** C, C++, Python, Java, Ruby"
 
 #: ../../build/doc/overview/proj_overview.rst:71
 msgid "**Support:** https://lists.osgeo.org/mailman/listinfo/proj"

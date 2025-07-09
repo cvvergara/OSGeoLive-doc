@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:42-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -65,7 +65,7 @@ msgid "Interoperable: able to work with most known data formats:"
 msgstr ""
 
 #: ../../build/doc/overview/gvsig_overview.rst:46
-msgid "raster : ecw,  ENVI hdr, ERDAS img, (Geo)TIFF, GRASS, NetCDF..."
+msgid "raster : ecw, ENVI hdr, ERDAS img, (Geo)TIFF, GRASS, NetCDF..."
 msgstr ""
 
 #: ../../build/doc/overview/gvsig_overview.rst:47
@@ -213,7 +213,7 @@ msgid "Export/import of Web Map Context (WMC)"
 msgstr ""
 
 #: ../../build/doc/overview/gvsig_overview.rst:97
-msgid "Search on catalogues with  CSW (ISO/19115 and ebRIM)"
+msgid "Search on catalogues with CSW (ISO/19115 and ebRIM)"
 msgstr ""
 
 #: ../../build/doc/overview/gvsig_overview.rst:98
@@ -245,7 +245,7 @@ msgid "**Support:** http://www.gvsig.com/en/gvsig-association, http://www.gvsig.
 msgstr ""
 
 #: ../../build/doc/overview/gvsig_overview.rst:116
-msgid "This  project is only included on the OSGeoLive virtual machine disk (VMDK)"
+msgid "This project is only included on the OSGeoLive virtual machine disk (VMDK)"
 msgstr ""
 
 #: ../../build/doc/overview/gvsig_overview.rst:119

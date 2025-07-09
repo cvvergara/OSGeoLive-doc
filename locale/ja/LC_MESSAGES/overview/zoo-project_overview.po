@@ -6,20 +6,21 @@
 # Translators:
 # Ko Nagase <nagase@georepublic.co.jp>, 2022
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-06 09:15-0500\n"
-"PO-Revision-Date: 2017-09-20 16:10+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2022\n"
-"Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
+"PO-Revision-Date: 2024-11-02 13:09+0000\n"
+"Last-Translator: Ko Nagase <geosanak@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.osgeo.org/projects/osgeolive/"
+"zoo-project_overview/ja/>\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.4.3\n"
 
 #: ../../build/doc/overview/zoo-project_overview.rst:16
 msgid "Zoo Project"
@@ -109,7 +110,7 @@ msgstr "ZOO プロジェクト スクリーンショット"
 
 #: ../../build/doc/overview/zoo-project_overview.rst:61
 msgid "Core Features"
-msgstr "主な機能"
+msgstr "主要機能"
 
 #: ../../build/doc/overview/zoo-project_overview.rst:63
 msgid "Multi language WPS server"
@@ -166,8 +167,8 @@ msgid "Details"
 msgstr "詳細"
 
 #: ../../build/doc/overview/zoo-project_overview.rst:84
-msgid "**Website:** http://zoo-project.org/"
-msgstr "**Webサイト:** http://zoo-project.org/"
+msgid "**Website:** https://zoo-project.org/"
+msgstr "**Webサイト:** https://zoo-project.org/"
 
 #: ../../build/doc/overview/zoo-project_overview.rst:86
 msgid "**Licence:** MIT x/11"
@@ -188,8 +189,8 @@ msgid ""
 msgstr "**プログラム言語サポート:** C, Python, Java, PHP, Fortran, Javascript, C#, Ruby"
 
 #: ../../build/doc/overview/zoo-project_overview.rst:94
-msgid "**Support:** http://zoo-project.org/"
-msgstr "**サポート:** http://zoo-project.org/"
+msgid "**Support:** https://zoo-project.org/"
+msgstr "**サポート:** https://zoo-project.org/"
 
 #: ../../build/doc/overview/zoo-project_overview.rst:100
 msgid "Quickstart"
@@ -197,7 +198,7 @@ msgstr "クイックスタート"
 
 #: ../../build/doc/overview/zoo-project_overview.rst:102
 msgid ":doc:`Quickstart documentation <../quickstart/zoo-project_quickstart>`"
-msgstr ":doc:`クイックスタート文書  <../quickstart/zoo-project_quickstart>`"
+msgstr ":doc:`クイックスタート文書 <../quickstart/zoo-project_quickstart>`"
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"

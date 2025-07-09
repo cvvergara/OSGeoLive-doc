@@ -6,21 +6,21 @@
 # Translators:
 # MarPetra <mvergaratrejo@gmail.com>, 2020
 # Ko Nagase <nagase@georepublic.co.jp>, 2022
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-05 12:30-0600\n"
-"PO-Revision-Date: 2017-09-20 16:06+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2022\n"
+"PO-Revision-Date: 2024-11-02 13:09+0000\n"
+"Last-Translator: Ko Nagase <geosanak@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.osgeo.org/projects/osgeolive/"
+"opencpn_quickstart/ja/>\n"
 "Language: ja\n"
-"Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)"
-"\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../build/doc/quickstart/opencpn_quickstart.rst:19
@@ -54,7 +54,7 @@ msgstr "LiveDVDでOpenCPNを実行する前に、サンプルデータを有効�
 
 #: ../../build/doc/quickstart/opencpn_quickstart.rst:35
 msgid "From the Start menu, select |menu_opencpn|."
-msgstr ""
+msgstr "Startメニューから、 |menu_opencpn| を選択します。"
 
 #: ../../build/doc/quickstart/opencpn_quickstart.rst:36
 msgid "Click :guilabel:`I agree` to the NOAA Nautical Chart Data Agreement."
@@ -112,7 +112,7 @@ msgstr ""
 msgid ""
 "Click the :guilabel:`Options` icon on the toolbar. The Options window "
 "displays."
-msgstr "ツールバーの :guilabel:`Options`  アイコンをクリックします。オプションウィンドウが表示されます。"
+msgstr "ツールバーの :guilabel:`Options` アイコンをクリックします。オプションウィンドウが表示されます。"
 
 #: ../../build/doc/quickstart/opencpn_quickstart.rst:75
 msgid "Select the :guilabel:`Plugins` tab."
@@ -149,13 +149,13 @@ msgstr ""
 
 #: ../../build/doc/quickstart/opencpn_quickstart.rst:84
 msgid ""
-"There is no need to uncompress the file.  Click on the \">\" to the left "
+"There is no need to uncompress the file. Click on the \">\" to the left "
 "of the filename and select from the list of available forecast times."
 msgstr "ファイルを解凍する必要はありません。ファイル名の左側にある \">\" をクリックし、利用可能な予測時間のリストから選択します。"
 
 #: ../../build/doc/quickstart/opencpn_quickstart.rst:88
 msgid "What next?"
-msgstr "次のステップ"
+msgstr "次のステップは何?"
 
 #: ../../build/doc/quickstart/opencpn_quickstart.rst:90
 msgid ""
@@ -188,4 +188,3 @@ msgstr "OSGeo プロジェクト"
 #: ../../build/doc/<rst_epilog>
 msgid "OSGeo Community"
 msgstr "OSGeo コミュニティ"
-

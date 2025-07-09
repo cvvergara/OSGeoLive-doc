@@ -8,20 +8,22 @@
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2022
 # Eduardo G. S. Pereira <edu_vcd@hotmail.com>, 2022
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 15\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:44-0600\n"
-"PO-Revision-Date: 2017-09-20 16:02+0000\n"
-"Last-Translator: Eduardo G. S. Pereira <edu_vcd@hotmail.com>, 2022\n"
-"Language-Team: Portuguese (Brazil) (https://app.transifex.com/osgeo/teams/66156/pt_BR/)\n"
+"PO-Revision-Date: 2025-01-05 16:26+0000\n"
+"Last-Translator: Celia Virginia Vergara Castillo <vicky@erosion.dev>\n"
+"Language-Team: Portuguese <https://weblate.osgeo.org/projects/osgeolive/"
+"presentation/pt/>\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : ((n != 0 && n % "
+"1000000 == 0) ? 1 : 2);\n"
+"X-Generator: Weblate 5.4.3\n"
 
 #: ../../build/presentation/revealjs/presentation.rst:7
 msgid "OSGeoLive"
@@ -105,7 +107,7 @@ msgid "PostGIS 3.2.0,"
 msgstr ""
 
 #: ../../build/presentation/revealjs/presentation.rst:76
-msgid "GRASS  8.2.0,"
+msgid "GRASS 8.2.0,"
 msgstr ""
 
 #: ../../build/presentation/revealjs/presentation.rst:77
@@ -200,7 +202,7 @@ msgstr ""
 #: ../../build/presentation/revealjs/presentation.rst:209
 #: ../../build/presentation/revealjs/presentation.rst:1228
 msgid "OSGeo"
-msgstr ""
+msgstr "OSGeo"
 
 #: ../../build/presentation/revealjs/presentation.rst:211
 msgid "Non Profit for geospatial community, fostering"
@@ -336,7 +338,7 @@ msgstr ""
 
 #: ../../build/presentation/revealjs/presentation.rst:352
 msgid "Browser Facing GIS"
-msgstr "GIS para Browsers"
+msgstr "GIS voltado para navegador"
 
 #: ../../build/presentation/revealjs/presentation.rst:357
 msgid "|geomoose_logo|"
@@ -433,7 +435,7 @@ msgstr ""
 #: ../../build/presentation/revealjs/presentation.rst:360
 #: ../../build/presentation/revealjs/presentation.rst:421
 msgid "GeoStyler"
-msgstr ""
+msgstr "GeoStyler"
 
 #: ../../build/presentation/revealjs/presentation.rst:360
 #: ../../build/presentation/revealjs/presentation.rst:433
@@ -452,7 +454,7 @@ msgstr ""
 
 #: ../../build/presentation/revealjs/presentation.rst:476
 msgid "Web Services"
-msgstr "Web Services"
+msgstr "Serviços Web"
 
 #: ../../build/presentation/revealjs/presentation.rst:481
 msgid "|deegree_logo|"
@@ -503,7 +505,7 @@ msgstr "GeoNetwork"
 #: ../../build/presentation/revealjs/presentation.rst:482
 #: ../../build/presentation/revealjs/presentation.rst:530
 msgid "GeoServer"
-msgstr ""
+msgstr "GeoSerVer"
 
 #: ../../build/presentation/revealjs/presentation.rst:482
 #: ../../build/presentation/revealjs/presentation.rst:543
@@ -661,7 +663,7 @@ msgstr ""
 #: ../../build/presentation/revealjs/presentation.rst:488
 #: ../../build/presentation/revealjs/presentation.rst:653
 msgid "EOxServer"
-msgstr ""
+msgstr "EOxServer"
 
 #: ../../build/presentation/revealjs/presentation.rst:488
 #: ../../build/presentation/revealjs/presentation.rst:665
@@ -717,7 +719,7 @@ msgstr ""
 #: ../../build/presentation/revealjs/presentation.rst:490
 #: ../../build/presentation/revealjs/presentation.rst:705
 msgid "Re3gistry"
-msgstr ""
+msgstr "Re3gistry"
 
 #: ../../build/presentation/revealjs/presentation.rst:490
 #: ../../build/presentation/revealjs/presentation.rst:719
@@ -847,7 +849,7 @@ msgstr ""
 #: ../../build/presentation/revealjs/presentation.rst:833
 #: ../../build/presentation/revealjs/presentation.rst:869
 msgid "JOSM"
-msgstr ""
+msgstr "JOSM"
 
 #: ../../build/presentation/revealjs/presentation.rst:833
 #: ../../build/presentation/revealjs/presentation.rst:881

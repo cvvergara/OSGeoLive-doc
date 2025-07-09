@@ -8,7 +8,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-17 21:23+0000\n"
 "PO-Revision-Date: 2023-07-03 08:33+0000\n"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: ../../build/doc/overview/52nSOS_overview.rst:41
 msgid ""
-"**Helgoland**: The SOS contains the Helgoland application for  the "
+"**Helgoland**: The SOS contains the Helgoland application for the "
 "exploration, analysis and visualization of Sensor Web data in various fields"
 " of use, e.g. hydrology, meteorology, environmental monitoring, traffic "
 "management."
@@ -329,7 +329,7 @@ msgstr ""
 
 #: ../../build/doc/overview/52nSOS_overview.rst:159
 msgid ""
-"This  project is only included on the OSGeoLive virtual machine disk (VMDK)"
+"This project is only included on the OSGeoLive virtual machine disk (VMDK)"
 msgstr ""
 
 #: ../../build/doc/overview/52nSOS_overview.rst:162

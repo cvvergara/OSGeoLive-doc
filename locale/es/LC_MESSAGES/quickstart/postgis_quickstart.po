@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-05 12:30-0600\n"
-"PO-Revision-Date: 2023-05-09 17:08+0000\n"
+"PO-Revision-Date: 2024-09-01 23:50+0000\n"
 "Last-Translator: Celia Virginia Vergara Castillo <vicky@erosion.dev>\n"
 "Language-Team: Spanish <https://weblate.osgeo.org/projects/osgeolive/"
 "postgis_quickstart/es/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 == 0)"
 " ? 1 : 2);\n"
-"X-Generator: Weblate 4.16.4\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:39
@@ -610,14 +610,14 @@ msgstr ""
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:420
 msgid ""
-"Deploys the Postgis item, then the NaturalEarth item. It will then  "
+"Deploys the Postgis item, then the NaturalEarth item. It will then "
 "connect to the Natural Earth database. Leave the password blank if it "
 "asks. In the public item, there is the list of the layers provided by the"
 " database. You'll see the main manager window. On the left you can select"
 " tables from the database and use the tabs on the right find out about "
 "them. The Preview tab will show you a little map."
 msgstr ""
-"Despliega el ítem de Postgis, luego el ítem de  NaturalEarth. Luego se "
+"Despliega el ítem de Postgis, luego el ítem de NaturalEarth. Luego se "
 "conectará a la base de datos de Natural Earth. Dejar la contraseña en "
 "blanco si le pide. En el ítem público, hay la lista de las capas de la "
 "base de datos. Verás la ventana principal del administrador. A la "
@@ -733,9 +733,9 @@ msgstr "phpPgAdmin principal"
 #: ../../build/doc/quickstart/postgis_quickstart.rst:483
 msgid ""
 "Here, you have the option of creating a new connection to a PostgreSQL "
-"server, or connecting to an existing server. The red \"X\" on the  "
+"server, or connecting to an existing server. The red \"X\" on the "
 "``PostgreSQL`` server denotes that you haven't been yet connected. Click "
-"on it  then enter the user name  ``user`` and the master password  "
+"on it then enter the user name ``user`` and the master password "
 "``user``."
 msgstr ""
 "Aquí, se tiene la opción de crear una nueva conexión a un servidor "
@@ -846,8 +846,8 @@ msgid "pgAdmin"
 msgstr "pgAdmin"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:547
-msgid "Enter the master password  ``user``."
-msgstr "Introduzca la contraseña ``user``"
+msgid "Enter the master password ``user``."
+msgstr "Introduzca la contraseña ``user``."
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:549
 msgid ""
@@ -1011,7 +1011,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:662
 msgid "Read more about ``ogr_fdw``:"
-msgstr "Leer más sobre ``ogr_fdw``"
+msgstr "Leer más sobre ``ogr_fdw``:"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:664
 msgid "Repository: https://github.com/pramsey/pgsql-ogr-fdw"
@@ -1051,7 +1051,7 @@ msgstr "Crear un FDW a un WFS"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:705
 msgid "Start Geoserver via |menu_geoserver-Start|."
-msgstr ""
+msgstr "Iniciar Geoserver a través de |menu_geoserver-Start|."
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:707
 msgid "Open GeoServer http://localhost:8082/geoserver/web/"
@@ -1072,10 +1072,11 @@ msgid ""
 " "
 "<http://localhost:8082/geoserver/ows?service=wfs&version=2.0.0&request=DescribeFeatureType&typename=topp:states>`__"
 msgstr ""
-"GeoServer WFS DescribeFeatureType for topp:states "
-"`http://localhost:8082/geoserver/ows?service=wfs&version=2.0.0&request=DescribeFeatureType&typename=topp:states"
-" "
-"<http://localhost:8082/geoserver/ows?service=wfs&version=2.0.0&request=DescribeFeatureType&typename=topp:states>`__"
+"GeoServer WFS DescribeFeatureType para topp:states `http://localhost:8082/"
+"geoserver/ows?service=wfs&version=2.0."
+"0&request=DescribeFeatureType&typename=topp:states <http://localhost:8082/"
+"geoserver/ows?service=wfs&version=2.0."
+"0&request=DescribeFeatureType&typename=topp:states>`__"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:712
 msgid ""
@@ -1084,10 +1085,10 @@ msgid ""
 " "
 "<http://localhost:8082/geoserver/ows?service=wfs&version=2.0.0&request=GetFeature&typename=topp:states>`__"
 msgstr ""
-"GeoServer WFS GetFeature topp:states "
-"`http://localhost:8082/geoserver/ows?service=wfs&version=2.0.0&request=GetFeature&typename=topp:states"
-" "
-"<http://localhost:8082/geoserver/ows?service=wfs&version=2.0.0&request=GetFeature&typename=topp:states>`__"
+"GeoServer WFS GetFeature para topp:states `http://localhost:8082/geoserver/"
+"ows?service=wfs&version=2.0.0&request=GetFeature&typename=topp:states "
+"<http://localhost:8082/geoserver/ows?service=wfs&version=2.0."
+"0&request=GetFeature&typename=topp:states>`__"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:718
 msgid "Create a foreign server that refers to the WFS that you want to connect"
@@ -1115,7 +1116,7 @@ msgstr "Cosas para probar"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:745
 msgid "Here are some additional challenges for you to try:"
-msgstr "Aquí están algunos retos adicionales para probar:"
+msgstr "Aquí hay algunos desafíos adicionales para que intentes:"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:747
 msgid ""
@@ -1168,12 +1169,12 @@ msgstr ""
 " mucha más funcionalidad que puede probar."
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:764
-msgid "PostGIS Project home -  http://postgis.net"
-msgstr "PostGIS Proyecto en casa -  http://postgis.net"
+msgid "PostGIS Project home - http://postgis.net"
+msgstr "PostGIS Proyecto en casa - http://postgis.net"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:766
-msgid "PostGIS Documentation -  http://postgis.net/documentation/"
-msgstr "PostGIS Documentación -  http://postgis.net/documentation/"
+msgid "PostGIS Documentation - http://postgis.net/documentation/"
+msgstr "PostGIS Documentación - http://postgis.net/documentation/"
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"

@@ -7,21 +7,22 @@
 # Debora Robles Perez <derobpe@gmail.com>, 2018
 # MarPetra <mvergaratrejo@gmail.com>, 2020
 # Vicky Vergara <vicky@georepublic.de>, 2022
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-05 12:30-0600\n"
-"PO-Revision-Date: 2018-06-09 16:37+0000\n"
-"Last-Translator: Vicky Vergara <vicky@georepublic.de>, 2022\n"
+"PO-Revision-Date: 2024-09-01 23:50+0000\n"
+"Last-Translator: Celia Virginia Vergara Castillo <vicky@erosion.dev>\n"
+"Language-Team: Spanish <https://weblate.osgeo.org/projects/osgeolive/"
+"hyperv_quickstart/es/>\n"
 "Language: es\n"
-"Language-Team: Spanish (https://www.transifex.com/osgeo/teams/66156/es/)\n"
-"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 "
-"? 1 : 2;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 == 0)"
+" ? 1 : 2);\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../build/doc/quickstart/hyperv_quickstart.rst:8
@@ -69,7 +70,6 @@ msgid "System Requirements"
 msgstr "Requerimientos del Sistema"
 
 #: ../../build/doc/quickstart/hyperv_quickstart.rst:21
-#, fuzzy
 msgid ""
 "Hyper-V requirements can be found `here <https://learn.microsoft.com/en-"
 "us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v>`_. This "
@@ -77,12 +77,11 @@ msgid ""
 "using the ``systeminfo`` command. In summary the host machine needs to "
 "have the following hardware requirements:"
 msgstr ""
-"Los requisitos de Hyper-V pueden encontrarse `aquí < "
-"https://docs.microsoft.com/en-us/virtualization/hyper-v-on-"
-"windows/reference/hyper-v-requirements >` _. Este enlace también "
-"proporciona información sobre comprobar si tu máquina es compatible con "
-"el comando `` systeminfo``. En resumen el equipo host debe tener los "
-"siguientes requisitos de hardware:"
+"Los requisitos de Hyper-V pueden encontrarse `aquí <https://learn.microsoft."
+"com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v>` _. "
+"Este enlace también proporciona información sobre comprobar si tu máquina es "
+"compatible con el comando `` systeminfo``. En resumen el equipo host debe "
+"tener los siguientes requisitos de hardware:"
 
 #: ../../build/doc/quickstart/hyperv_quickstart.rst:25
 msgid "RAM: 4 GB minimum"
@@ -102,10 +101,9 @@ msgid ""
 "the links on :doc:`live.osgeo.org <../download>`. Once downloaded unzip "
 "the downloaded file (using `7zip <https://www.7-zip.org>`_ )."
 msgstr ""
-"Descargar el VirtualBox de Disco Duro virtual (vmdk) de OSGeoLive  "
-"siguiendo los enlaces en  :doc:`live.osgeo.org <../download>`.  Una vez "
-"descargado, descomprimir el archivo descargado (usando `7zip "
-"<https://www.7-zip.org>`_ )."
+"Descargar el VirtualBox de Disco Duro virtual (vmdk) de OSGeoLive siguiendo "
+"los enlaces en :doc:`live.osgeo.org <../download>`. Una vez descargado, "
+"descomprimir el archivo descargado (usando `7zip <https://www.7-zip.org>`_ )."
 
 #: ../../build/doc/quickstart/hyperv_quickstart.rst:34
 msgid ""
@@ -120,7 +118,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/hyperv_quickstart.rst:38
 msgid "StarWind V2V Converter"
-msgstr "StarWind V2V Converter"
+msgstr "Convertidor StarWind V2V"
 
 #: ../../build/doc/quickstart/hyperv_quickstart.rst:40
 msgid ""
@@ -149,6 +147,10 @@ msgid ""
 "virtual-machine-converter-3-0-is-now-available-for/ba-p/349874>`_ and "
 "install."
 msgstr ""
+"Descargar el `Convertidor de Máquina Vitual de Microsoft 3.0 "
+"<https://techcommunity.microsoft.com/t5/system-center-blog/"
+"microsoft-virtual-machine-converter-3-0-is-now-available-for/ba-p /349874>`_ "
+"e instalar."
 
 #: ../../build/doc/quickstart/hyperv_quickstart.rst:51
 msgid "Download the DS File Ops Kit and unzip."
@@ -209,9 +211,9 @@ msgid ""
 "not the case the more typical approach using Virtual Box outlined at "
 ":doc:`virtualization_quickstart` can be used."
 msgstr ""
-"Esta guía asume que Hyper-V ya está instalado y habilitado - si esto no "
-"es el caso, se puede utilizar el enfoque más típico de Virtual Box, "
-"esbozado en :doc:`virtualization_quickstart` "
+"Esta guía asume que Hyper-V ya está instalado y habilitado - si esto no es "
+"el caso, se puede utilizar el enfoque más típico de Virtual Box, esbozado en "
+":doc:`virtualization_quickstart`."
 
 #: ../../build/doc/quickstart/hyperv_quickstart.rst:98
 msgid "**Create a Virtual Machine**"
@@ -275,7 +277,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/hyperv_quickstart.rst:121
 msgid "See Also:"
-msgstr "Vea también:"
+msgstr "Ver también:"
 
 #: ../../build/doc/quickstart/hyperv_quickstart.rst:122
 msgid ":doc:`virtualization_quickstart`."
@@ -320,4 +322,3 @@ msgstr "Proyecto OSGeo"
 #: ../../build/doc/<rst_epilog>
 msgid "OSGeo Community"
 msgstr "OSGeo Comunitario"
-

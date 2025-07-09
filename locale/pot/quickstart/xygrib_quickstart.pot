@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-05 12:30-0600\n"
+"POT-Creation-Date: 2024-08-17 15:05-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -61,7 +61,7 @@ msgid "With your box drawn on the map, click the zoom-to-box icon on the taskbar
 msgstr ""
 
 #: ../../build/doc/quickstart/xygrib_quickstart.rst:41
-msgid "Again,  mark out a box of interest with a left-click drag, but this time covering most or all of the zoomed-in map canvas."
+msgid "Again, mark out a box of interest with a left-click drag, but this time covering most or all of the zoomed-in map canvas."
 msgstr ""
 
 #: ../../build/doc/quickstart/xygrib_quickstart.rst:42
@@ -152,6 +152,7 @@ msgstr ""
 msgid "OSGeo Project"
 msgstr ""
 
+#: ../../build/doc/<rst_epilog>:0
 #: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
 msgstr ""

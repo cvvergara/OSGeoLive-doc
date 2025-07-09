@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-05 12:30-0600\n"
-"PO-Revision-Date: 2023-06-24 20:08+0000\n"
-"Last-Translator: Zoltan Siki <siki@agt.bme.hu>\n"
+"PO-Revision-Date: 2024-10-14 00:38+0000\n"
+"Last-Translator: Celia Virginia Vergara Castillo <vicky@erosion.dev>\n"
 "Language-Team: Hungarian <https://weblate.osgeo.org/projects/osgeolive/"
 "overview/hu/>\n"
 "Language: hu\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16.4\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../build/doc/overview/overview.rst:6
@@ -459,7 +459,7 @@ msgstr ""
 
 #: ../../build/doc/overview/overview.rst:245
 msgid "Spatial Tools"
-msgstr "Térinformatikai eszközök"
+msgstr "Térbeli eszközök"
 
 #: ../../build/doc/overview/overview.rst:247
 msgid "Specific analysis tools"
@@ -531,8 +531,8 @@ msgid "Spatial data sets"
 msgstr "Térbeli adathalmazok"
 
 #: ../../build/doc/overview/overview.rst:301
-msgid "|nologo| :doc:`naturalearth_overview`  - Global Data Sets"
-msgstr "|nologo| :doc:`naturalearth_overview`  - Globális adathalmazok"
+msgid "|nologo| :doc:`naturalearth_overview` - Global Data Sets"
+msgstr "|nologo| :doc:`naturalearth_overview` - Globális adathalmazok"
 
 #: ../../build/doc/overview/overview.rst:303
 msgid "|nologo| :doc:`nc_dataset_overview`"
@@ -540,15 +540,15 @@ msgstr "|nologo| :doc:`nc_dataset_overview`"
 
 #: ../../build/doc/overview/overview.rst:305
 msgid ""
-"|nologo| :doc:`netcdf_dataset_overview`  - Time series temperature and "
+"|nologo| :doc:`netcdf_dataset_overview` - Time series temperature and "
 "precipitation"
 msgstr ""
-"|nologo| :doc:`netcdf_dataset_overview`  - Hőmérséklet és csapadék "
+"|nologo| :doc:`netcdf_dataset_overview` - Hőmérséklet és csapadék "
 "idősorok"
 
 #: ../../build/doc/overview/overview.rst:307
-msgid "|nologo| :doc:`osm_dataset_overview`  - Sample extract from OpenStreetMap"
-msgstr "|nologo| :doc:`osm_dataset_overview`  - Minta OpenStreetMap kivonat"
+msgid "|nologo| :doc:`osm_dataset_overview` - Sample extract from OpenStreetMap"
+msgstr "|nologo| :doc:`osm_dataset_overview` - Minta OpenStreetMap kivonat"
 
 #: ../../build/doc/overview/overview.rst:311
 msgid "Geospatial Libraries"
@@ -564,12 +564,12 @@ msgstr ""
 "eszközök"
 
 #: ../../build/doc/overview/overview.rst:328
-msgid "|OSGeo_project| :doc:`geos_overview`  - C/C++ Spatial Library"
-msgstr "|OSGeo_project| :doc:`geos_overview`  - C/C++ térinformatikai könyvtár"
+msgid "|OSGeo_project| :doc:`geos_overview` - C/C++ Spatial Library"
+msgstr "|OSGeo_project| :doc:`geos_overview` - C/C++ térinformatikai könyvtár"
 
 #: ../../build/doc/overview/overview.rst:330
-msgid "|OSGeo_project| :doc:`geotools_overview`  - Java GIS Toolkit"
-msgstr "|OSGeo_project| :doc:`geotools_overview`  - Java GIS eszközkészlet"
+msgid "|OSGeo_project| :doc:`geotools_overview` - Java GIS Toolkit"
+msgstr "|OSGeo_project| :doc:`geotools_overview` - Java GIS eszközkészlet"
 
 #: ../../build/doc/overview/overview.rst:332
 msgid ""
@@ -580,23 +580,23 @@ msgstr ""
 "<../quickstart/proj_quickstart>`] - Vetületi rendszerek könyvtár"
 
 #: ../../build/doc/overview/overview.rst:334
-msgid "|nologo| :doc:`jts_overview`  - Java Topology Suite"
-msgstr "|nologo| :doc:`jts_overview`  - Java topológiai készlet"
+msgid "|nologo| :doc:`jts_overview` - Java Topology Suite"
+msgstr "|nologo| :doc:`jts_overview` - Java topológiai készlet"
 
 #: ../../build/doc/overview/overview.rst:338
 msgid "Geospatial Standards"
 msgstr "Térinformatikai szabványok"
 
 #: ../../build/doc/overview/overview.rst:348
-msgid "|nologo| :doc:`ogc_overview`  - Open Geospatial Consortium"
-msgstr "|nologo| :doc:`ogc_overview`  - Open Geospatial Consortium"
+msgid "|nologo| :doc:`ogc_overview` - Open Geospatial Consortium"
+msgstr "|nologo| :doc:`ogc_overview` - Open Geospatial Consortium"
 
 #: ../../build/doc/overview/overview.rst:350
 msgid ""
-"|nologo| :doc:`inspire_overview`  - Infrastructure for Spatial "
+"|nologo| :doc:`inspire_overview` - Infrastructure for Spatial "
 "Information in Europe"
 msgstr ""
-"|nologo| :doc:`inspire_overview`  - Infrastructure for Spatial "
+"|nologo| :doc:`inspire_overview` - Infrastructure for Spatial "
 "Information in Europe"
 
 #: ../../build/doc/overview/overview.rst:354

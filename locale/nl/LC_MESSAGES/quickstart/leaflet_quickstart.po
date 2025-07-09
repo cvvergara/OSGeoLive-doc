@@ -8,7 +8,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:42-0600\n"
 "PO-Revision-Date: 2023-07-03 08:33+0000\n"
@@ -29,7 +29,7 @@ msgstr ""
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:20
 msgid ""
 "Leaflet is a JavaScript library for browser-based, mobile-friendly, "
-"interactive maps.  It is lightweight, yet has all the features most "
+"interactive maps. It is lightweight, yet has all the features most "
 "developers ever need for online maps. Leaflet is designed with simplicity, "
 "performance and usability in mind."
 msgstr ""

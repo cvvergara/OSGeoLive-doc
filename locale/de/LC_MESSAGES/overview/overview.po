@@ -12,15 +12,16 @@ msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-05 12:30-0600\n"
-"PO-Revision-Date: 2023-04-05 04:45+0000\n"
-"Last-Translator: Astrid Emde <astrid.emde@posteo.de>\n"
+"PO-Revision-Date: 2024-10-14 15:25+0000\n"
+"Last-Translator: Celia Virginia Vergara Castillo <vicky@erosion.dev>\n"
+"Language-Team: German <https://weblate.osgeo.org/projects/osgeolive/overview/"
+"de/>\n"
 "Language: de\n"
-"Language-Team: German "
-"<https://weblate.osgeo.org/projects/osgeolive/overview/de/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../build/doc/overview/overview.rst:6
@@ -62,8 +63,7 @@ msgstr "Desktop GIS"
 #: ../../build/doc/overview/overview.rst:21
 msgid "General GIS viewing, editing, and analysis on the desktop"
 msgstr ""
-"Allgemeine Darstellung, Bearbeitung und Analyse von Geodaten über den "
-"Desktop:"
+"Allgemeine Darstellung, Bearbeitung und Analyse von Geodaten über den Desktop"
 
 #: ../../build/doc/overview/overview.rst:39
 msgid ""
@@ -125,8 +125,7 @@ msgstr "Browser Anwendungen"
 #: ../../build/doc/overview/overview.rst:55
 msgid "General GIS viewing, editing and analysis in the browser"
 msgstr ""
-"Allgemeine Darstellung, Bearbeitung und Analyse von Geodaten über den "
-"Browser:"
+"Allgemeine Darstellung, Bearbeitung und Analyse von Geodaten über den Browser"
 
 #: ../../build/doc/overview/overview.rst:77
 msgid ""
@@ -531,7 +530,7 @@ msgid "Spatial data sets"
 msgstr "Auwahl räumlicher Daten"
 
 #: ../../build/doc/overview/overview.rst:301
-msgid "|nologo| :doc:`naturalearth_overview`  - Global Data Sets"
+msgid "|nologo| :doc:`naturalearth_overview` - Global Data Sets"
 msgstr "|nologo| :doc:`naturalearth_overview` - Globale Daten"
 
 #: ../../build/doc/overview/overview.rst:303
@@ -540,14 +539,14 @@ msgstr "|nologo| :doc:`nc_dataset_overview`"
 
 #: ../../build/doc/overview/overview.rst:305
 msgid ""
-"|nologo| :doc:`netcdf_dataset_overview`  - Time series temperature and "
+"|nologo| :doc:`netcdf_dataset_overview` - Time series temperature and "
 "precipitation"
 msgstr ""
 "|nologo| :doc:`netcdf_dataset_overview` - Zeitserien zu Temperatur und "
 "Niederschlag"
 
 #: ../../build/doc/overview/overview.rst:307
-msgid "|nologo| :doc:`osm_dataset_overview`  - Sample extract from OpenStreetMap"
+msgid "|nologo| :doc:`osm_dataset_overview` - Sample extract from OpenStreetMap"
 msgstr "|nologo| :doc:`osm_dataset_overview` - Beispiel-Extrakt von OpenStreetMap"
 
 #: ../../build/doc/overview/overview.rst:311
@@ -563,12 +562,12 @@ msgstr ""
 "<../quickstart/gdal_quickstart>`] - Geospatial Data Translation Tools"
 
 #: ../../build/doc/overview/overview.rst:328
-msgid "|OSGeo_project| :doc:`geos_overview`  - C/C++ Spatial Library"
+msgid "|OSGeo_project| :doc:`geos_overview` - C/C++ Spatial Library"
 msgstr "|OSGeo_project| :doc:`geos_overview` - C/C++ Spatial Library"
 
 #: ../../build/doc/overview/overview.rst:330
-msgid "|OSGeo_project| :doc:`geotools_overview`  - Java GIS Toolkit"
-msgstr "|OSGeo_project| :doc:`geotools_overview` - Java GIS Toolkit "
+msgid "|OSGeo_project| :doc:`geotools_overview` - Java GIS Toolkit"
+msgstr "|OSGeo_project| :doc:`geotools_overview` - Java GIS Toolkit"
 
 #: ../../build/doc/overview/overview.rst:332
 msgid ""
@@ -580,7 +579,7 @@ msgstr ""
 "Koordinatenreferenzsysteme"
 
 #: ../../build/doc/overview/overview.rst:334
-msgid "|nologo| :doc:`jts_overview`  - Java Topology Suite"
+msgid "|nologo| :doc:`jts_overview` - Java Topology Suite"
 msgstr "|nologo| :doc:`jts_overview` - Java Topology Suite"
 
 #: ../../build/doc/overview/overview.rst:338
@@ -588,15 +587,15 @@ msgid "Geospatial Standards"
 msgstr "Geospatial Standards"
 
 #: ../../build/doc/overview/overview.rst:348
-msgid "|nologo| :doc:`ogc_overview`  - Open Geospatial Consortium"
-msgstr "|nologo| :doc:`ogc_overview`  - Open Geospatial Consortium"
+msgid "|nologo| :doc:`ogc_overview` - Open Geospatial Consortium"
+msgstr "|nologo| :doc:`ogc_overview` - Open Geospatial Consortium"
 
 #: ../../build/doc/overview/overview.rst:350
 msgid ""
-"|nologo| :doc:`inspire_overview`  - Infrastructure for Spatial "
+"|nologo| :doc:`inspire_overview` - Infrastructure for Spatial "
 "Information in Europe"
 msgstr ""
-"|nologo| :doc:`inspire_overview`  - Infrastructure for Spatial "
+"|nologo| :doc:`inspire_overview` - Infrastructure for Spatial "
 "Information in Europe"
 
 #: ../../build/doc/overview/overview.rst:354
@@ -606,4 +605,3 @@ msgstr "Weitere Software aus vorherigen OSGeoLive Versionen"
 #: ../../build/doc/overview/overview.rst:366
 msgid ":doc:`../prior_applications`"
 msgstr ":doc:`../prior_applications`"
-

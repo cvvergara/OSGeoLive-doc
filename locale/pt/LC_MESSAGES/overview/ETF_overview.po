@@ -6,20 +6,22 @@
 # Translators:
 # Eduardo G. S. Pereira <edu_vcd@hotmail.com>, 2022
 # 
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:42-0600\n"
-"PO-Revision-Date: 2022-07-20 18:59+0000\n"
-"Last-Translator: Eduardo G. S. Pereira <edu_vcd@hotmail.com>, 2022\n"
-"Language-Team: Portuguese (Brazil) (https://app.transifex.com/osgeo/teams/66156/pt_BR/)\n"
+"PO-Revision-Date: 2024-12-08 03:35+0000\n"
+"Last-Translator: Luiza Santos <luiza.marques_@hotmail.com>\n"
+"Language-Team: Portuguese <https://weblate.osgeo.org/projects/osgeolive/"
+"etf_overview/pt/>\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : ((n != 0 && n % "
+"1000000 == 0) ? 1 : 2);\n"
+"X-Generator: Weblate 5.4.3\n"
 
 #: ../../build/doc/overview/ETF_overview.rst:17
 msgid "ETF"
@@ -67,7 +69,7 @@ msgstr ""
 
 #: ../../build/doc/overview/ETF_overview.rst:55
 msgid "Core Features"
-msgstr "Funções Principais"
+msgstr "Principais Funções"
 
 #: ../../build/doc/overview/ETF_overview.rst:61
 msgid "Testable resources"
@@ -203,7 +205,7 @@ msgstr ""
 
 #: ../../build/doc/overview/ETF_overview.rst:101
 msgid "**Supported Platforms:** Windows, Linux"
-msgstr ""
+msgstr "**Plataformas suportadas:** Windows, Linux"
 
 #: ../../build/doc/overview/ETF_overview.rst:103
 msgid ""
@@ -234,12 +236,12 @@ msgstr ""
 
 #: ../../build/doc/overview/ETF_overview.rst:114
 msgid ""
-"This  project is only included on the OSGeoLive virtual machine disk (VMDK)"
+"This project is only included on the OSGeoLive virtual machine disk (VMDK)"
 msgstr ""
 
 #: ../../build/doc/overview/ETF_overview.rst:117
 msgid "Quickstart"
-msgstr "Quickstart"
+msgstr "Início Rápido"
 
 #: ../../build/doc/overview/ETF_overview.rst:119
 msgid ":doc:`Quickstart documentation <../quickstart/ETF_quickstart>`"
@@ -247,16 +249,16 @@ msgstr ""
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
-msgstr ""
+msgstr "vmdk"
 
 #: ../../build/doc/<rst_epilog>:16
 msgid "nologo"
-msgstr ""
+msgstr "nologo"
 
 #: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Project"
-msgstr ""
+msgstr "Projeto OSGeo"
 
 #: ../../build/doc/<rst_epilog>:0 ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
-msgstr ""
+msgstr "Comunidade OSGeo"

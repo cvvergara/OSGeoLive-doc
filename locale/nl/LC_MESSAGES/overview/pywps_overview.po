@@ -8,7 +8,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:42-0600\n"
 "PO-Revision-Date: 2023-07-03 08:33+0000\n"
@@ -41,7 +41,7 @@ msgid ""
 "Processes are written in the Python programming language and can integrate "
 "tools such as :doc:`GRASS GIS <grass_overview>`, :doc:`R <R_overview>`, "
 ":doc:`GDAL/OGR <gdal_overview>`, :doc:`proj <proj_overview>` and other "
-"libraries with Python bindings.  Source data can be provided with WPS "
+"libraries with Python bindings. Source data can be provided with WPS "
 "requests or accessed from data on the WPS server."
 msgstr ""
 

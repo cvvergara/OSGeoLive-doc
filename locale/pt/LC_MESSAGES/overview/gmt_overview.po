@@ -6,20 +6,22 @@
 # Translators:
 # Eduardo G. S. Pereira <edu_vcd@hotmail.com>, 2019
 # 
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-17 21:23+0000\n"
-"PO-Revision-Date: 2017-09-20 16:08+0000\n"
-"Last-Translator: Eduardo G. S. Pereira <edu_vcd@hotmail.com>, 2019\n"
-"Language-Team: Portuguese (Brazil) (https://app.transifex.com/osgeo/teams/66156/pt_BR/)\n"
+"PO-Revision-Date: 2024-10-14 13:51+0000\n"
+"Last-Translator: Celia Virginia Vergara Castillo <vicky@erosion.dev>\n"
+"Language-Team: Portuguese <https://weblate.osgeo.org/projects/osgeolive/"
+"gmt_overview/pt/>\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : ((n != 0 && n % "
+"1000000 == 0) ? 1 : 2);\n"
+"X-Generator: Weblate 5.4.3\n"
 
 #: ../../build/doc/overview/gmt_overview.rst:15
 msgid "GMT"
@@ -52,7 +54,7 @@ msgstr ""
 
 #: ../../build/doc/overview/gmt_overview.rst:38
 msgid "Core Features"
-msgstr "Funções Principais"
+msgstr "Principais Funções"
 
 #: ../../build/doc/overview/gmt_overview.rst:40
 msgid "Journal quality cartography."
@@ -72,7 +74,7 @@ msgstr ""
 
 #: ../../build/doc/overview/gmt_overview.rst:48
 msgid "**Licence:** GNU General Public License (GPL) version 2"
-msgstr "**Licence:** GNU General Public License (GPL) version 2"
+msgstr "**Licença:** GNU General Public License (GPL) version 2"
 
 #: ../../build/doc/overview/gmt_overview.rst:50
 msgid "**Software Version:** |version-gmt|"
@@ -92,12 +94,12 @@ msgstr ""
 
 #: ../../build/doc/overview/gmt_overview.rst:59
 msgid ""
-"This  project is only included on the OSGeoLive virtual machine disk (VMDK)"
+"This project is only included on the OSGeoLive virtual machine disk (VMDK)"
 msgstr ""
 
 #: ../../build/doc/overview/gmt_overview.rst:62
 msgid "Quickstart"
-msgstr "Quickstart"
+msgstr "Início Rápido"
 
 #: ../../build/doc/overview/gmt_overview.rst:64
 msgid ":doc:`Quickstart documentation <../quickstart/gmt_quickstart>`"
@@ -105,16 +107,16 @@ msgstr ""
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
-msgstr ""
+msgstr "vmdk"
 
 #: ../../build/doc/<rst_epilog>:16
 msgid "nologo"
-msgstr ""
+msgstr "nologo"
 
 #: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Project"
-msgstr ""
+msgstr "Projeto OSGeo"
 
 #: ../../build/doc/<rst_epilog>:0 ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
-msgstr ""
+msgstr "Comunidade OSGeo"

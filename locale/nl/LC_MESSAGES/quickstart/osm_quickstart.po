@@ -8,7 +8,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:42-0600\n"
 "PO-Revision-Date: 2023-07-03 08:33+0000\n"
@@ -251,7 +251,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/osm_quickstart.rst:139
 msgid ""
-"Click  `Run query`. The resulting data will be loaded in your QGIS project "
+"Click `Run query`. The resulting data will be loaded in your QGIS project "
 "as temporal data"
 msgstr ""
 

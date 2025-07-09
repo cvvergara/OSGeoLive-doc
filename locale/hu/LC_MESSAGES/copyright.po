@@ -178,12 +178,12 @@ msgstr "** Tömör CC-By-SA és megnevezés:**"
 #: ../../build/doc/copyright.rst:62
 msgid ""
 "© 2011 [Your Name] under a `CC By SA License "
-"<https://creativecommons.org/licenses/by-sa/3.0/>`__.  [Derived "
+"<https://creativecommons.org/licenses/by-sa/3.0/>`__. [Derived "
 "from|Includes|Extends] :doc:`OSGeoLive <index>` documentation by "
 ":doc:`OSGeoLive contributors <copyright>`."
 msgstr ""
-"© 2011 [ön neve]  a `CC By SA Licenc <https://creativecommons.org/licenses/"
-"by-sa/3.0/>`_ alatt.  [Levezetve|tartalmazza|kibővíti] :doc:`OSGeoLive "
+"© 2011 [ön neve] a `CC By SA Licenc <https://creativecommons.org/licenses/"
+"by-sa/3.0/>`_ alatt. [Levezetve|tartalmazza|kibővíti] :doc:`OSGeoLive "
 "<index>` dokumentációt az :doc:`OSGeoLive hozzájárulóktól <copyright>`."
 
 #: ../../build/doc/copyright.rst:67
@@ -263,10 +263,6 @@ msgid "Angelos Tzotsos, OSGeo"
 msgstr "Angelos Tzotsos, OSGeo"
 
 #: ../../build/licenses.csv:1
-msgid "Creative Commons Attribution 3.0 Unported (CC BY 3.0)"
-msgstr "Creative Commons Attribution 3.0 Unported (CC BY 3.0)"
-
-#: ../../build/licenses.csv:1
 msgid "52nWPS_overview"
 msgstr "52nWPS_overview"
 
@@ -326,10 +322,6 @@ msgstr "cesium_overview"
 #: ../../build/licenses.csv:1
 msgid "Balasubramaniam Natarajan"
 msgstr "Balasubramaniam Natarajan"
-
-#: ../../build/licenses.csv:1
-msgid "Creative Commons Attribution-ShareAlike 3.0 Unported  (CC BY-SA 3.0)"
-msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported  (CC BY-SA 3.0)"
 
 #: ../../build/licenses.csv:1
 msgid "deegree_overview"
@@ -424,8 +416,8 @@ msgid "Hamish Bowman; Paul Wessel"
 msgstr "Hamish Bowman; Paul Wessel"
 
 #: ../../build/licenses.csv:1
-msgid "Creative Commons Attribution 3.0 Unported  (CC BY 3.0)"
-msgstr "Creative Commons Attribution 3.0 Unported  (CC BY 3.0)"
+msgid "Creative Commons Attribution 3.0 Unported (CC BY 3.0)"
+msgstr "Creative Commons Attribution 3.0 Unported (CC BY 3.0)"
 
 #: ../../build/licenses.csv:1
 msgid "gpsdrive_overview"
@@ -1203,7 +1195,7 @@ msgstr "OSGeoLive; Jachym Cepicky, Tom Kralidis"
 
 #: ../../build/licenses.csv:1
 msgid "Creative Commons Attribution"
-msgstr "Creative Commons Nevezd meg"
+msgstr "Creative Commons Attribution"
 
 #: ../../build/licenses.csv:1
 msgid "qgis_mapserver_quickstart"

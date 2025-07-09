@@ -8,7 +8,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:42-0600\n"
 "PO-Revision-Date: 2023-07-03 08:33+0000\n"
@@ -63,7 +63,7 @@ msgid "From the application launch menu in the lower left corner."
 msgstr ""
 
 #: ../../build/doc/quickstart/jupyter_quickstart.rst:41
-msgid "Choose  *Geospatial* -> *Spatial Tools* -> *Jupyter Notebook*"
+msgid "Choose *Geospatial* -> *Spatial Tools* -> *Jupyter Notebook*"
 msgstr ""
 
 #: ../../build/doc/quickstart/jupyter_quickstart.rst:43
@@ -107,7 +107,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/jupyter_quickstart.rst:75
 msgid ""
-"Cell-> Run All:  will run all the cells and show the results If everything "
+"Cell-> Run All: will run all the cells and show the results If everything "
 "worked as planned you should be able to see the results at the bottom of the"
 " page."
 msgstr ""

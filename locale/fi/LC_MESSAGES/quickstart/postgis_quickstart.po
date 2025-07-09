@@ -8,20 +8,21 @@
 # Sini Pöytäniemi <sini.poytaniemi@gmail.com>, 2019
 # MarPetra <mvergaratrejo@gmail.com>, 2020
 # Kari Salovaara <kari.salovaara@pp1.inet.fi>, 2022
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-05 12:30-0600\n"
-"PO-Revision-Date: 2017-09-20 16:04+0000\n"
-"Last-Translator: Kari Salovaara <kari.salovaara@pp1.inet.fi>, 2022\n"
+"PO-Revision-Date: 2024-10-14 14:30+0000\n"
+"Last-Translator: Celia Virginia Vergara Castillo <vicky@erosion.dev>\n"
+"Language-Team: Finnish <https://weblate.osgeo.org/projects/osgeolive/"
+"postgis_quickstart/fi/>\n"
 "Language: fi\n"
-"Language-Team: Finnish (https://www.transifex.com/osgeo/teams/66156/fi/)\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:39
@@ -45,7 +46,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:46
 msgid "This Quick Start describes how to:"
-msgstr "Tämä Pika-aloitus kuvaa, miten:"
+msgstr "Tässä Pika-aloitusnäytössä kuvataan, miten:"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:48
 msgid ""
@@ -58,7 +59,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:49
 msgid "Manage data from the ``pgAdmin`` client."
-msgstr "Hallitse tietoja  \"pgAdmin\"-client-ohjelmistosta."
+msgstr "Hallitse tietoja \"pgAdmin\"-client-ohjelmistosta."
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:53
 msgid "Contents"
@@ -148,7 +149,7 @@ msgid ""
 "The list uses a standard unix pager - hit space for next page, :kbd:`b` "
 "to go back, :kbd:`q` to quit, h for help."
 msgstr ""
-"Luettelo käyttää standardinomaisesti UNIX:ia  - paina space-näppäintä "
+"Luettelo käyttää standardinomaisesti UNIX:ia - paina space-näppäintä "
 "päästäksesi seuraavalle sivulle,: KBD: ' b ' mennäksesi takaisin,: KBD: '"
 " q ' lopettaaksesi, h löytääksesi apuja."
 
@@ -206,10 +207,10 @@ msgid ""
 "``psql -d demo``, but here's a neat way of switching within the ``psql`` "
 "command line:"
 msgstr ""
-"Vaihda nyt yhteytesi ``postgres`` tietokannasta uuteen "
-"``demo``-tietokantaan. Tulevaisuudessa voit tehdä siihen suoraan yhteyden"
-" käyttämällä ``psql -d demo``-komentoa, mutta siihen on myös näppärä tapa"
-" suoraan ``psql``-komentoriviltä."
+"Vaihda nyt yhteytesi ``postgres`` tietokannasta uuteen ``demo``-"
+"tietokantaan. Tulevaisuudessa voit tehdä siihen suoraan yhteyden käyttämällä "
+"``psql -d demo``-komentoa, mutta siihen on myös näppärä tapa suoraan "
+"``psql``-komentoriviltä:"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:137
 msgid ""
@@ -295,14 +296,14 @@ msgid ""
 "surface"
 msgstr ""
 "`geometry` on tietotyyppi, joka tallentaa vektoritietoja piirrettynä "
-"litteälle tasopinnalle (tasokoordinaattijärjestelmiä hyödyntäen)."
+"litteälle tasopinnalle"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:221
 msgid ""
 "`geography` - is a data type that stores data as vectors drawn on a "
 "spheroidal surface"
 msgstr ""
-"`geography` - on tietotyyppi, joka tallentaa vektoritietoja piirrettynä  "
+"`geography` - on tietotyyppi, joka tallentaa vektoritietoja piirrettynä "
 "pallopinnalle (maantieteelliset koordinaatit)"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:224
@@ -372,9 +373,9 @@ msgid ""
 "for the city name, and another for the geometry column:"
 msgstr ""
 "Ensin luodaan tavallinen tietokantataulu, johon tallennetaan tietoja "
-"kaupungeista. Tässä taulukossa on kolme kenttää: yksi kaupungit "
-"yksilöivälle numeeriselle ID-tunnukselle, yksi kaupunkien nimille ja yksi"
-" geometria-sarakkeelle."
+"kaupungeista. Tässä taulukossa on kolme kenttää: yksi kaupungit yksilöivälle "
+"numeeriselle ID-tunnukselle, yksi kaupunkien nimille ja yksi geometria-"
+"sarakkeelle:"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:251
 msgid ""
@@ -568,7 +569,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:420
 msgid ""
-"Deploys the Postgis item, then the NaturalEarth item. It will then  "
+"Deploys the Postgis item, then the NaturalEarth item. It will then "
 "connect to the Natural Earth database. Leave the password blank if it "
 "asks. In the public item, there is the list of the layers provided by the"
 " database. You'll see the main manager window. On the left you can select"
@@ -657,9 +658,9 @@ msgstr ""
 #: ../../build/doc/quickstart/postgis_quickstart.rst:483
 msgid ""
 "Here, you have the option of creating a new connection to a PostgreSQL "
-"server, or connecting to an existing server. The red \"X\" on the  "
+"server, or connecting to an existing server. The red \"X\" on the "
 "``PostgreSQL`` server denotes that you haven't been yet connected. Click "
-"on it  then enter the user name  ``user`` and the master password  "
+"on it then enter the user name ``user`` and the master password "
 "``user``."
 msgstr ""
 
@@ -741,7 +742,7 @@ msgid "pgAdmin"
 msgstr ""
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:547
-msgid "Enter the master password  ``user``."
+msgid "Enter the master password ``user``."
 msgstr ""
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:549
@@ -951,7 +952,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:743
 msgid "Things to try"
-msgstr "Kokeiltavaa: "
+msgstr "Kokeiltavaa"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:745
 msgid "Here are some additional challenges for you to try:"
@@ -964,7 +965,7 @@ msgid ""
 "documentation at http://postgis.net/documentation/"
 msgstr ""
 "Kokeile joitain enemmän tilatoimintoja, kuten``st_buffer(geom)``, "
-"``st_transform(geom,25831)``, ``st_x(geom)`` -  löydät täydelliset ohjeet"
+"``st_transform(geom,25831)``, ``st_x(geom)`` - löydät täydelliset ohjeet"
 " osoitteesta http://postgis.net/documentation/"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:749
@@ -1000,12 +1001,12 @@ msgid ""
 msgstr ""
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:764
-msgid "PostGIS Project home -  http://postgis.net"
-msgstr "PostGIS-projektin koti -  http://postgis.net"
+msgid "PostGIS Project home - http://postgis.net"
+msgstr "PostGIS-projektin koti - http://postgis.net"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:766
-msgid "PostGIS Documentation -  http://postgis.net/documentation/"
-msgstr "PostGIS-dokumentaatio -  http://postgis.net/documentation/"
+msgid "PostGIS Documentation - http://postgis.net/documentation/"
+msgstr "PostGIS-dokumentaatio - http://postgis.net/documentation/"
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
@@ -1022,4 +1023,3 @@ msgstr ""
 #: ../../build/doc/<rst_epilog>
 msgid "OSGeo Community"
 msgstr ""
-

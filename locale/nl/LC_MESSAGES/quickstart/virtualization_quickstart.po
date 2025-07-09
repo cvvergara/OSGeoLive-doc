@@ -8,11 +8,11 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:42-0600\n"
-"PO-Revision-Date: 2023-07-03 08:33+0000\n"
-"Last-Translator: Michel Stuyts <michel.stuyts@gmail.com>\n"
+"PO-Revision-Date: 2024-10-14 14:30+0000\n"
+"Last-Translator: Celia Virginia Vergara Castillo <vicky@erosion.dev>\n"
 "Language-Team: Dutch <https://weblate.osgeo.org/projects/osgeolive/"
 "virtualization_quickstart/nl/>\n"
 "Language: nl\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16.4\n"
+"X-Generator: Weblate 5.4.3\n"
 
 #: ../../build/doc/quickstart/virtualization_quickstart.rst:10
 msgid "Running in a Virtual Machine"
@@ -45,8 +45,8 @@ msgid ""
 "To learn more about the benefits of virtualization, see `Virtualization "
 "<https://en.wikipedia.org/wiki/Virtualization>`_ in Wiki"
 msgstr ""
-"Voor meer informatie over de voordelen van virtualisatie, zie "
-"`Virtualization <https://en.wikipedia.org/wiki/Virtualization>`_ in Wiki."
+"Voor meer informatie over de voordelen van virtualisatie, zie `"
+"Virtualization <https://en.wikipedia.org/wiki/Virtualization>`_ in Wiki"
 
 #: ../../build/doc/quickstart/virtualization_quickstart.rst:21
 msgid "Prerequisites"
@@ -58,11 +58,11 @@ msgstr "**Software**"
 
 #: ../../build/doc/quickstart/virtualization_quickstart.rst:25
 msgid ""
-"Download `Virtual Box <https://www.virtualbox.org/>`_  for your platform, "
+"Download `Virtual Box <https://www.virtualbox.org/>`_ for your platform, "
 "and install the software. On Windows run the installer, or on Ubuntu-like "
 "Linux systems run the following:"
 msgstr ""
-"Download `Virtual Box <https://www.virtualbox.org/>`_  voor uw platform en "
+"Download `Virtual Box <https://www.virtualbox.org/>`_ voor uw platform en "
 "installeer de software. Voer op Windows het installatieprogramma uit of op "
 "Ubuntu-achtige Linux-systemen voert u het volgende uit:"
 
@@ -105,13 +105,13 @@ msgstr ""
 #: ../../build/doc/quickstart/virtualization_quickstart.rst:36
 msgid ""
 "**Spare**: Minimum 20 GB Hard Disk Space. The virtual disk file (vmdk) from "
-":doc:`live.osgeo.org <../download>`  unzips to almost 10 GB. You'll also "
+":doc:`live.osgeo.org <../download>` unzips to almost 10 GB. You'll also "
 "want more space to allow some room to work on the virtual machine. So a "
 "total of 20 GB is a good recommendation."
 msgstr ""
 "**Reserve**: Minimaal 20 GB ruimte op de harde schijf. Het virtuele "
 "schijfbestand (vmdk) van :doc:`live.osgeo.org <../download>` wordt uitgepakt"
-" tot bijna 10 GB. U wilt ook meer ruimte  om op de virtuele machine te "
+" tot bijna 10 GB. U wilt ook meer ruimte om op de virtuele machine te "
 "werken. Dus een totaal van 20 GB is een goede aanbeveling."
 
 #: ../../build/doc/quickstart/virtualization_quickstart.rst:37
@@ -236,7 +236,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/virtualization_quickstart.rst:97
 msgid "Step 3 : Running the Virtual Machine"
-msgstr "Stap 3 : Opstarten van de de virtuele machine"
+msgstr "Stap 3 : Opstarten van de virtuele machine"
 
 #: ../../build/doc/quickstart/virtualization_quickstart.rst:99
 msgid "Now bootup the VM by clicking the **Start** (green arrow) button."

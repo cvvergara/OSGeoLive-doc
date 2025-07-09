@@ -7,20 +7,21 @@
 # MarPetra <mvergaratrejo@gmail.com>, 2020
 # Ko Nagase <nagase@georepublic.co.jp>, 2022
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-04 13:45+0000\n"
-"PO-Revision-Date: 2017-09-20 16:03+0000\n"
-"Last-Translator: Ko Nagase <nagase@georepublic.co.jp>, 2022\n"
-"Language-Team: Japanese (https://www.transifex.com/osgeo/teams/66156/ja/)\n"
+"PO-Revision-Date: 2024-11-02 13:09+0000\n"
+"Last-Translator: Ko Nagase <geosanak@gmail.com>\n"
+"Language-Team: Japanese <https://weblate.osgeo.org/projects/osgeolive/"
+"leaflet_quickstart/ja/>\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.4.3\n"
 
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:18
 msgid "Leaflet Quickstart"
@@ -29,7 +30,7 @@ msgstr "Leaflet クイックスタート"
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:20
 msgid ""
 "Leaflet is a JavaScript library for browser-based, mobile-friendly, "
-"interactive maps.  It is lightweight, yet has all the features most "
+"interactive maps. It is lightweight, yet has all the features most "
 "developers ever need for online maps. Leaflet is designed with simplicity, "
 "performance and usability in mind."
 msgstr ""
@@ -90,7 +91,7 @@ msgstr "Leaflet JavaScritファイルをよみこむ:"
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:50
 msgid ""
 "put a **div** element with a certain **id** where you want your map to be:"
-msgstr "地図を表示したい場所に適切な **id** をもつ  **div** エレメントを配置する:"
+msgstr "地図を表示したい場所に適切な **id** をもつ **div** エレメントを配置する:"
 
 #: ../../build/doc/quickstart/leaflet_quickstart.rst:56
 msgid ""

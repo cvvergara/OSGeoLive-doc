@@ -65,8 +65,8 @@ msgid ""
 "further on this page."
 msgstr ""
 "OSGeo-Live on koottu kokonaan vapaista ohjellmistoista, vapaasta datasta "
-"ja vapaasta dokumentoinnista,  joka sallii sen vapaan jakelun, "
-"monistamisen sekä levittämisen.  Kaikkien mukaan paketoitujen projektien "
+"ja vapaasta dokumentoinnista, joka sallii sen vapaan jakelun, "
+"monistamisen sekä levittämisen. Kaikkien mukaan paketoitujen projektien "
 "lisenssit on vedetty yhteen tällä sivulla."
 
 #: ../../build/doc/copyright.rst:21
@@ -128,7 +128,7 @@ msgstr ""
 "Kuten `Creative Commons lisenssin ehdoissa "
 "<https://creativecommons.org/faq/#How_do_I_properly_attribute_a_Creative_Commons_licensed_work.3F>`_,"
 " jos sisällytät OSGeoLive dokumentaation uuteen dokumenttiin, tulee sinun"
-" antaa avustajille arvoa.. Lisäksi jos  otat mukaan pika-aloituksia jotka"
+" antaa avustajille arvoa.. Lisäksi jos otat mukaan pika-aloituksia jotka"
 " on lisenssoitu käyttäen `CC By-SA <https://creativecommons.org/licenses"
 "/by-sa/3.0/>`_ lisenssiä, niin uusi dokumentti tulee myös lisenssoida "
 "käyttäen lisenssiä `CC By-SA <https://creativecommons.org/licenses/by-"
@@ -171,7 +171,7 @@ msgstr "**Suppea CC-By-SA ja ansion osoittaminen:**"
 #: ../../build/doc/copyright.rst:62
 msgid ""
 "© 2011 [Your Name] under a `CC By SA License "
-"<https://creativecommons.org/licenses/by-sa/3.0/>`__.  [Derived "
+"<https://creativecommons.org/licenses/by-sa/3.0/>`__. [Derived "
 "from|Includes|Extends] :doc:`OSGeoLive <index>` documentation by "
 ":doc:`OSGeoLive contributors <copyright>`."
 msgstr ""
@@ -186,7 +186,7 @@ msgid ""
 ":doc:`OSGeoLive <index>` Project Overviews by :doc:`OSGeoLive "
 "contributors <copyright>`."
 msgstr ""
-"|CC-By-small| © 2011 [tuntematon]. [Periytyy|Sisältää|Laajentaa]  "
+"|CC-By-small| © 2011 [tuntematon]. [Periytyy|Sisältää|Laajentaa] "
 ":doc:`OSGeoLive <index>` Projektien kuvaukset :doc:`OSGeoLive avustajat "
 "<copyright>`."
 
@@ -203,7 +203,7 @@ msgid ""
 "This document includes :doc:`OSGeoLive <index>` Project Overviews by "
 ":doc:`OSGeoLive contributors <copyright>`."
 msgstr ""
-"Tämä dokumentti sisältää  :doc:`OSGeoLive <index>` Projektien katsaukset "
+"Tämä dokumentti sisältää :doc:`OSGeoLive <index>` Projektien katsaukset "
 ":doc:`OSGeoLive avustajittain <copyright>`."
 
 #: ../../build/doc/copyright.rst:82
@@ -253,10 +253,6 @@ msgid "Angelos Tzotsos, OSGeo"
 msgstr "Angelos Tzotsos, OSGeo"
 
 #: ../../build/licenses.csv:1
-msgid "Creative Commons Attribution 3.0 Unported (CC BY 3.0)"
-msgstr "Creative Commons 3.0 Nimeä Ei sovitettu (CC BY 3.0)"
-
-#: ../../build/licenses.csv:1
 msgid "52nWPS_overview"
 msgstr "52nWPS_overview"
 
@@ -301,9 +297,9 @@ msgid "cartaro_overview"
 msgstr "cartaro_overview"
 
 #: ../../build/licenses.csv:1
-#, fuzzy
 msgid "Friedjoff Trautwein, https://geops.com; Patric Hafner, https://geops.com"
-msgstr "Friedjoff Trautwein, https://geops.de; Patric Hafner, https://geops.de"
+msgstr ""
+"Friedjoff Trautwein, https://geops.com; Patric Hafner, https://geops.com"
 
 #: ../../build/licenses.csv:1
 msgid "Cameron Shorter, https://www.jirotech.com"
@@ -316,10 +312,6 @@ msgstr "cesium_overview"
 #: ../../build/licenses.csv:1
 msgid "Balasubramaniam Natarajan"
 msgstr "Balasubramaniam Natarajan"
-
-#: ../../build/licenses.csv:1
-msgid "Creative Commons Attribution-ShareAlike 3.0 Unported  (CC BY-SA 3.0)"
-msgstr "Creative Commons Nimeä-JaaSamoin 3.0 Ei sovitettu (CC BY-SA 3.0)"
 
 #: ../../build/licenses.csv:1
 msgid "deegree_overview"
@@ -414,7 +406,7 @@ msgid "Hamish Bowman; Paul Wessel"
 msgstr "Hamish Bowman; Paul Wessel"
 
 #: ../../build/licenses.csv:1
-msgid "Creative Commons Attribution 3.0 Unported  (CC BY 3.0)"
+msgid "Creative Commons Attribution 3.0 Unported (CC BY 3.0)"
 msgstr "Creative Commons Nimeä 3.0 Ei sovitettu (CC BY 3.0)"
 
 #: ../../build/licenses.csv:1
@@ -834,13 +826,12 @@ msgid "cartaro_quickstart"
 msgstr "cartaro_quickstart"
 
 #: ../../build/licenses.csv:1
-#, fuzzy
 msgid ""
 "Friedjoff Trautwein (https://geops.com); Augustus Kling "
 "(https://geops.com); Patric Hafner (https://geops.com)"
 msgstr ""
-"Friedjoff Trautwein (https://geops.de); Augustus Kling "
-"(https://geops.de); Patric Hafner (https://geops.de)"
+"Friedjoff Trautwein (https://geops.com); Augustus Kling (https://geops.com); "
+"Patric Hafner (https://geops.com)"
 
 #: ../../build/licenses.csv:1
 msgid "cesium_quickstart"
@@ -1305,6 +1296,8 @@ msgid ""
 "`NASA OPEN SOURCE AGREEMENT VERSION 1.3 "
 "<https://opensource.org/license/nasa1-3-php>`__"
 msgstr ""
+"`NASA OPEN SOURCE AGREEMENT VERSION 1.3 <https://opensource.org/license/"
+"nasa1-3-php>`__"
 
 #: ../../build/licenses.csv:1
 msgid "worldwindjava_quickstart"
@@ -1357,11 +1350,11 @@ msgstr ""
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
-msgstr ""
+msgstr "vmdk"
 
 #: ../../build/doc/<rst_epilog>:16
 msgid "nologo"
-msgstr ""
+msgstr "nologo"
 
 #: ../../build/doc/<rst_epilog>
 msgid "OSGeo Project"

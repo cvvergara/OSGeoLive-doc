@@ -8,7 +8,7 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-21 20:28+0000\n"
 "PO-Revision-Date: 2023-07-03 08:33+0000\n"
@@ -113,7 +113,7 @@ msgstr ""
 msgid ""
 "Now let's try tweaking this SQL statement to get NOME and (Lat,Long) for "
 "only the NOME_PROV fields include \"BRESCIA\", this time using the "
-"MunicipalHallsView.  In the upper right SQL pane type::"
+"MunicipalHallsView. In the upper right SQL pane type::"
 msgstr ""
 
 #: ../../build/doc/quickstart/spatialite_quickstart.rst:93

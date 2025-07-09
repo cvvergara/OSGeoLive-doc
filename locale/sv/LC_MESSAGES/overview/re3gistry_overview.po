@@ -6,24 +6,25 @@
 # Translators:
 # Anne Ylinen, 2020
 # 
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:42-0600\n"
-"PO-Revision-Date: 2020-10-21 15:59+0000\n"
-"Last-Translator: Anne Ylinen, 2020\n"
-"Language-Team: Swedish (https://app.transifex.com/osgeo/teams/66156/sv/)\n"
+"PO-Revision-Date: 2025-06-02 14:41+0000\n"
+"Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
+"Language-Team: Swedish <https://weblate.osgeo.org/projects/osgeolive/"
+"re3gistry_overview/sv/>\n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sv\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.4.3\n"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:18
 msgid "Re3gistry"
-msgstr ""
+msgstr "Re3gistry"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:21
 msgid "About"
@@ -35,7 +36,7 @@ msgid ""
 "\"reference codes\". Initially developed as a central component of the EU's "
 ":doc:`INSPIRE <inspire_overview>` infrastructure, it provides a consistent "
 "central access point where labels and descriptions for reference codes can "
-"be easily browsed by humans and retrieved by machines.  Reference codes are "
+"be easily browsed by humans and retrieved by machines. Reference codes are "
 "exchanged between applications to uniquely reference some ‘thing’. They can "
 "be used to define sets of permissible values for a data field or to provide "
 "a reference or context for the data being exchanged. Examples are "
@@ -47,7 +48,7 @@ msgstr ""
 
 #: ../../build/doc/overview/re3gistry_overview.rstNone
 msgid "re3gistry screenshot"
-msgstr ""
+msgstr "re3gistry skärmdump"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:43
 msgid "Core Features"
@@ -119,11 +120,11 @@ msgstr "Detaljer"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:62
 msgid "**Website:** https://github.com/ec-jrc/re3gistry"
-msgstr ""
+msgstr "**Webbplats:** https://github.com/ec-jrc/re3gistry"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:64
 msgid "**Licence:** EUPL"
-msgstr ""
+msgstr "**Licensiering:** EUPL"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:66
 msgid "**Software Version:** |version-re3gistry|"
@@ -131,11 +132,11 @@ msgstr ""
 
 #: ../../build/doc/overview/re3gistry_overview.rst:68
 msgid "**Supported Platforms:** Windows, Linux"
-msgstr ""
+msgstr "**Plattformar som stöds:** Windows, Linux"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:70
 msgid "**API Interfaces:** Java"
-msgstr ""
+msgstr "**API-gränssnitt:** Java"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:72
 msgid "**Support:** https://github.com/ec-jrc/re3gistry"
@@ -165,20 +166,20 @@ msgstr "Snabbstart"
 
 #: ../../build/doc/overview/re3gistry_overview.rst:85
 msgid ":doc:`Quickstart documentation <../quickstart/re3gistry_quickstart>`"
-msgstr ""
+msgstr ":doc:`Snabbstartsdokumentation <../quickstart/re3gistry_quickstart>`"
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
-msgstr ""
+msgstr "vmdk"
 
 #: ../../build/doc/<rst_epilog>:16
 msgid "nologo"
-msgstr ""
+msgstr "nologo"
 
 #: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Project"
-msgstr ""
+msgstr "OSGeo-projektet"
 
 #: ../../build/doc/<rst_epilog>:0 ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
-msgstr ""
+msgstr "OSGeo Gemenskap"

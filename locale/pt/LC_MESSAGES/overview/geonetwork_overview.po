@@ -7,20 +7,22 @@
 # Eduardo G. S. Pereira <edu_vcd@hotmail.com>, 2019
 # Joana Simoes <jo@doublebyte.net>, 2022
 # 
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 16.0\n"
+"Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:42-0600\n"
-"PO-Revision-Date: 2017-09-20 16:07+0000\n"
-"Last-Translator: Joana Simoes <jo@doublebyte.net>, 2022\n"
-"Language-Team: Portuguese (Brazil) (https://app.transifex.com/osgeo/teams/66156/pt_BR/)\n"
+"PO-Revision-Date: 2024-12-08 03:35+0000\n"
+"Last-Translator: Luiza Santos <luiza.marques_@hotmail.com>\n"
+"Language-Team: Portuguese <https://weblate.osgeo.org/projects/osgeolive/"
+"geonetwork_overview/pt/>\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : ((n != 0 && n % "
+"1000000 == 0) ? 1 : 2);\n"
+"X-Generator: Weblate 5.4.3\n"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:18
 msgid "GeoNetwork"
@@ -37,22 +39,22 @@ msgid ""
 "functions, an embedded interactive web map viewer, and is based upon Open "
 "Standards."
 msgstr ""
-"GeoNetwork OpenSource á uma aplicação de catálogo para gerenciar recursos "
-"espacialmente referenciados. Fornece eficientes funções para busca e edição "
-"de metadados, e integrado uma visualizados de mapas interativos, e é baseado"
-" em padrões abertos."
+"GeoNetwork OpenSource é uma aplicação de catálogo para gerenciar recursos "
+"espacialmente referenciados. Fornece funções eficientes para busca e edição "
+"de metadados, e integrado uma visualizados de mapas interativos, e é baseado "
+"em padrões abertos."
 
 #: ../../build/doc/overview/geonetwork_overview.rstNone
 msgid "geonetwork screenshot"
-msgstr ""
+msgstr "captura de ecrã do geonetwork"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:32
 msgid "Core Features"
-msgstr "Funções Principais"
+msgstr "Principais Funções"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:33
 msgid "Immediate search access to local and distributed geospatial catalogues"
-msgstr "Busca imediata para catálogos geoespaciais locais e distribuídos."
+msgstr "Busca imediata para catálogos geoespaciais locais e distribuídos"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:34
 msgid ""
@@ -60,7 +62,7 @@ msgid ""
 "content type"
 msgstr ""
 "Upload e download de dados, gráficos, documentos, arquivos pdfs e qualquer "
-"outro tipo de arquivo."
+"outro tipo de arquivo"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:35
 msgid ""
@@ -125,11 +127,11 @@ msgstr "Iniciativas de arquivos abertos (OAI-PMH)"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:49
 msgid "OpenSearch-Geo / INSPIRE Atom"
-msgstr ""
+msgstr "OpenSearch-Geo / INSPIRE Atom"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:50
 msgid "Client for OGC-WMS/WMTS/WFS"
-msgstr ""
+msgstr "Cliente para OGC-WMS/WMTS/WFS"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:51
 msgid "Metadata standards:"
@@ -149,11 +151,11 @@ msgstr "Detalhes"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:59
 msgid "**Website:** https://geonetwork-opensource.org"
-msgstr ""
+msgstr "**Website:** https://geonetwork-opensource.org"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:61
 msgid "**Licence:** GNU General Public License (GPL) version 2"
-msgstr "**Licence:** GNU General Public License (GPL) version 2"
+msgstr "**Licença:** GNU General Public License (GPL) version 2"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:63
 msgid "**Software Version:** |version-geonetwork|"
@@ -169,11 +171,11 @@ msgstr "* * Interfaces da API: * * Java"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:69
 msgid "**Support:** https://www.osgeo.org/service-providers"
-msgstr ""
+msgstr "**Suporte:** https://www.osgeo.org/service-providers"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:75
 msgid "Quickstart"
-msgstr "Quickstart"
+msgstr "Início Rápido"
 
 #: ../../build/doc/overview/geonetwork_overview.rst:77
 msgid ":doc:`Quickstart documentation <../quickstart/geonetwork_quickstart>`"
@@ -182,16 +184,16 @@ msgstr ""
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
-msgstr ""
+msgstr "vmdk"
 
 #: ../../build/doc/<rst_epilog>:16
 msgid "nologo"
-msgstr ""
+msgstr "nologo"
 
 #: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Project"
-msgstr ""
+msgstr "Projeto OSGeo"
 
 #: ../../build/doc/<rst_epilog>:0 ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
-msgstr ""
+msgstr "Comunidade OSGeo"

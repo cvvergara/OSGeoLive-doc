@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-17 21:23+0000\n"
-"PO-Revision-Date: 2023-07-03 08:33+0000\n"
-"Last-Translator: Ester Scheck <ester.scheck@tuwien.ac.at>\n"
+"PO-Revision-Date: 2024-10-14 15:25+0000\n"
+"Last-Translator: Celia Virginia Vergara Castillo <vicky@erosion.dev>\n"
 "Language-Team: German <https://weblate.osgeo.org/projects/osgeolive/"
 "52nsos_overview/de/>\n"
 "Language: de\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16.4\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../build/doc/overview/52nSOS_overview.rst:18
@@ -38,9 +38,9 @@ msgid ""
 "archived sensor observation data. A sensor could be a water level meter "
 "in a stream, a weather station, or an air quality monitoring station."
 msgstr ""
-"Der 52°North |SOS| erlaubt den Zugriff auf Echtzeit-Sensordaten sowie auf"
-" Sensordatenarchive. Ein Sensor kann dabei z.B. eine Wetterstation,  ein "
-"Pegel an einem Fluss oder eine Station zur Messung der Luftqualität sein."
+"Der 52°North |SOS| erlaubt den Zugriff auf Echtzeit-Sensordaten sowie auf "
+"Sensordatenarchive. Ein Sensor kann dabei z.B. eine Wetterstation, ein Pegel "
+"an einem Fluss oder eine Station zur Messung der Luftqualität sein."
 
 #: ../../build/doc/overview/52nSOS_overview.rst:-1
 msgid "52nSOS screenshot"
@@ -64,7 +64,7 @@ msgstr ""
 
 #: ../../build/doc/overview/52nSOS_overview.rst:41
 msgid ""
-"**Helgoland**: The SOS contains the Helgoland application for  the "
+"**Helgoland**: The SOS contains the Helgoland application for the "
 "exploration, analysis and visualization of Sensor Web data in various "
 "fields of use, e.g. hydrology, meteorology, environmental monitoring, "
 "traffic management."
@@ -172,9 +172,9 @@ msgid ""
 " can be found in the 52°North Wiki."
 msgstr ""
 "**Weitere Informationen**: Die aktuelle Übersicht über die `Details der "
-"implementierten Funktionalitäten "
-"<https://wiki.52north.org/SensorWeb/SensorObservationServiceIVDocumentation#Features>`_"
-"  ist im 52°North Wiki zu finden."
+"implementierten Funktionalitäten <https://wiki.52north.org/SensorWeb/"
+"SensorObservationServiceIVDocumentation#Features>`_ ist im 52°North Wiki zu "
+"finden."
 
 #: ../../build/doc/overview/52nSOS_overview.rst:75
 msgid ""
@@ -194,10 +194,10 @@ msgid ""
 "demonstration data used in this SOS installation. The demo data are "
 "published under a |CC BY 3.0| License."
 msgstr ""
-"Wir möchten der belgischen belgischen Interregional Environment Agency "
-"(`IRCEL - CELINE <https://www.irceline.be/de/>`_)  für die Bereitstellung"
-" der Demodaten dieser SOS-Installation danken. Die Demo-Daten sind unter "
-"einer |CC BY 3.0| veröffentlicht."
+"Wir möchten der belgischen Interregional Environment Agency (`IRCEL - CELINE "
+"<https://www.irceline.be/de/>`_) für die Bereitstellung der Demodaten dieser "
+"SOS-Installation danken. Die Demo-Daten sind unter einer |CC BY 3.0| "
+"veröffentlicht."
 
 #: ../../build/doc/overview/52nSOS_overview.rst:86
 msgid "SOS Operations"
@@ -295,7 +295,7 @@ msgid ""
 "observation."
 msgstr ""
 "DeleteObservation (aus der Spezifikationsversion 2.0) zum Löschen von "
-"Messdaten via Messdaten-Identifier"
+"Messdaten via Messdaten-Identifier."
 
 #: ../../build/doc/overview/52nSOS_overview.rst:110
 msgid ""
@@ -314,15 +314,15 @@ msgstr ""
 
 #: ../../build/doc/overview/52nSOS_overview.rst:112
 msgid "InsertFeatureOfInterest for feature insertion"
-msgstr "InsertFeatureOfInterest um Features einzufügen."
+msgstr "InsertFeatureOfInterest um Features einzufügen"
 
 #: ../../build/doc/overview/52nSOS_overview.rst:113
 msgid ""
 "DeleteResultTemplate for the deletion of resultTemplates by identifier or"
 " offering/observedProperty pairs"
 msgstr ""
-"DeleteResultTemplate um resultTemplates anhand des Identifiers oder eines"
-" offering observedProperty Paares zu löschen."
+"DeleteResultTemplate um resultTemplates anhand des Identifiers oder eines "
+"offering observedProperty Paares zu löschen"
 
 #: ../../build/doc/overview/52nSOS_overview.rst:116
 msgid ""
@@ -421,7 +421,7 @@ msgstr "**Andere 52°North-Projekte auf OSGeoLive:** :doc:`WPS <./52nWPS_overvie
 
 #: ../../build/doc/overview/52nSOS_overview.rst:159
 msgid ""
-"This  project is only included on the OSGeoLive virtual machine disk "
+"This project is only included on the OSGeoLive virtual machine disk "
 "(VMDK)"
 msgstr "Das Projekt ist nur Teil der OSGeoLive Virtuelle Maschine Disk (VMDK)"
 

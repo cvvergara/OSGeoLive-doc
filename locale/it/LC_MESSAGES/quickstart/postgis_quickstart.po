@@ -11,21 +11,22 @@
 # Federico Gianoli <fritz4@gmail.com>, 2022
 # Stefano Campus <skampus@gmail.com>, 2022
 # Luca Delucchi <lucadeluge@gmail.com>, 2022
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 15.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-05 12:30-0600\n"
-"PO-Revision-Date: 2017-09-20 16:04+0000\n"
-"Last-Translator: Luca Delucchi <lucadeluge@gmail.com>, 2022\n"
+"PO-Revision-Date: 2024-05-02 06:45+0000\n"
+"Last-Translator: luca <lucadeluge@gmail.com>\n"
+"Language-Team: Italian <https://weblate.osgeo.org/projects/osgeolive/"
+"postgis_quickstart/it/>\n"
 "Language: it\n"
-"Language-Team: Italian (https://www.transifex.com/osgeo/teams/66156/it/)\n"
-"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 "
-"? 1 : 2;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n != 0 && n % 1000000 == 0)"
+" ? 1 : 2);\n"
+"X-Generator: Weblate 5.4.3\n"
 "Generated-By: Babel 2.11.0\n"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:39
@@ -606,7 +607,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:420
 msgid ""
-"Deploys the Postgis item, then the NaturalEarth item. It will then  "
+"Deploys the Postgis item, then the NaturalEarth item. It will then "
 "connect to the Natural Earth database. Leave the password blank if it "
 "asks. In the public item, there is the list of the layers provided by the"
 " database. You'll see the main manager window. On the left you can select"
@@ -722,14 +723,14 @@ msgstr ""
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:-1
 msgid "phpPgAdmin main"
-msgstr ""
+msgstr "phpPgAdmin main"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:483
 msgid ""
 "Here, you have the option of creating a new connection to a PostgreSQL "
-"server, or connecting to an existing server. The red \"X\" on the  "
+"server, or connecting to an existing server. The red \"X\" on the "
 "``PostgreSQL`` server denotes that you haven't been yet connected. Click "
-"on it  then enter the user name  ``user`` and the master password  "
+"on it then enter the user name ``user`` and the master password "
 "``user``."
 msgstr ""
 "Qui si ha la possibilità di creare una nuova connessione a un server "
@@ -767,7 +768,7 @@ msgid ""
 " see all the tables contained within this schema."
 msgstr ""
 "Ora si può vedere che c'è un solo schema in questo database, chiamato "
-"``public``. Facendo clic sul più a sinistra di ``Tabelle'' per "
+"``public``. Facendo clic sul più a sinistra di ``Tabelle`` per "
 "espanderlo, si possono vedere tutte le tabelle contenute in questo "
 "schema."
 
@@ -840,7 +841,7 @@ msgid "pgAdmin"
 msgstr "pgAdmin"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:547
-msgid "Enter the master password  ``user``."
+msgid "Enter the master password ``user``."
 msgstr "Inserire la password principale ``user``."
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:549
@@ -1042,7 +1043,7 @@ msgstr "Crea un FDW per un WFS"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:705
 msgid "Start Geoserver via |menu_geoserver-Start|."
-msgstr ""
+msgstr "Avviare Geoserver tramite |menu_geoserver-Start|."
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:707
 msgid "Open GeoServer http://localhost:8082/geoserver/web/"
@@ -1157,12 +1158,12 @@ msgstr ""
 "molte altre funzionalità che puoi provare."
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:764
-msgid "PostGIS Project home -  http://postgis.net"
+msgid "PostGIS Project home - http://postgis.net"
 msgstr "Sito web del Progetto PostGIS - http://postgis.net"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:766
-msgid "PostGIS Documentation -  http://postgis.net/documentation/"
-msgstr "PostGIS Documentazione -  http://postgis.net/documentation/"
+msgid "PostGIS Documentation - http://postgis.net/documentation/"
+msgstr "PostGIS Documentazione - http://postgis.net/documentation/"
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
@@ -1179,4 +1180,3 @@ msgstr "Progetto OSGeo"
 #: ../../build/doc/<rst_epilog>
 msgid "OSGeo Community"
 msgstr "Comunità OSGeo"
-
