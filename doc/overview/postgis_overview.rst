@@ -60,10 +60,8 @@ from desktop and web GIS clients. These clients can also map and manipulate Post
 .. Writing Tip:
   Provide a image of the application which will typically be a screen shot
   or a collage of screen shots.
-  Store image in image/<application>_<name>.png . Eg: udig_main_page.png
-  Screenshots should be captured from a 1024x768 display.
-  Don't include the desktop background as this changes with each release
-  and will become dated.
+  doc/images/projects/<name>/<name>_screenshot.png
+
 
 @SCREENSHOT_postgis@
 
@@ -71,7 +69,7 @@ Core Features
 --------------------------------------------------------------------------------
 
 * Hundreds of spatial functions
-  
+
   * Buffers, unions, overlays, distance and more
 
 * ACID transactional integrity
@@ -116,5 +114,5 @@ Details
 .. presentation-note
     PostGIS spatially enables the popular PostgreSQL object-relational database, allowing it to be used as a back-end database for geographic information systems and web-mapping applications in the same manner as Oracle Spatial enables the Oracle database.
     PostGIS is stable, fast, standards compliant, comes with hundreds of spatial functions and is currently the most widely used Open Source spatial database.
-    PostGIS is used by diverse organisations from around the world, including risk-averse government agencies and organisations storing terabytes of data and serving millions of web requests per day. 
+    PostGIS is used by diverse organisations from around the world, including risk-averse government agencies and organisations storing terabytes of data and serving millions of web requests per day.
     Database administration is available via pgAdmin and other tools. Importing and exporting data is provided by various converter tools and there are numerous desktop and browser GIS clients for viewing PostGIS data.

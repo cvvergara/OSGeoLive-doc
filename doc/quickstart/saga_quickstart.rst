@@ -248,7 +248,7 @@ moving your mouse over the grid).
 
 These pixels actually have no data, so we should adjust the nodata settings: in
 the object properties window (after selecting the dataset in the workspace
-window), set the maximum no data value to -32768 and apply.  After doing that,
+window), set the maximum no data value to -32768 and apply. After doing that,
 we can reset our color scale to fit the range of the data. An easy method is
 right clicking on the grid in the workspace and choosing 'Classification|Set
 Range to minimum maximum'.
@@ -259,5 +259,6 @@ explore some of the other modules of SAGA!
 What next?
 ==========
 More documentation can be found on the SAGA website:
+
 * @WEB_saga@
 * https://sourceforge.net/p/saga-gis/wiki/Documentation/

@@ -14,7 +14,6 @@
 
 
 .. |GS| replace:: GeoServer
-.. |UG| replace:: uDig
 
 
 ********************************************************************************
@@ -74,7 +73,7 @@ Start Geoserver
   * by dragging a box on the map while holding down the :kbd:`shift key` - this
     will zoom in to the box selected (or as near as will fit in the screen).
 
-Experiment with this view and look at some of the other previews.  Once you are
+Experiment with this view and look at some of the other previews. Once you are
 comfortable viewing existing data you can move on to adding some new data.
 
 Loading data
@@ -152,70 +151,14 @@ apply various symbolizers to the data.
 
 To get started, lets style the Land and Ocean datasets.
 You can create SLD files using a simple text editor, but sometimes a graphical
-editor is better. There are several options here but |UG| allows you to open the
-shapefiles directly and apply simple styles using a GUI. It also provides a
-simple editor to modify the XML if I need to.
+editor is better.
 
-Using |UG| to create simple styles
+Create simple styles
 ----------------------------------
 
-.. note::
+Please follow this instructions.
 
-   For more details on how to use |UG| see the :doc:`uDig Quickstart <../quickstart/udig_quickstart>`
-
-#. Open |UG| and add the shapefiles (using the add data button in the top left
-   hand corner).
-#. Drag the ne_10m_land and ne_10m_ocean tables into the map window. |UG|
-   automatically applies a style (so you can see the data).
-
-   .. image:: /images/projects/geoserver/geoserver-udig_startup.png
-     :align: center
-     :scale: 70 %
-     :alt: Default Styling in uDig
-
-#. In the :ref:`Layer list <Layer_list>` select the style button (it looks like
-   an artist's palette).
-
-   .. _Layer_list:
-   .. image:: /images/projects/geoserver/geoserver-layer-chooser.png
-     :align: center
-     :scale: 70 %
-     :alt: The Layer list window
-
-   This will open the :ref:`Style Pane <Style_Pane>`.
-#. In the simple window we can easily select a nice blue for the oceans by
-   clicking on the colored box on the fill tab and choosing from the color
-   picker it produces. We can also increase the opacity of the fill to 100% to
-   make the color look better. Pick the same blue for the border color so it
-   will match.
-
-   .. _Style_Pane:
-   .. image:: /images/projects/geoserver/geoserver-style-pane.png
-     :align: center
-     :scale: 70 %
-     :alt: The Style Pane
-
-#. Click ``OK`` and |UG| will display the changes.
-
-   .. image:: /images/projects/geoserver/geoserver-blue-ocean.png
-     :align: center
-     :scale: 70 %
-     :alt: Blue Oceans
-
-#. Repeat the steps above to change the color of the land layer. You can use the
-   ``define custom colors`` section to create your preferred color.
-
-   .. image:: /images/projects/geoserver/geoserver-custom-colour.png
-     :align: center
-     :scale: 70 %
-     :alt: Defining a nicer land color
-
-This gives a nice looking basic world map.
-
-.. image:: /images/projects/geoserver/geoserver-basic-world.png
-   :align: center
-   :scale: 70 %
-   :alt: A basic word map
+https://docs.geoserver.org/latest/en/user/styling/qgis/index.html
 
 Adding the style to GeoServer
 -----------------------------
@@ -285,7 +228,6 @@ Clients for WMS layers
 The |WMS| layers you are serving from |GS| can be used with a variety of clients
 on this OSGeoLive distribution, including:
 
-* :doc:`uDig <../overview/udig_overview>`
 * :doc:`OpenLayers <../overview/openlayers_overview>`
 * :doc:`MapBender <../overview/mapbender_overview>`
 

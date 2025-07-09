@@ -19,7 +19,7 @@ utilities to translate and process a wide range of raster and vector
 geospatial data formats.
 
 The utilities are based upon a cross platform, C++ library, accessible
-via numerous programming languages.  As a library, it presents a single
+via numerous programming languages. As a library, it presents a single
 abstract data model to the calling application for all supported formats.
 
 GDAL/OGR is the most widely used geospatial data access library. It provides
@@ -35,8 +35,8 @@ Core Features
 * Command-line utilities for data translation, image warping, subsetting, and various other common tasks
 * Highly efficient raster data access, taking advantage of tiling and overviews
 * Support for large files - larger than 4GB
-* Library access from Python, Java, C#, Ruby, VB6 and Perl
-* Coordinate system engine built on PROJ.4 and OGC Well Known Text coordinate system descriptions
+* Library access from Python, Java, and C#
+* Coordinate system engine built on PROJ and OGC Well Known Text coordinate system descriptions
 
 Popular Supported Formats
 --------------------------------------------------------------------------------
@@ -45,8 +45,8 @@ GDAL supports over 140 raster formats, and OGR over 80 vector formats.
 
 These include:
 
-* **Raster:** GeoTIFF, Erdas Imagine, SDTS, ESRI Grids, ECW, MrSID, JPEG2000, DTED, NITF, GeoPackage and more ...
-* **Vector:** GeoPackage, ESRI Shapefile, GML, GeoJSON, AutoCAD DWG, MapInfo (tab and mid/mif), ESRI Coverages, ESRI Personal Geodatabase, DGN, PostGIS, Oracle Spatial, and more ...
+* **Raster:** GeoTIFF / COG, HDF, NetCDF, GeoPackage, JPEG2000, ECW, ENVI, KEA, MrSID, DTED, NITF and more ...
+* **Vector:** GeoPackage, ESRI Shapefile, GeoJSON, PostGIS, (Geo)Parquet, ESRI File Geodatabase, FlatGeobuf, GML, AutoCAD DWG, MapInfo, DGN, Oracle Spatial, and more ...
 
 Implemented Standards
 --------------------------------------------------------------------------------
@@ -58,13 +58,13 @@ Details
 
 **Website:** @WEB_gdal@
 
-**Licence:** `X/MIT style Open Source license <https://trac.osgeo.org/gdal/wiki/FAQGeneral#WhatlicensedoesGDALOGRuse>`_
+**License:** `X/MIT style Open Source license <https://gdal.org/en/latest/license.html>`_
 
 **Software Version:** |version-gdal|
 
 **Supported Platforms:** Windows, Linux, Mac
 
-**API Interfaces:** C, C++, Python, Java, C#, Ruby, VB6 and Perl
+**API Interfaces:** C, C++, Python, Java, C#
 
 **Support:** https://lists.osgeo.org/mailman/listinfo/gdal-dev, https://www.osgeo.org/service-providers/
 
