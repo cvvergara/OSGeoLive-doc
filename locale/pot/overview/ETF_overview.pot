@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 17.0.0\n"
+"Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 21:19+0000\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,7 +36,7 @@ msgstr ""
 msgid "ETF is the underlying framework used by the INSPIRE Reference Validator to validate metadata, datasets and services against the INSPIRE requirements. ETF is also used extensively in Germany by the Surveying Authorities of the Laender to validate their datasets. Other European Union (EU) Member States are also reusing the ETF to allow their data providers to test resources against national requirements. Finally, some software tools include validation based on the ETF API in their workflow."
 msgstr ""
 
-#: ../../build/doc/overview/ETF_overview.rst:None
+#: ../../build/doc/overview/ETF_overview.rst:47
 msgid "ETF screenshot"
 msgstr ""
 
@@ -44,7 +44,7 @@ msgstr ""
 msgid "Core Features"
 msgstr ""
 
-#: ../../build/doc/overview/ETF_overview.rst:61
+#: ../../build/doc/overview/ETF_overview.rst:56
 msgid "Testable resources"
 msgstr ""
 
@@ -68,7 +68,7 @@ msgstr ""
 msgid "catalogue services: CSW"
 msgstr ""
 
-#: ../../build/doc/overview/ETF_overview.rst:67
+#: ../../build/doc/overview/ETF_overview.rst:63
 msgid "Access"
 msgstr ""
 
@@ -88,7 +88,7 @@ msgstr ""
 msgid "Java client library"
 msgstr ""
 
-#: ../../build/doc/overview/ETF_overview.rst:73
+#: ../../build/doc/overview/ETF_overview.rst:69
 msgid "Supported test engines"
 msgstr ""
 
@@ -108,7 +108,7 @@ msgstr ""
 msgid "NeoTL for testing OGC WFS and OGC APIs (in development)"
 msgstr ""
 
-#: ../../build/doc/overview/ETF_overview.rst:77
+#: ../../build/doc/overview/ETF_overview.rst:75
 msgid "Test reports"
 msgstr ""
 
@@ -120,7 +120,7 @@ msgstr ""
 msgid "downloadable in HTML, XML and JSON"
 msgstr ""
 
-#: ../../build/doc/overview/ETF_overview.rst:90
+#: ../../build/doc/overview/ETF_overview.rst:79
 msgid "Implemented Standards"
 msgstr ""
 
@@ -210,21 +210,4 @@ msgstr ""
 
 #: ../../build/doc/overview/ETF_overview.rst:119
 msgid ":doc:`Quickstart documentation <../quickstart/ETF_quickstart>`"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

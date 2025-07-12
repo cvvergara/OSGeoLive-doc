@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-01 23:33+0000\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.16.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../build/doc/quickstart/saga_quickstart.rst:20
 msgid "SAGA Quickstart"
@@ -394,9 +394,9 @@ msgid ""
 "These pixels actually have no data, so we should adjust the nodata "
 "settings: in the object properties window (after selecting the dataset in"
 " the workspace window), set the maximum no data value to -32768 and "
-"apply. After doing that, we can reset our color scale to fit the range "
-"of the data. An easy method is right clicking on the grid in the "
-"workspace and choosing 'Classification|Set Range to minimum maximum'."
+"apply. After doing that, we can reset our color scale to fit the range of"
+" the data. An easy method is right clicking on the grid in the workspace "
+"and choosing 'Classification|Set Range to minimum maximum'."
 msgstr ""
 
 #: ../../build/doc/quickstart/saga_quickstart.rst:259
@@ -419,21 +419,5 @@ msgstr ""
 
 #: ../../build/doc/quickstart/saga_quickstart.rst:267
 msgid "https://sourceforge.net/p/saga-gis/wiki/Documentation/"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 

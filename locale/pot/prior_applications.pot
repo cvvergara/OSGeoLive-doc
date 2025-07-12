@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-18 17:21+0000\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,15 +21,7 @@ msgid "Previously available applications"
 msgstr ""
 
 #: ../../build/doc/prior_applications.rst:1
-msgid "Name"
-msgstr ""
-
-#: ../../build/doc/prior_applications.rst:1
-msgid "Last Available"
-msgstr ""
-
-#: ../../build/doc/prior_applications.rst:1
-msgid "Description"
+msgid "kind, Name, Q, Last Available, Description"
 msgstr ""
 
 #: ../../build/doc/prior_applications.rst:1
@@ -128,7 +120,7 @@ msgstr ""
 msgid "|osgeo_community|"
 msgstr ""
 
-#: ../../build/doc/<rst_epilog>:0
+#: ../../build/doc/<rst_epilog>:27
 msgid "OSGeo Community"
 msgstr ""
 
@@ -406,12 +398,4 @@ msgstr ""
 
 #: ../../build/doc/prior_applications.rst:1
 msgid "Web Service"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:11
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
 msgstr ""

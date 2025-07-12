@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-29 17:48+0000\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,7 +72,7 @@ msgstr ""
 msgid "The demo workspace contains a web mapping setup based on data from the state of Utah. It contains a WMS configuration (1.3.0 and 1.1.1) consisting of vector layers and a variety of render styles. Additionally, a WFS (2.0.0, 1.1.0 and 1.0.0) is configured that allows to access the raw vector data, backed by shapefiles, in GML format."
 msgstr ""
 
-#: ../../build/doc/quickstart/deegree_quickstart.rst:0
+#: ../../build/doc/quickstart/deegree_quickstart.rst:72
 msgid "deegree workspaces management"
 msgstr ""
 
@@ -88,7 +88,7 @@ msgstr ""
 msgid "Click on *'web services'* to display all the preconfigured web services (WFS and WMS)."
 msgstr ""
 
-#: ../../build/doc/quickstart/deegree_quickstart.rst:0
+#: ../../build/doc/quickstart/deegree_quickstart.rst:87
 msgid "deegree web services"
 msgstr ""
 
@@ -96,7 +96,7 @@ msgstr ""
 msgid "Click on the *'Capabilities'* button of the preconfigured WMS. The GetCapabilities document of the WMS will open in a new tab."
 msgstr ""
 
-#: ../../build/doc/quickstart/deegree_quickstart.rst:0
+#: ../../build/doc/quickstart/deegree_quickstart.rst:94
 msgid "deegree WMS capabilities"
 msgstr ""
 
@@ -104,7 +104,7 @@ msgstr ""
 msgid "Use the GetCapabilities request URL to add the WMS to for example :doc:`QGIS <../overview/qgis_overview>`. Once added, you can choose of a variety of layers served by the deegree WMS here."
 msgstr ""
 
-#: ../../build/doc/quickstart/deegree_quickstart.rst:0
+#: ../../build/doc/quickstart/deegree_quickstart.rst:102
 msgid "deegree WMS in QGIS"
 msgstr ""
 
@@ -142,21 +142,4 @@ msgstr ""
 
 #: ../../build/doc/quickstart/deegree_quickstart.rst:122
 msgid "deegree OGC API - https://hub.docker.com/r/deegree/deegree-ogcapi"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:11
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:14
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

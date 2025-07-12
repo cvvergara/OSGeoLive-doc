@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 17.0.0\n"
+"Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-01 23:33+0000\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -250,21 +250,4 @@ msgstr ""
 
 #: ../../build/doc/quickstart/saga_quickstart.rst:267
 msgid "https://sourceforge.net/p/saga-gis/wiki/Documentation/"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

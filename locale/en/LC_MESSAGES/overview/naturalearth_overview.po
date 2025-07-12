@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 15:05-0600\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.14.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../build/doc/overview/naturalearth_overview.rst:15
 msgid "Natural Earth"
@@ -43,6 +43,7 @@ msgid ""
 "the appropriate level of detail for the maps they are making."
 msgstr ""
 
+#: ../../build/doc/overview/naturalearth_overview.rst:24
 msgid "naturalearth screenshot"
 msgstr ""
 
@@ -63,8 +64,8 @@ msgstr ""
 #: ../../build/doc/overview/naturalearth_overview.rst:35
 msgid ""
 "Projection friendly vectors precisely match at 180 degrees longitude. "
-"Lines contain enough data points for smooth bending in conic "
-"projections, but not so many that computer processing speed suffers."
+"Lines contain enough data points for smooth bending in conic projections,"
+" but not so many that computer processing speed suffers."
 msgstr ""
 
 #: ../../build/doc/overview/naturalearth_overview.rst:36
@@ -85,7 +86,7 @@ msgstr ""
 msgid "Data Sets"
 msgstr ""
 
-#: ../../build/doc/overview/naturalearth_overview.rst:44
+#: ../../build/doc/overview/naturalearth_overview.rst:43
 msgid "Cultural Vector Data Themes:"
 msgstr ""
 
@@ -97,7 +98,7 @@ msgid ""
 "and water boundary indicators round out the cultural offerings."
 msgstr ""
 
-#: ../../build/doc/overview/naturalearth_overview.rst:47
+#: ../../build/doc/overview/naturalearth_overview.rst:46
 msgid "Physical Vector Data Themes:"
 msgstr ""
 
@@ -108,7 +109,7 @@ msgid ""
 "shelves, bathymetry, geographic lines, and graticles."
 msgstr ""
 
-#: ../../build/doc/overview/naturalearth_overview.rst:51
+#: ../../build/doc/overview/naturalearth_overview.rst:49
 msgid "Raster Data Themes:"
 msgstr ""
 
@@ -146,21 +147,5 @@ msgstr ""
 
 #: ../../build/doc/overview/naturalearth_overview.rst:66
 msgid "**Support:** https://www.naturalearthdata.com/about"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 

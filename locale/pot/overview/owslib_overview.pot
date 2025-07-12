@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-23 16:57+0000\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,7 +32,7 @@ msgstr ""
 msgid "OWSLib is Open Source, released under an BSD 3-Clause License, and runs on any platform that supports Python (Windows, Linux, Mac OS X)."
 msgstr ""
 
-#: ../../build/doc/overview/owslib_overview.rst:None
+#: ../../build/doc/overview/owslib_overview.rst:27
 msgid "owslib screenshot"
 msgstr ""
 
@@ -77,13 +77,10 @@ msgid "OGC Standards"
 msgstr ""
 
 #: ../../build/doc/overview/owslib_overview.rst:51
-#: ../../build/doc/overview/owslib_overview.rst:51
-#: ../../build/doc/overview/owslib_overview.rst:81
 #: ../../build/doc/overview/owslib_overview.rst:81
 msgid "**Standard**"
 msgstr ""
 
-#: ../../build/doc/overview/owslib_overview.rst:51
 #: ../../build/doc/overview/owslib_overview.rst:51
 msgid "**Version(s)**"
 msgstr ""
@@ -244,7 +241,6 @@ msgid "OGC API Support"
 msgstr ""
 
 #: ../../build/doc/overview/owslib_overview.rst:81
-#: ../../build/doc/overview/owslib_overview.rst:81
 msgid "**Version**"
 msgstr ""
 
@@ -264,8 +260,6 @@ msgstr ""
 #: ../../build/doc/overview/owslib_overview.rst:83
 #: ../../build/doc/overview/owslib_overview.rst:85
 #: ../../build/doc/overview/owslib_overview.rst:87
-#: ../../build/doc/overview/owslib_overview.rst:87
-#: ../../build/doc/overview/owslib_overview.rst:89
 #: ../../build/doc/overview/owslib_overview.rst:89
 msgid "draft"
 msgstr ""
@@ -328,21 +322,4 @@ msgstr ""
 
 #: ../../build/doc/overview/owslib_overview.rst:154
 msgid ":doc:`Quickstart documentation <../quickstart/owslib_quickstart>`"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:11
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:14
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

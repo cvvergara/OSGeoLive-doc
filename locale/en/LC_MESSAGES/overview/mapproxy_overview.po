@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-26 14:03+0000\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.16.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../build/doc/overview/mapproxy_overview.rst:18
 msgid "MapProxy"
@@ -41,6 +41,7 @@ msgid ""
 "dozens of distributed WMS services."
 msgstr ""
 
+#: ../../build/doc/overview/mapproxy_overview.rst:28
 msgid "mapproxy screenshot"
 msgstr ""
 
@@ -48,10 +49,11 @@ msgstr ""
 msgid "Core Features"
 msgstr ""
 
+#: ../../build/doc/overview/mapproxy_overview.rst:37
 msgid "MapProxy demo"
 msgstr ""
 
-#: ../../build/doc/overview/mapproxy_overview.rst:49
+#: ../../build/doc/overview/mapproxy_overview.rst:44
 msgid "Input sources:"
 msgstr ""
 
@@ -77,7 +79,7 @@ msgstr ""
 msgid "ArcGIS REST servers and compact cache files"
 msgstr ""
 
-#: ../../build/doc/overview/mapproxy_overview.rst:55
+#: ../../build/doc/overview/mapproxy_overview.rst:51
 msgid "Services:"
 msgstr ""
 
@@ -97,7 +99,7 @@ msgstr ""
 msgid "KML SuperOverlays"
 msgstr ""
 
-#: ../../build/doc/overview/mapproxy_overview.rst:60
+#: ../../build/doc/overview/mapproxy_overview.rst:57
 msgid "Tile cache:"
 msgstr ""
 
@@ -115,7 +117,7 @@ msgstr ""
 msgid "add watermark to tiles"
 msgstr ""
 
-#: ../../build/doc/overview/mapproxy_overview.rst:66
+#: ../../build/doc/overview/mapproxy_overview.rst:62
 msgid "Source options:"
 msgstr ""
 
@@ -135,7 +137,7 @@ msgstr ""
 msgid "reproject WMS and tile sources to other SRS"
 msgstr ""
 
-#: ../../build/doc/overview/mapproxy_overview.rst:75
+#: ../../build/doc/overview/mapproxy_overview.rst:68
 msgid "WMS Features:"
 msgstr ""
 
@@ -169,7 +171,7 @@ msgstr ""
 msgid "convert WMS versions and image formats"
 msgstr ""
 
-#: ../../build/doc/overview/mapproxy_overview.rst:81
+#: ../../build/doc/overview/mapproxy_overview.rst:77
 msgid "Security:"
 msgstr ""
 
@@ -189,7 +191,7 @@ msgstr ""
 msgid "integrate with existing user databases and authentication methods"
 msgstr ""
 
-#: ../../build/doc/overview/mapproxy_overview.rst:86
+#: ../../build/doc/overview/mapproxy_overview.rst:83
 msgid "Powerful tools:"
 msgstr ""
 
@@ -207,7 +209,7 @@ msgstr ""
 msgid "calculate scales and show grid configurations"
 msgstr ""
 
-#: ../../build/doc/overview/mapproxy_overview.rst:95
+#: ../../build/doc/overview/mapproxy_overview.rst:88
 msgid "Other features:"
 msgstr ""
 
@@ -295,21 +297,5 @@ msgstr ""
 
 #: ../../build/doc/overview/mapproxy_overview.rst:127
 msgid ":doc:`Quickstart documentation <../quickstart/mapproxy_quickstart>`"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 

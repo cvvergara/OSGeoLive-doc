@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-28 12:38+0000\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -258,21 +258,4 @@ msgstr ""
 
 #: ../../build/doc/quickstart/mapserver_quickstart.rst:334
 msgid "Ready to use MapServer? Then join the community on the `Mailing Lists <https://www.mapserver.org/community/lists.html>`_ to exchange ideas, discuss potential software improvements and ask questions."
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:11
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:14
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

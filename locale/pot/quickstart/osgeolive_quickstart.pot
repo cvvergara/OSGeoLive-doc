@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 17.0.0\n"
+"Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-01 23:33+0000\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -68,7 +68,7 @@ msgstr ""
 msgid "If your computer is set to boot from CD (as is often the case) you should boot up into a Lubuntu system, with Geospatial applications installed. Otherwise you'll have to adjust the BIOS boot settings or press the boot menu button just after powering-up."
 msgstr ""
 
-#: ../../build/doc/quickstart/osgeolive_quickstart.rst:0
+#: ../../build/doc/quickstart/osgeolive_quickstart.rst:38
 msgid "boot"
 msgstr ""
 
@@ -76,7 +76,7 @@ msgstr ""
 msgid "Sit back while the system boots up."
 msgstr ""
 
-#: ../../build/doc/quickstart/osgeolive_quickstart.rst:0
+#: ../../build/doc/quickstart/osgeolive_quickstart.rst:44
 msgid "menu"
 msgstr ""
 
@@ -88,7 +88,7 @@ msgstr ""
 msgid "See Also:"
 msgstr ""
 
-#: ../../build/doc/quickstart/osgeolive_quickstart.rst:54
+#: ../../build/doc/quickstart/osgeolive_quickstart.rst:53
 msgid "Getting started with Lubuntu and the LXQt desktop (which is used by OSGeoLive):"
 msgstr ""
 
@@ -114,21 +114,4 @@ msgstr ""
 
 #: ../../build/doc/quickstart/osgeolive_quickstart.rst:60
 msgid ":doc:`usb_quickstart`"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 15:05-0600\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.14.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../build/doc/quickstart/eoxserver_quickstart.rst:19
 msgid "EOxServer Quickstart"
@@ -29,9 +29,9 @@ msgid ""
 "archives and metadata via Open Standards. It builds upon an Open Source "
 "stack of software which includes Python, :doc:`MapServer "
 "<../overview/mapserver_overview>`, Django/GeoDjango, :doc:`GDAL "
-"<../overview/gdal_overview>`, :doc:`PROJ <../overview/proj_overview>` "
-"and a :doc:`SpatiaLite <../overview/spatialite_overview>` or "
-":doc:`PostGIS <../overview/postgis_overview>` database."
+"<../overview/gdal_overview>`, :doc:`PROJ <../overview/proj_overview>` and"
+" a :doc:`SpatiaLite <../overview/spatialite_overview>` or :doc:`PostGIS "
+"<../overview/postgis_overview>` database."
 msgstr ""
 
 #: ../../build/doc/quickstart/eoxserver_quickstart.rst:30
@@ -60,6 +60,7 @@ msgid ""
 "demonstration instance available at http://localhost/eoxserver/"
 msgstr ""
 
+#: ../../build/doc/quickstart/eoxserver_quickstart.rst:44
 msgid "EOxServer demonstration start"
 msgstr ""
 
@@ -77,6 +78,7 @@ msgid ""
 "instance. The demonstration instance is filled with ENVISAT MERIS scenes."
 msgstr ""
 
+#: ../../build/doc/quickstart/eoxserver_quickstart.rst:56
 msgid "Main view of the EOxServer Web Client"
 msgstr ""
 
@@ -89,6 +91,11 @@ msgid ""
 "dimension."
 msgstr ""
 
+#: ../../build/doc/quickstart/eoxserver_quickstart.rst:65
+#: ../../build/doc/quickstart/eoxserver_quickstart.rst:75
+#: ../../build/doc/quickstart/eoxserver_quickstart.rst:84
+#: ../../build/doc/quickstart/eoxserver_quickstart.rst:91
+#: ../../build/doc/quickstart/eoxserver_quickstart.rst:99
 msgid "EOxServer demonstration embedded client outlines"
 msgstr ""
 
@@ -150,6 +157,7 @@ msgid ""
 "with user `admin` and password `admin`."
 msgstr ""
 
+#: ../../build/doc/quickstart/eoxserver_quickstart.rst:119
 msgid "EOxServer demonstration admin client login"
 msgstr ""
 
@@ -161,6 +169,7 @@ msgid ""
 "<https://docs.eoxserver.org/en/stable/users/operations/index.html>`_."
 msgstr ""
 
+#: ../../build/doc/quickstart/eoxserver_quickstart.rst:128
 msgid "EOxServer demonstration admin client start"
 msgstr ""
 
@@ -171,6 +180,7 @@ msgid ""
 " link."
 msgstr ""
 
+#: ../../build/doc/quickstart/eoxserver_quickstart.rst:135
 msgid "EOxServer demonstration admin client Dataset Series"
 msgstr ""
 
@@ -180,6 +190,7 @@ msgid ""
 "\"Coverages\" link."
 msgstr ""
 
+#: ../../build/doc/quickstart/eoxserver_quickstart.rst:141
 msgid "EOxServer demonstration admin client Dataset Series Management"
 msgstr ""
 
@@ -218,21 +229,5 @@ msgid ""
 "<https://docs.eoxserver.org/en/stable/users/basics.html#where-can-i-get-"
 "support>`_ to exchange ideas, discuss potential software improvements, "
 "and ask questions."
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 

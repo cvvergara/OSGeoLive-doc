@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 17.0.0\n"
+"Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 21:19+0000\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,7 +48,7 @@ msgstr ""
 msgid "being available for Windows and Linux (there are also non-oficial Mac OS X versions)."
 msgstr ""
 
-#: ../../build/doc/overview/gvsig_overview.rst:None
+#: ../../build/doc/overview/gvsig_overview.rst:33
 msgid "gvsig screenshot"
 msgstr ""
 
@@ -254,21 +254,4 @@ msgstr ""
 
 #: ../../build/doc/overview/gvsig_overview.rst:121
 msgid ":doc:`Quickstart documentation <../quickstart/gvsig_quickstart>`"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

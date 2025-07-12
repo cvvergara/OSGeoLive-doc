@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-18 17:21+0000\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,7 +28,7 @@ msgstr ""
 msgid "GeoTools is used by a number of projects including web services, command line tools and desktop applications. OSGeoLive applications which include GeoTools include: :doc:`52nSOS_overview`, AtlasStyler, Geopublisher, :doc:`geoserver_overview`."
 msgstr ""
 
-#: ../../build/doc/overview/geotools_overview.rst:None
+#: ../../build/doc/overview/geotools_overview.rst:24
 msgid "geotools screenshot"
 msgstr ""
 
@@ -100,7 +100,7 @@ msgstr ""
 msgid "Provide additional capabilities built using the spatial facilites of the core library."
 msgstr ""
 
-#: ../../build/doc/overview/geotools_overview.rst:0
+#: ../../build/doc/overview/geotools_overview.rst:61
 msgid "Extensions built using the GeoTools library"
 msgstr ""
 
@@ -222,21 +222,4 @@ msgstr ""
 
 #: ../../build/doc/overview/geotools_overview.rst:122
 msgid "`Quickstart documentation <https://docs.geotools.org/latest/userguide/tutorial/quickstart/index.html>`_"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:11
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:14
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

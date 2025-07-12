@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-29 17:48+0000\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -112,7 +112,7 @@ msgstr ""
 msgid "Click on :guilabel:`Add new Store`. You will see this page:"
 msgstr ""
 
-#: ../../build/doc/quickstart/geoserver_quickstart.rst:0
+#: ../../build/doc/quickstart/geoserver_quickstart.rst:102
 msgid "The New Store page"
 msgstr ""
 
@@ -120,7 +120,7 @@ msgstr ""
 msgid "Select the :guilabel:`Directory of spatial files`. You will see the following:"
 msgstr ""
 
-#: ../../build/doc/quickstart/geoserver_quickstart.rst:0
+#: ../../build/doc/quickstart/geoserver_quickstart.rst:109
 msgid "Filling in the New Store page"
 msgstr ""
 
@@ -132,7 +132,7 @@ msgstr ""
 msgid "Press :guilabel:`save`."
 msgstr ""
 
-#: ../../build/doc/quickstart/geoserver_quickstart.rst:0
+#: ../../build/doc/quickstart/geoserver_quickstart.rst:120
 msgid "The Natural Earth Datastore"
 msgstr ""
 
@@ -140,7 +140,7 @@ msgstr ""
 msgid "Press :guilabel:`publish` next to one of the layers to finish adding the data. This will take you to the *Layers* page:"
 msgstr ""
 
-#: ../../build/doc/quickstart/geoserver_quickstart.rst:None
+#: ../../build/doc/quickstart/geoserver_quickstart.rst:128
 msgid "The layer publishing page"
 msgstr ""
 
@@ -228,7 +228,7 @@ msgstr ""
 msgid "Press the :guilabel:`Submit` at the bottom of the page."
 msgstr ""
 
-#: ../../build/doc/quickstart/geoserver_quickstart.rst:None
+#: ../../build/doc/quickstart/geoserver_quickstart.rst:188
 msgid "Adding a Style to GeoServer"
 msgstr ""
 
@@ -308,7 +308,7 @@ msgstr ""
 msgid "Scroll down to the bottom of the \"Data\" tab and press \"Save\" again."
 msgstr ""
 
-#: ../../build/doc/quickstart/geoserver_quickstart.rst:0
+#: ../../build/doc/quickstart/geoserver_quickstart.rst:259
 msgid "Adding a NetCDF store"
 msgstr ""
 
@@ -328,7 +328,7 @@ msgstr ""
 msgid "Clicking on points will cause the value of \"Ozone_concentration\" to be shown in a table at the bottom of the map."
 msgstr ""
 
-#: ../../build/doc/quickstart/geoserver_quickstart.rst:0
+#: ../../build/doc/quickstart/geoserver_quickstart.rst:273
 msgid "OpenLayers preview of a NetCDF layer"
 msgstr ""
 
@@ -358,21 +358,4 @@ msgstr ""
 
 #: ../../build/doc/quickstart/geoserver_quickstart.rst:292
 msgid "GeoServer Styling Workshop - https://docs.geoserver.org/latest/en/user/styling/workshop/index.html"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:11
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:14
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

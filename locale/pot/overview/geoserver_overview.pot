@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 17.0.0\n"
+"Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 15:05-0600\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,7 +28,7 @@ msgstr ""
 msgid "GeoServer is a web server that allows you to serve maps and data from a variety of formats to standard clients such as web browsers and desktop GIS programs. Data is published via standards based interfaces, such as WMS, WFS, WCS, WPS, Tile Caching and more. GeoServer comes with a browser-based management interface and connects to multiple data sources at the back end."
 msgstr ""
 
-#: ../../build/doc/overview/geoserver_overview.rst:None
+#: ../../build/doc/overview/geoserver_overview.rst:30
 msgid "geoserver screenshot"
 msgstr ""
 
@@ -36,11 +36,11 @@ msgstr ""
 msgid "Core Features"
 msgstr ""
 
-#: ../../build/doc/overview/geoserver_overview.rst:44
+#: ../../build/doc/overview/geoserver_overview.rst:39
 msgid "**Serve data from a variety of data stores:**"
 msgstr ""
 
-#: ../../build/doc/overview/geoserver_overview.rst:41
+#: ../../build/doc/overview/geoserver_overview.rst:40
 msgid "Vector"
 msgstr ""
 
@@ -52,7 +52,7 @@ msgstr ""
 msgid "PostGIS, ArcSDE, DB2, Oracle Spatial, MySql, SQL Server"
 msgstr ""
 
-#: ../../build/doc/overview/geoserver_overview.rst:44
+#: ../../build/doc/overview/geoserver_overview.rst:43
 msgid "Raster"
 msgstr ""
 
@@ -60,7 +60,7 @@ msgstr ""
 msgid "GeoTiff, JPG and PNG (with world file), image pyramid, GDAL formats, Image Mosaic, Oracle GeoRaster, NetCDF"
 msgstr ""
 
-#: ../../build/doc/overview/geoserver_overview.rst:48
+#: ../../build/doc/overview/geoserver_overview.rst:46
 msgid "**Data is served as safe and quick images using WMS and WMTS protocols:**"
 msgstr ""
 
@@ -68,7 +68,7 @@ msgstr ""
 msgid "As the data is served up as an image your data is completely safe and secure. Unless they redigitise your data there is no way to steal your data. The appearance of each map layer can be controlled using the SLD standard which allows features to be coloured and labeled. By combining these rules with OGC Filters scale dependent styling can be implemented allowing more detail to be added as a user zooms in. Label collision management, grouping and priorities are also implemented."
 msgstr ""
 
-#: ../../build/doc/overview/geoserver_overview.rst:52
+#: ../../build/doc/overview/geoserver_overview.rst:50
 msgid "**Full vector data can be sent to a client using the WFS protocol:**"
 msgstr ""
 
@@ -76,7 +76,7 @@ msgstr ""
 msgid "A WFS client can download vector data and use it for mapping, spatial analysis and other operations. Also if authorised the user can modify the data and send it back to the server to update the stored data using the WFS-T protocol. The data can be transmitted using GML (compressed) as well as other standard data formats like shapefile and json."
 msgstr ""
 
-#: ../../build/doc/overview/geoserver_overview.rst:55
+#: ../../build/doc/overview/geoserver_overview.rst:54
 msgid "**Raster data values can be sent to a client using the WCS protocol:**"
 msgstr ""
 
@@ -84,7 +84,7 @@ msgstr ""
 msgid "A GIS client can request the actual raster data for use in spatial analysis. This allows a user to create applications which can model the process described by your data."
 msgstr ""
 
-#: ../../build/doc/overview/geoserver_overview.rst:58
+#: ../../build/doc/overview/geoserver_overview.rst:57
 msgid "**On the fly reprojection:**"
 msgstr ""
 
@@ -92,7 +92,7 @@ msgstr ""
 msgid "GeoServer supports the majority of the EPSG database of projections and can reproject to any of them on demand to allow clients with limited reprojection support to pass the load to the server."
 msgstr ""
 
-#: ../../build/doc/overview/geoserver_overview.rst:61
+#: ../../build/doc/overview/geoserver_overview.rst:60
 msgid "**Tiling Cache**"
 msgstr ""
 
@@ -100,7 +100,7 @@ msgstr ""
 msgid "`GeoWebCache <https://www.geowebcache.org>`_, which is integrated into GeoServer, tiles and caches map images from a variety of sources such as WMS. It implements various service interfaces (such as WMS-C, WMTS, TMS, Google Maps KML, Virtual Earth) in order to accelerate and optimize map image delivery. It can also recombine tiles to work with regular WMS clients."
 msgstr ""
 
-#: ../../build/doc/overview/geoserver_overview.rst:64
+#: ../../build/doc/overview/geoserver_overview.rst:63
 msgid "**Web Processing Service (WPS)**"
 msgstr ""
 
@@ -182,21 +182,4 @@ msgstr ""
 
 #: ../../build/doc/overview/geoserver_overview.rst:100
 msgid ":doc:`Quickstart documentation <../quickstart/geoserver_quickstart>`"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

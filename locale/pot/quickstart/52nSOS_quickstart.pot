@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 17.0.0\n"
+"Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-14 03:30+0000\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,7 +60,7 @@ msgstr ""
 msgid "Select :|menu_52nSOS-Start| to start the 52°North SOS."
 msgstr ""
 
-#: ../../build/doc/quickstart/52nSOS_quickstart.rst:48
+#: ../../build/doc/quickstart/52nSOS_quickstart.rst:40
 msgid "This will open the 52°North SOS client welcome page in firefox at"
 msgstr ""
 
@@ -68,7 +68,7 @@ msgstr ""
 msgid "http://localhost:8080/52nSOS/ (see Fig. 1)."
 msgstr ""
 
-#: ../../build/doc/quickstart/52nSOS_quickstart.rst:0
+#: ../../build/doc/quickstart/52nSOS_quickstart.rst:43
 msgid "52°North SOS client welcome page"
 msgstr ""
 
@@ -80,7 +80,7 @@ msgstr ""
 msgid "Click :guilabel:`Client` from the top menu bar. Once you know `the capabilities of an SOS Server <http://localhost:8080/52nSOS/sos?REQUEST=GetCapabilities&SERVICE=SOS&ACCEPTVERSIONS=2.0.0>`_, (see Fiq. 2) you can craft appropriate queries. This is made easier by selecting sample queries. Using the information from the capabilities document, you can adjust the available example queries."
 msgstr ""
 
-#: ../../build/doc/quickstart/52nSOS_quickstart.rst:None
+#: ../../build/doc/quickstart/52nSOS_quickstart.rst:56
 msgid "52°North SOS client - test client with GetCapabilities request"
 msgstr ""
 
@@ -136,7 +136,7 @@ msgstr ""
 msgid "Open `Helgoland <http://localhost:8080/52nSOS/static/client/helgoland/#/map>`_ again and explore the generated sample data."
 msgstr ""
 
-#: ../../build/doc/quickstart/52nSOS_quickstart.rst:None
+#: ../../build/doc/quickstart/52nSOS_quickstart.rst:120
 msgid "52°North SOS client - JavaScript client with time series data"
 msgstr ""
 
@@ -194,21 +194,4 @@ msgstr ""
 
 #: ../../build/doc/quickstart/52nSOS_quickstart.rst:221
 msgid "**Listing 3:** Tomcat Status and Start (password for sudo: :code:`user`)."
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

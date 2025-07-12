@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 15:05-0600\n"
+"POT-Creation-Date: 2025-07-12 23:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.14.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:20
 msgid "iD editor Quickstart"
@@ -71,7 +71,7 @@ msgid ""
 "browser editor)**."
 msgstr ""
 
-#: ../../build/doc/quickstart/ideditor_quickstart.rst:52
+#: ../../build/doc/quickstart/ideditor_quickstart.rst:51
 msgid "[1] **Edit Feature Panel:** This panel shows tags from the object"
 msgstr ""
 
@@ -87,7 +87,7 @@ msgstr ""
 msgid "[3] **Map panel:** This panel show various configuration functions."
 msgstr ""
 
-#: ../../build/doc/quickstart/ideditor_quickstart.rst:59
+#: ../../build/doc/quickstart/ideditor_quickstart.rst:58
 msgid "[4] **Information panel:** This panel shows various information, such as"
 msgstr ""
 
@@ -462,7 +462,7 @@ msgid ""
 "what is called a multipolygon."
 msgstr ""
 
-#: ../../build/doc/quickstart/ideditor_quickstart.rst
+#: ../../build/doc/quickstart/ideditor_quickstart.rst:203
 msgid "create multipolygon"
 msgstr ""
 
@@ -472,7 +472,7 @@ msgid ""
 " can see on the left to which multipolygons it belongs"
 msgstr ""
 
-#: ../../build/doc/quickstart/ideditor_quickstart.rst
+#: ../../build/doc/quickstart/ideditor_quickstart.rst:210
 msgid "part of multipolygon"
 msgstr ""
 
@@ -614,61 +614,5 @@ msgstr ""
 
 #: ../../build/doc/quickstart/ideditor_quickstart.rst:262
 msgid "Website: https://wiki.openstreetmap.org/wiki/ID"
-msgstr ""
-
-#: ../../build/doc/quickstart/ideditor_quickstart.rst:268
-msgid "image5"
-msgstr ""
-
-#: ../../build/doc/quickstart/ideditor_quickstart.rst:270
-msgid "image6"
-msgstr ""
-
-#: ../../build/doc/quickstart/ideditor_quickstart.rst:272
-msgid "image7"
-msgstr ""
-
-#: ../../build/doc/quickstart/ideditor_quickstart.rst:274
-msgid "image8"
-msgstr ""
-
-#: ../../build/doc/quickstart/ideditor_quickstart.rst:276
-msgid "image9"
-msgstr ""
-
-#: ../../build/doc/quickstart/ideditor_quickstart.rst:278
-msgid "image10"
-msgstr ""
-
-#: ../../build/doc/quickstart/ideditor_quickstart.rst:280
-msgid "image11"
-msgstr ""
-
-#: ../../build/doc/quickstart/ideditor_quickstart.rst:282
-msgid "image12"
-msgstr ""
-
-#: ../../build/doc/quickstart/ideditor_quickstart.rst:284
-msgid "Map Data"
-msgstr ""
-
-#: ../../build/doc/quickstart/ideditor_quickstart.rst:285
-msgid "image13"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 
