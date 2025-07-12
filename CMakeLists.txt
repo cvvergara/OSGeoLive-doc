@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.12 FATAL_ERROR)
 if ( ${CMAKE_SOURCE_DIR} STREQUAL ${CMAKE_BINARY_DIR} )
     message(FATAL_ERROR "In-source builds not allowed.
     Please make a new directory (called a build directory) and run CMake from there.
@@ -23,8 +23,6 @@ endif()
 
 project(OSGeoLiveDoc LANGUAGES NONE)
 set(CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake")
-
-
 set(iso_size "4.4" CACHE STRING "for osgeolive-X.X.iso")
 set(vm_7z_size "7.0" CACHE STRING "for osgeo-vm-X.X.7z")
 set(req_hd_size "22" CACHE STRING "required hard disk space")

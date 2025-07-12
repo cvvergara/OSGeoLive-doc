@@ -2,13 +2,15 @@
 
 # -- Path setup --------------------------------------------------------------
 import os
+from urllib.parse import urljoin
+from sphinx_revealjs.utils import get_revealjs_path
 
 # -- Project information -----------------------------------------------------
 project = "OSGeoLive"
-copyright = "2022, OSGeoLive"
+copyright = "2024, OSGeoLive"
 author = "Vicky Vergara"
-version = "15"
-release = "August, 2022"
+version = "17"
+release = "August, 2024"
 
 # -- General configuration ---------------------------------------------------
 extensions = [
@@ -18,33 +20,29 @@ templates_path = ["_templates"]
 source_suffix = ".rst"
 master_doc = "presentation"
 language = "en"
+locale_dirs = ["@CMAKE_SOURCE_DIR@/locale"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 pygments_style = None
-locale_dirs = ["@CMAKE_SOURCE_DIR@/locale"]
 
 # -- Options for HTML output -------------------------------------------------
 html_theme = "alabaster"
-html_theme_options = {
-    "revealjs_theme": "league",
-}
-#html_static_path = ["@CMAKE_SOURCE_DIR@/doc/_static"]
+html_static_path = ["@CMAKE_SOURCE_DIR@/doc/_static"]
 
 # -- Options for Reveal.js output ---------------------------------------------
+revealjs_html_theme = "revealjs-simple"
 revealjs_static_path = ["@CMAKE_SOURCE_DIR@/doc/_static"]
 revealjs_style_theme = "white"
-revealjs_script_conf = """
-    {
-        controls: true,
-        progress: true,
-        history: true,
-        center: true,
-        transition: "cube",
-    }
-"""
+revealjs_script_conf = {
+    "controls": True,
+    "progress": True,
+    "hash": True,
+    "center": True,
+    "transition": "cube",
+}
 revealjs_script_plugins = [
     {
         "name": "RevealNotes",
-        "src": "revealjs4/plugin/notes/notes.js",
+        "src": "revealjs/plugin/notes/notes.js",
     },
 ]
 revealjs_css_files = [
