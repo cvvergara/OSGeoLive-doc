@@ -41,7 +41,7 @@ document will also need to be licenced under the `CC By-SA
 <https://creativecommons.org/licenses/by-sa/3.0/>`__.
 
 Note that images are not necessarily provided under the same CC license as the
-text; check with the author.
+text; check with the authors.
 
 You may use attribution text similar to one of the following:
 
@@ -60,7 +60,7 @@ You may use attribution text similar to one of the following:
 **Concise CC-By-SA and attribution:**
 
   © 2011 [Your Name] under a `CC By SA License
-  <https://creativecommons.org/licenses/by-sa/3.0/>`__.  [Derived
+  <https://creativecommons.org/licenses/by-sa/3.0/>`__. [Derived
   from|Includes|Extends] :doc:`OSGeoLive <index>` documentation by
   :doc:`OSGeoLive contributors <copyright>`.
 

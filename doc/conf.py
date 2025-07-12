@@ -182,19 +182,48 @@ latex_documents = [
 
 # Linkcheck configuration, see http://sphinx.pocoo.org/latest/config.html#options-for-the-linkcheck-builder
 
+linkcheck_retries = 3  # default is 1
+
+# About User-Agent:
+# https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent
+linkcheck_request_headers = {
+    "*": { 'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:25.0) Gecko/20100101 Firefox/25.0' },
+}
+
 linkcheck_ignore = [
         # currently SSL_ERROR_BAD_CERT_DOMAIN
         # TODO remove this line when the CERT is fixed
         r'https://www.rspatial.org',
 
+
+        # NewConnectionError looks like information is wrong
+        r'https://sgx.geodatenzentrum.de',
+
         # link exists but does not accept robots and linkchecker is a robot
         # used in overview/mapserver_overview
         'http://www.dnr.state.mn.us/maps/compass.html',
+
+        # 404
+        r'https://docs.qgis.org/3.10/en/docs/server_manual/',
+        r'https://earthdata.nasa.gov/esdis/eso/standards-and-references/directory-interchange-format-dif-standard',
+        r'https://istsos.org/en/trunk/doc/index.html',
+        r'https://istsos.org/tutorial/'
+
+
+        # 504
+        r'https://help.ubuntu.com/',
+
+        # intermittent 502 server errors
+        r'https://demo.pycsw.org',
 
         # TODO this link is failing: RemoteDisconnected('Remote end closed connection without response'))
         # ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
         'https://www.iso.org',
         r'https://inspire.ec.europa.eu',
+
+        # HTTPSConnectionPool
+        r'https://worldwind.arc.nasa.gov/java/',
+        r'https://r-spatial.org',
 
         # links to the disk internals
         r'http://localhost', r'https://localhost',
@@ -202,10 +231,19 @@ linkcheck_ignore = [
         r'http://0.0.0.0',
         'http://geonode',
 
+        # links to old versions
+        r'https://live.osgeo.org/archive/15.0',
+        r'https://live.osgeo.org/archive/16.0',
+
+        # For the following an appropiate user agent is needed
         # 403 Client Error
+        r'https://www.intel.com',
+        r'https://www.mydigitallife.net',
         r'https://docs.etf-validator.net',
         r'https://etf-validator.net',
         r'https://www.ogc.org',
+        r'https://sourceforge.net',
+        r'https://opensource.org',
         r'https://www.safe.com',
 
         # link exists but when many link checks are done link checker fails
@@ -213,11 +251,15 @@ linkcheck_ignore = [
         # Used in quickstart/osm_quickstart
         'https://www.openstreetmap.org/edit',
 
-        # link exists but link check failes
+        # link exists but link check fails
         # SSL: CERTIFICATE_VERIFY_FAILED
         # Used in sponsors.rst
         'https://www.ntua.gr/en',
         'https://www.ice.ucdavis.edu/',
+
+        # redirect exists but link check fails
+        # SSL: CERTIFICATE_VERIFY_FAILED
+        r'https://ghsl.jrc.ec.europa.eu/ghs_pop.php',
 
         # Link with certiciate problems
         # Used in quickstart/liblas_quickstart
@@ -225,7 +267,12 @@ linkcheck_ignore = [
         'https://www.epsg.org/',
 
         # Link to the presentation
-        r'presentation.html'
+        r'presentation.html',
+
+        # Ignore Stack Overflow links
+        # as they return 429 Client Error: Too Many Requests for url
+        # due to rate limiting
+        r'https://stackoverflow'
         ]
 
 linkcheck_anchors = False
@@ -242,14 +289,13 @@ linkcheck_anchors = False
 rst_epilog="""
 .. |osgeolive-project| replace:: %(projectname)s
 .. |osgeolive-version| replace:: %(projectname)s %(projectversion)s
+.. |sourceforge-download| replace:: https://sourceforge.net/projects/osgeo-live/files/%(projectversion)s/
+.. |osgeo-download| replace:: https://download.osgeo.org/livedvd/releases/%(projectversion)s/
 .. |osgeolive-version-only| replace:: %(projectversion)s
 .. |osgeolive-hdspace| replace:: %(required_hd_space)02d GB
 .. |osgeolive-iso-size| replace:: %(iso_size).1f GB
-.. |osgeolive-iso-mini-size| replace:: %(iso_mini_size).1f GB
 .. |osgeolive-vm-7z-size| replace:: %(vm_7z_size).1f GB
 .. |osgeolive-appmenupath-geoserver| replace:: :menuselection:`Geospatial --> Web Services --> GeoServer --> Start GeoServer`
-.. |osgeolive-appmenupath-udig| replace:: :menuselection:`Geospatial --> Desktop GIS --> uDig`
-.. |osgeolive-appmenupath-52nWPS| replace:: :menuselection:`Geospatial --> Web Services --> 52North --> Start 52North WPS`
 .. |osgeolive-appmenupath-ETF| replace:: :menuselection:`Geospatial --> Spatial tools --> ETF`
 .. |vmdk| image:: /images/logos/vmdk.png
                         :align: bottom
@@ -306,6 +352,5 @@ rst_epilog="""
   'projectversion': version,
   'required_hd_space': req_hd_size,
   'iso_size': iso_size,
-  'iso_mini_size': iso_mini_size,
   'vm_7z_size': vm_7z_size
 }

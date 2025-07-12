@@ -6,13 +6,16 @@ Previously available applications
 
 
 .. csv-table::
-    :header:  "", "Name", "", "Last Available", "Description"
+    :header:  kind, Name, Q, Last Available, Description
     :widths: 5, 15, 15, 10, 30
     :delim: %
 
+    |nologo| % 52nWPS_          % `QuickStart <52nWPS_q_>`__     %   16.0 %  Web Processing Services
+    |nologo| % udig_            % `QuickStart <udig_q_>`__     %   16.0 %  Desktop GIS
+    |nologo| % ncWMS_           % `QuickStart <ncwms_q_>`__     %   14.0 %  Web Map Service
     |nologo| % LibLAS_          % `QuickStart <LibLAS_q_>`__     %   13.0 %  LiDAR Data Access
     |nologo| % MapSlicer_       % `QuickStart <MapSlicer_q_>`__  %   13.0 %  Create Map Tiles
-    |osgeo_community| % Geomajas_ % `QuickStart <Geomajas_q_>`__   %   13.0 %  Browser GIS Client
+    |nologo| % Geomajas_        % `QuickStart <Geomajas_q_>`__   %   13.0 %  Browser GIS Client
     |osgeo_community| % OSSIM_    % `QuickStart <OSSIM_q_>`__      %   11.0 %  Image Processing
     |nologo| % `OGC Standards`_ %                                %   10.5 %  OGC Standards descriptions
     |nologo| % Viking_          % `QuickStart <Viking_q_>`__     %   10.5 %  GPS Data Analysis and Viewer
@@ -36,6 +39,9 @@ Previously available applications
     |osgeo_community| % MapGuide_ %  `QuickStart <MapGuide_q_>`__ %   5.0 %   Web Service
 
 
+.. _52nWPS: https://live.osgeo.org/archive/16.0/en/overview/52nWPS_overview.html
+.. _udig: https://live.osgeo.org/archive/16.0/en/overview/udig_overview.html
+.. _ncWMS: https://live.osgeo.org/archive/14.0/en/overview/ncWMS_overview.html
 .. _LibLAS: https://live.osgeo.org/archive/13.0/en/overview/liblas_overview.html
 .. _MapSlicer: https://live.osgeo.org/archive/13.0/en/overview/mapslicer_overview.html
 .. _Geomajas: https://live.osgeo.org/archive/13.0/en/overview/geomajas_overview.html
@@ -60,8 +66,12 @@ Previously available applications
 .. _Geopublisher: https://live.osgeo.org/archive/6.0/en/overview/52nWSS_overview.html
 .. _AtlasStyler: https://live.osgeo.org/archive/6.0/en/overview/52nWSS_overview.html
 .. _MapGuide: https://live.osgeo.org/archive/5.0/en/overview/mapguide_overview.html
+.. _52nWPS: https://live.osgeo.org/archive/16.0/en/overview/52nWPS_overview.html
 
 
+.. _52nWPS_q: https://live.osgeo.org/archive/16.0/en/quickstart/52nWPS_quickstart.html
+.. _udig_q: https://live.osgeo.org/archive/16.0/en/quickstart/udig_quickstart.html
+.. _ncwms_q: https://live.osgeo.org/archive/14.0/en/quickstart/ncWMS_quickstart.html
 .. _LibLAS_q: https://live.osgeo.org/archive/13.0/en/quickstart/liblas_quickstart.html
 .. _MapSlicer_q: https://live.osgeo.org/archive/13.0/en/quickstart/mapslicer_quickstart.html
 .. _Geomajas_q: https://live.osgeo.org/archive/13.0/en/quickstart/geomajas_quickstart.html
@@ -85,9 +95,5 @@ Previously available applications
 .. _Geopublisher_q: https://live.osgeo.org/archive/6.0/en/quickstart/52nWSS_quickstart.html
 .. _AtlasStyler_q: https://live.osgeo.org/archive/6.0/en/quickstart/52nWSS_quickstart.html
 .. _MapGuide_q: https://live.osgeo.org/archive/5.0/en/quickstart/mapguide_quickstart.html
-
-
-
-
-
+.. _52nWPS_q: https://live.osgeo.org/archive/16.0/en/quickstart/52nWPS_quickstart.html
 

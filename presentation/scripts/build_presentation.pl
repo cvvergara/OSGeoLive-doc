@@ -320,8 +320,7 @@ sub write_script {
     # write out the header and the commands to clean up the old extension
     print OUT <<EOF;
 
-.. OSGeoLive overview file, created by:
-   build_presentation.pl
+.. OSGeoLive overview file, created by: build_presentation.pl
 
 $sections
 

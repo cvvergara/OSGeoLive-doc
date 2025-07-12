@@ -23,8 +23,8 @@ The majority of OSGeoLive documentation is generated from reStructured text (reS
 using Sphinx. reSt is similar to wiki markup, and readable in plain ASCII. As a
 quick check, GitHub will (partially) render reSt documents as HTML.
 
-Build steps
-~~~~~~~~~~~
+Building steps
+~~~~~~~~~~~~~~~~~
 
 Following the steps below on the OSGeoLive Virtual Machine itself is one of the easiest ways
 to build the OSGeoLive documentation.
