@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 17.0.0\n"
+"Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-01 23:33+0000\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,7 +20,7 @@ msgstr ""
 msgid "Welcome to |osgeolive-version|"
 msgstr ""
 
-#: ../../build/doc/index.rst:None
+#: ../../build/doc/index.rst:5
 msgid "Logo"
 msgstr ""
 
@@ -28,7 +28,7 @@ msgstr ""
 msgid "`OSGeoLive <https://live.osgeo.org>`_ is a self-contained bootable DVD, USB thumb drive or Virtual Machine based on `Lubuntu <https://lubuntu.me>`_, that allows you to try a wide variety of open source geospatial software without installing anything. It is composed entirely of free software, allowing it to be freely distributed, duplicated and passed around."
 msgstr ""
 
-#: ../../build/doc/index.rst:None
+#: ../../build/doc/index.rst:16
 msgid "Menu"
 msgstr ""
 
@@ -70,20 +70,4 @@ msgstr ""
 
 #: ../../build/doc/index.rst:74
 msgid "A half hour `presentation <presentation.html>`__, highlighting all OSGeoLive applications, is available with slides, script"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

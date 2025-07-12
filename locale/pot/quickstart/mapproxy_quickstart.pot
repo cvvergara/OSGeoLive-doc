@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-18 17:21+0000\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,7 +24,7 @@ msgstr ""
 msgid "MapProxy is *the* swiss army knife for all WMS and tile services. It caches, accelerates and transforms data from existing map services and serves any desktop or web GIS client."
 msgstr ""
 
-#: ../../build/doc/quickstart/mapproxy_quickstart.rst:None
+#: ../../build/doc/quickstart/mapproxy_quickstart.rst:27
 msgid "MapProxy diagram"
 msgstr ""
 
@@ -72,7 +72,7 @@ msgstr ""
 msgid "Available layers"
 msgstr ""
 
-#: ../../build/doc/quickstart/mapproxy_quickstart.rst:62
+#: ../../build/doc/quickstart/mapproxy_quickstart.rst:61
 msgid "**mapnik**:"
 msgstr ""
 
@@ -80,7 +80,7 @@ msgstr ""
 msgid "The world population rendered by Mapnik. You don't need to start the Mapnik service, because this layer makes use of the integrated Mapnik support in MapProxy."
 msgstr ""
 
-#: ../../build/doc/quickstart/mapproxy_quickstart.rst:65
+#: ../../build/doc/quickstart/mapproxy_quickstart.rst:64
 msgid "**mapnik_tile**:"
 msgstr ""
 
@@ -88,7 +88,7 @@ msgstr ""
 msgid "The world population rendered by Mapnik as tile layer."
 msgstr ""
 
-#: ../../build/doc/quickstart/mapproxy_quickstart.rst:69
+#: ../../build/doc/quickstart/mapproxy_quickstart.rst:67
 msgid "**geoserver**:"
 msgstr ""
 
@@ -96,7 +96,7 @@ msgstr ""
 msgid "The US population rendered by the :doc:`GeoServer <../overview/geoserver_overview>` WMS. This layer also supports ``GetFeatureInfo`` requests which are cascaded to the source WMS. You need to start GeoServer with |osgeolive-appmenupath-geoserver| before accessing this layer."
 msgstr ""
 
-#: ../../build/doc/quickstart/mapproxy_quickstart.rst:73
+#: ../../build/doc/quickstart/mapproxy_quickstart.rst:71
 msgid "**mapnik_geoserver**:"
 msgstr ""
 
@@ -104,7 +104,7 @@ msgstr ""
 msgid "This layer demonstrates the ability to combine multiple sources into one layer. It combines the world population from Mapnik with the US population from GeoServer. The ``GetFeatureInfo`` support for the US population is still available. You need to start GeoServer with |osgeolive-appmenupath-geoserver| before accessing this layer."
 msgstr ""
 
-#: ../../build/doc/quickstart/mapproxy_quickstart.rst:77
+#: ../../build/doc/quickstart/mapproxy_quickstart.rst:75
 msgid "**mapserver**:"
 msgstr ""
 
@@ -142,21 +142,4 @@ msgstr ""
 
 #: ../../build/doc/quickstart/mapproxy_quickstart.rst:101
 msgid "Read the example configuration (``/usr/local/share/mapproxy/mapproxy.yaml``)"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:11
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:14
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

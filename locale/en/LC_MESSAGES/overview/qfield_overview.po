@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 21:19+0000\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.16.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../build/doc/overview/qfield_overview.rst:13
 msgid "QField"
@@ -43,6 +43,7 @@ msgid ""
 "development of the two projects collaborate closely."
 msgstr ""
 
+#: ../../build/doc/overview/qfield_overview.rst:27
 msgid "qfield screenshot"
 msgstr ""
 
@@ -50,7 +51,7 @@ msgstr ""
 msgid "Core Features"
 msgstr ""
 
-#: ../../build/doc/overview/qfield_overview.rst:42
+#: ../../build/doc/overview/qfield_overview.rst:36
 msgid "Friendly graphical user interface:"
 msgstr ""
 
@@ -78,7 +79,7 @@ msgstr ""
 msgid "live feedback on data quality via constraints"
 msgstr ""
 
-#: ../../build/doc/overview/qfield_overview.rst:47
+#: ../../build/doc/overview/qfield_overview.rst:44
 msgid "Easy Viewing of many Vector and Raster Formats"
 msgstr ""
 
@@ -98,7 +99,7 @@ msgstr ""
 msgid "online web services: WMS, WFS and OGC API"
 msgstr ""
 
-#: ../../build/doc/overview/qfield_overview.rst:50
+#: ../../build/doc/overview/qfield_overview.rst:49
 msgid "Exporting data"
 msgstr ""
 
@@ -106,7 +107,7 @@ msgstr ""
 msgid "printing to pdf"
 msgstr ""
 
-#: ../../build/doc/overview/qfield_overview.rst:56
+#: ../../build/doc/overview/qfield_overview.rst:52
 msgid "Sensor integration"
 msgstr ""
 
@@ -126,7 +127,7 @@ msgstr ""
 msgid "external sensor integration (radiation, gas, ...)"
 msgstr ""
 
-#: ../../build/doc/overview/qfield_overview.rst:59
+#: ../../build/doc/overview/qfield_overview.rst:58
 msgid "Synchronization"
 msgstr ""
 
@@ -180,21 +181,5 @@ msgstr ""
 
 #: ../../build/doc/overview/qfield_overview.rst:87
 msgid ":doc:`Quickstart documentation <../quickstart/qfield_quickstart>`"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-02 19:24+0000\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -120,7 +120,7 @@ msgid ""
 "25 July 2011. The original work was translated from English to German."
 msgstr ""
 
-#: ../../build/doc/copyright.rst
+#: ../../build/doc/copyright.rst:57
 msgid "CC-By-SA-med"
 msgstr ""
 
@@ -147,7 +147,7 @@ msgid ""
 "contributors <copyright>`."
 msgstr ""
 
-#: ../../build/doc/copyright.rst
+#: ../../build/doc/copyright.rst:73
 msgid "CC-By-small"
 msgstr ""
 
@@ -946,21 +946,5 @@ msgid ""
 "theory of liability, whether in contract, strict liablity, or tort "
 "(including negligence or otherwise) arising in any way out of the use of "
 "this software, even if advised of the possibility of such damage.*"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:11
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:14
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 

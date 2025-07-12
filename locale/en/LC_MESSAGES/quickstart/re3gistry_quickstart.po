@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-01 23:33+0000\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.16.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../build/doc/quickstart/re3gistry_quickstart.rst:12
 msgid "Re3gistry Quickstart"
@@ -31,8 +31,8 @@ msgid ""
 "can be used to define sets of permissible values for a data field or to "
 "provide a reference or context for the data being exchanged. Examples are"
 " enumerations, controlled vocabularies, taxonomies, thesauri or, simply, "
-"‘lists of things’. The Re3gistry 2 supports organisations in managing "
-"and updating reference codes in a consistent way."
+"‘lists of things’. The Re3gistry 2 supports organisations in managing and"
+" updating reference codes in a consistent way."
 msgstr ""
 
 #: ../../build/doc/quickstart/re3gistry_quickstart.rst:24
@@ -205,8 +205,8 @@ msgid ""
 "things'. If you choose the \"installation mode\" from the wizard, the "
 "first time you log in to the system, you will have an empty registry. You"
 " can then start populating it using the tools provided by the editing "
-"interface. If you choose the \"migration mode\" from the wizard, you "
-"will find the registers imported from the older version of the tool."
+"interface. If you choose the \"migration mode\" from the wizard, you will"
+" find the registers imported from the older version of the tool."
 msgstr ""
 
 #: ../../build/doc/quickstart/re3gistry_quickstart.rst:110
@@ -317,21 +317,5 @@ msgstr ""
 msgid ""
 "`Developer manual <https://github.com/ec-"
 "jrc/re3gistry/blob/master/documentation/developer-manual.md>`__"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 

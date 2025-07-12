@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-23 16:57+0000\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -40,7 +40,7 @@ msgstr ""
 msgid "An example of connecting to the MapServer demo on OSGeoLive and downloading a WMS image."
 msgstr ""
 
-#: ../../build/doc/quickstart/owslib_quickstart.rst:None
+#: ../../build/doc/quickstart/owslib_quickstart.rst:58
 msgid "Output image from MapServer WMS"
 msgstr ""
 
@@ -86,21 +86,4 @@ msgstr ""
 
 #: ../../build/doc/quickstart/owslib_quickstart.rst:144
 msgid "For more information on OWSLib, please consult the `documentation`_ on the OWSLib website."
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:11
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:14
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

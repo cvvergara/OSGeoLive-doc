@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-18 13:44+0000\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,7 +28,7 @@ msgstr ""
 msgid "Re3gistry 2 is an open-source platform for efficiently managing and sharing reference codes. Developed for the EU’s :doc:`INSPIRE <inspire_overview>` infrastructure, it acts as a central hub for browsing and retrieving reference code labels and descriptions. These codes uniquely identify entities and can define acceptable values for data fields, serving various purposes like enumerations, controlled vocabularies, and taxonomies. Re3gistry 2 empowers organizations to manage and update reference codes consistently, adhering to Semantic Versioning 2.0.0."
 msgstr ""
 
-#: ../../build/doc/overview/re3gistry_overview.rst:None
+#: ../../build/doc/overview/re3gistry_overview.rst:25
 msgid "re3gistry screenshot"
 msgstr ""
 
@@ -130,21 +130,4 @@ msgstr ""
 
 #: ../../build/doc/overview/re3gistry_overview.rst:74
 msgid ":doc:`Quickstart documentation <../quickstart/re3gistry_quickstart>`"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 17.0.0\n"
+"Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 21:19+0000\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,7 +32,7 @@ msgstr ""
 msgid "It is perfectly integrated with :doc:`QGIS <qgis_overview>` and the development of the two projects collaborate closely."
 msgstr ""
 
-#: ../../build/doc/overview/qfield_overview.rst:None
+#: ../../build/doc/overview/qfield_overview.rst:27
 msgid "qfield screenshot"
 msgstr ""
 
@@ -40,7 +40,7 @@ msgstr ""
 msgid "Core Features"
 msgstr ""
 
-#: ../../build/doc/overview/qfield_overview.rst:42
+#: ../../build/doc/overview/qfield_overview.rst:36
 msgid "Friendly graphical user interface:"
 msgstr ""
 
@@ -68,7 +68,7 @@ msgstr ""
 msgid "live feedback on data quality via constraints"
 msgstr ""
 
-#: ../../build/doc/overview/qfield_overview.rst:47
+#: ../../build/doc/overview/qfield_overview.rst:44
 msgid "Easy Viewing of many Vector and Raster Formats"
 msgstr ""
 
@@ -84,7 +84,7 @@ msgstr ""
 msgid "online web services: WMS, WFS and OGC API"
 msgstr ""
 
-#: ../../build/doc/overview/qfield_overview.rst:50
+#: ../../build/doc/overview/qfield_overview.rst:49
 msgid "Exporting data"
 msgstr ""
 
@@ -92,7 +92,7 @@ msgstr ""
 msgid "printing to pdf"
 msgstr ""
 
-#: ../../build/doc/overview/qfield_overview.rst:56
+#: ../../build/doc/overview/qfield_overview.rst:52
 msgid "Sensor integration"
 msgstr ""
 
@@ -112,7 +112,7 @@ msgstr ""
 msgid "external sensor integration (radiation, gas, ...)"
 msgstr ""
 
-#: ../../build/doc/overview/qfield_overview.rst:59
+#: ../../build/doc/overview/qfield_overview.rst:58
 msgid "Synchronization"
 msgstr ""
 
@@ -166,21 +166,4 @@ msgstr ""
 
 #: ../../build/doc/overview/qfield_overview.rst:87
 msgid ":doc:`Quickstart documentation <../quickstart/qfield_quickstart>`"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

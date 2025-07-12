@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 17.0.0\n"
+"Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 15:05-0600\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,7 +32,7 @@ msgstr ""
 msgid "Natural Earth solves the common problem that many cartographers face: finding vector data for making publication-quality small-scale maps at the appropriate level of detail for the maps they are making."
 msgstr ""
 
-#: ../../build/doc/overview/naturalearth_overview.rst:None
+#: ../../build/doc/overview/naturalearth_overview.rst:24
 msgid "naturalearth screenshot"
 msgstr ""
 
@@ -64,7 +64,7 @@ msgstr ""
 msgid "Data Sets"
 msgstr ""
 
-#: ../../build/doc/overview/naturalearth_overview.rst:44
+#: ../../build/doc/overview/naturalearth_overview.rst:43
 msgid "Cultural Vector Data Themes:"
 msgstr ""
 
@@ -72,7 +72,7 @@ msgstr ""
 msgid "Includes countries, disputed areas, states and provinces (1st order administrative divisions), and populated places (cities, towns). Roads, rails, urban polygons, parks and protected areas, Pacific nation groups, and water boundary indicators round out the cultural offerings."
 msgstr ""
 
-#: ../../build/doc/overview/naturalearth_overview.rst:47
+#: ../../build/doc/overview/naturalearth_overview.rst:46
 msgid "Physical Vector Data Themes:"
 msgstr ""
 
@@ -80,7 +80,7 @@ msgstr ""
 msgid "Include coastline, land, ocean, minor islands, reefs, physical region features and points, rivers, lakes, glaciated areas, Antarctic ice shelves, bathymetry, geographic lines, and graticles."
 msgstr ""
 
-#: ../../build/doc/overview/naturalearth_overview.rst:51
+#: ../../build/doc/overview/naturalearth_overview.rst:49
 msgid "Raster Data Themes:"
 msgstr ""
 
@@ -114,21 +114,4 @@ msgstr ""
 
 #: ../../build/doc/overview/naturalearth_overview.rst:66
 msgid "**Support:** https://www.naturalearthdata.com/about"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

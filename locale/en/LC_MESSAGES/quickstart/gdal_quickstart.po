@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-13 22:44+0000\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgstr ""
 msgid "This Quick Start describes how to:"
 msgstr ""
 
-#: ../../build/doc/quickstart/gdal_quickstart.rst:35
+#: ../../build/doc/quickstart/gdal_quickstart.rst:29
 msgid "GDAL"
 msgstr ""
 
@@ -55,7 +55,7 @@ msgstr ""
 msgid "Build a shapefile as a raster tileindex with gdaltindex"
 msgstr ""
 
-#: ../../build/doc/quickstart/gdal_quickstart.rst:39
+#: ../../build/doc/quickstart/gdal_quickstart.rst:37
 msgid "OGR"
 msgstr ""
 
@@ -103,7 +103,7 @@ msgstr ""
 msgid "Get information about the raster data with gdalinfo"
 msgstr ""
 
-#: ../../build/doc/quickstart/gdal_quickstart.rst:115
+#: ../../build/doc/quickstart/gdal_quickstart.rst:108
 msgid "Note:"
 msgstr ""
 
@@ -137,7 +137,7 @@ msgid ""
 "gdal_translate can be used to see a list of available format drivers."
 msgstr ""
 
-#: ../../build/doc/quickstart/gdal_quickstart.rst:128
+#: ../../build/doc/quickstart/gdal_quickstart.rst:123
 msgid "Each format reports if it supports the following features:"
 msgstr ""
 
@@ -392,21 +392,5 @@ msgstr ""
 
 #: ../../build/doc/quickstart/gdal_quickstart.rst:473
 msgid "https://download.osgeo.org/gdal/workshop/foss4ge2015/workshop_gdal.html"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:11
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:14
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 

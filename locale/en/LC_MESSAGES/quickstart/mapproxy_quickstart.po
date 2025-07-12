@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-18 17:21+0000\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.16.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../build/doc/quickstart/mapproxy_quickstart.rst:22
 msgid "MapProxy Quickstart"
@@ -30,6 +30,7 @@ msgid ""
 "serves any desktop or web GIS client."
 msgstr ""
 
+#: ../../build/doc/quickstart/mapproxy_quickstart.rst:27
 msgid "MapProxy diagram"
 msgstr ""
 
@@ -91,7 +92,7 @@ msgstr ""
 msgid "Available layers"
 msgstr ""
 
-#: ../../build/doc/quickstart/mapproxy_quickstart.rst:62
+#: ../../build/doc/quickstart/mapproxy_quickstart.rst:61
 msgid "**mapnik**:"
 msgstr ""
 
@@ -102,7 +103,7 @@ msgid ""
 "support in MapProxy."
 msgstr ""
 
-#: ../../build/doc/quickstart/mapproxy_quickstart.rst:65
+#: ../../build/doc/quickstart/mapproxy_quickstart.rst:64
 msgid "**mapnik_tile**:"
 msgstr ""
 
@@ -110,7 +111,7 @@ msgstr ""
 msgid "The world population rendered by Mapnik as tile layer."
 msgstr ""
 
-#: ../../build/doc/quickstart/mapproxy_quickstart.rst:69
+#: ../../build/doc/quickstart/mapproxy_quickstart.rst:67
 msgid "**geoserver**:"
 msgstr ""
 
@@ -123,7 +124,7 @@ msgid ""
 "accessing this layer."
 msgstr ""
 
-#: ../../build/doc/quickstart/mapproxy_quickstart.rst:73
+#: ../../build/doc/quickstart/mapproxy_quickstart.rst:71
 msgid "**mapnik_geoserver**:"
 msgstr ""
 
@@ -136,7 +137,7 @@ msgid ""
 "|osgeolive-appmenupath-geoserver| before accessing this layer."
 msgstr ""
 
-#: ../../build/doc/quickstart/mapproxy_quickstart.rst:77
+#: ../../build/doc/quickstart/mapproxy_quickstart.rst:75
 msgid "**mapserver**:"
 msgstr ""
 
@@ -184,21 +185,5 @@ msgstr ""
 msgid ""
 "Read the example configuration "
 "(``/usr/local/share/mapproxy/mapproxy.yaml``)"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:11
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:14
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 

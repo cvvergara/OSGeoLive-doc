@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-03 13:19+0000\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,8 +20,8 @@ msgstr ""
 msgid "OSGeoLive Sponsors"
 msgstr ""
 
-#: ../../build/doc/sponsors.rst:None
-#: ../../build/doc/sponsors_osgeo.rst:None
+#: ../../build/doc/sponsors.rst:5
+#: ../../build/doc/sponsors_osgeo.rst:1
 msgid "OSGeo"
 msgstr ""
 
@@ -29,7 +29,7 @@ msgstr ""
 msgid "The Open Source Geospatial Foundation (OSGeo) provides the primary development & hosting infrastructure and personnel for the project, and for many of the software teams which contribute to it."
 msgstr ""
 
-#: ../../build/doc/sponsors.rst:None
+#: ../../build/doc/sponsors.rst:13
 msgid "Information Center for the Environment at the University of California, Davis"
 msgstr ""
 
@@ -37,7 +37,7 @@ msgstr ""
 msgid "Information Center for the Environment at the University of California, Davis provides hardware resources and development support to the OSGeoLive project."
 msgstr ""
 
-#: ../../build/doc/sponsors.rst:None
+#: ../../build/doc/sponsors.rst:21
 msgid "National Technical University of Athens"
 msgstr ""
 
@@ -45,7 +45,7 @@ msgstr ""
 msgid "Remote Sensing Laboratory at the National Technical University of Athens, provides hardware resources and development support to the OSGeoLive project."
 msgstr ""
 
-#: ../../build/doc/sponsors.rst:None
+#: ../../build/doc/sponsors.rst:29
 msgid "The DebianGIS and UbuntuGIS projects"
 msgstr ""
 
@@ -2878,20 +2878,4 @@ msgstr ""
 
 #: ../../build/translators.csv:1
 msgid "alindeneanu"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:11
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:14
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

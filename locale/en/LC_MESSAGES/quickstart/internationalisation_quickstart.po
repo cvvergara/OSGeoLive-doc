@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 15:05-0600\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.14.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../build/doc/quickstart/internationalisation_quickstart.rst:10
 msgid "Change language or keyboard type"
@@ -51,7 +51,7 @@ msgstr ""
 msgid "Repeat the process if needed or if you wish to change languages again."
 msgstr ""
 
-#: ../../build/doc/quickstart/internationalisation_quickstart.rst
+#: ../../build/doc/quickstart/internationalisation_quickstart.rst:23
 msgid "login screen"
 msgstr ""
 
@@ -90,21 +90,5 @@ msgstr ""
 msgid ""
 "You can now click on the keyboard icon on the lower desktop menu bar to "
 "select the active keyboard layout."
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 

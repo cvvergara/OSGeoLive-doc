@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 15:05-0600\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.14.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../build/doc/quickstart/qgis_quickstart.rst:36
 msgid "QGIS Quickstart"
@@ -51,7 +51,7 @@ msgid ""
 "QGIS Interface are listed below."
 msgstr ""
 
-#: ../../build/doc/quickstart/qgis_quickstart.rst
+#: ../../build/doc/quickstart/qgis_quickstart.rst:53
 msgid "Open a QGIS project"
 msgstr ""
 
@@ -91,7 +91,7 @@ msgstr ""
 msgid "To create a new project, choose :menuselection:`Project --> New`."
 msgstr ""
 
-#: ../../build/doc/quickstart/qgis_quickstart.rst
+#: ../../build/doc/quickstart/qgis_quickstart.rst:68
 msgid "QGIS new project"
 msgstr ""
 
@@ -120,7 +120,7 @@ msgstr ""
 msgid "Drag the layer from the browser panel and drop it in the map frame."
 msgstr ""
 
-#: ../../build/doc/quickstart/qgis_quickstart.rst
+#: ../../build/doc/quickstart/qgis_quickstart.rst:79
 msgid "QGIS browser add vector layer"
 msgstr ""
 
@@ -130,6 +130,7 @@ msgid ""
 "showing countries."
 msgstr ""
 
+#: ../../build/doc/quickstart/qgis_quickstart.rst:86
 msgid "QGIS vector layer"
 msgstr ""
 
@@ -141,6 +142,7 @@ msgstr ""
 msgid "Select 'HYP_50M_SR_W.tif'."
 msgstr ""
 
+#: ../../build/doc/quickstart/qgis_quickstart.rst:97
 msgid "QGIS browser add raster layer"
 msgstr ""
 
@@ -150,6 +152,7 @@ msgid ""
 " layer showing land cover and bathymetry."
 msgstr ""
 
+#: ../../build/doc/quickstart/qgis_quickstart.rst:104
 msgid "QGIS raster layer"
 msgstr ""
 
@@ -163,7 +166,7 @@ msgstr ""
 msgid "Choose :menuselection:`Project --> Save`."
 msgstr ""
 
-#: ../../build/doc/quickstart/qgis_quickstart.rst
+#: ../../build/doc/quickstart/qgis_quickstart.rst:113
 msgid "QGIS save"
 msgstr ""
 
@@ -175,7 +178,7 @@ msgstr ""
 msgid "Call the project 'My QGIS project'."
 msgstr ""
 
-#: ../../build/doc/quickstart/qgis_quickstart.rst
+#: ../../build/doc/quickstart/qgis_quickstart.rst:120
 msgid "QGIS project location"
 msgstr ""
 
@@ -191,6 +194,7 @@ msgid ""
 "QGIS project'."
 msgstr ""
 
+#: ../../build/doc/quickstart/qgis_quickstart.rst:128
 msgid "QGIS saved project"
 msgstr ""
 
@@ -233,6 +237,7 @@ msgstr ""
 msgid "Click 'Open'."
 msgstr ""
 
+#: ../../build/doc/quickstart/qgis_quickstart.rst:148
 msgid "QGIS Open project"
 msgstr ""
 
@@ -243,6 +248,7 @@ msgid ""
 "panel and is displaying the spatial content in the map frame."
 msgstr ""
 
+#: ../../build/doc/quickstart/qgis_quickstart.rst:156
 msgid "QGIS Open project result"
 msgstr ""
 
@@ -254,6 +260,7 @@ msgid ""
 "layer panel is shown below."
 msgstr ""
 
+#: ../../build/doc/quickstart/qgis_quickstart.rst:164
 msgid "QGIS layer panel"
 msgstr ""
 
@@ -281,6 +288,7 @@ msgid ""
 " layer."
 msgstr ""
 
+#: ../../build/doc/quickstart/qgis_quickstart.rst:177
 msgid "QGIS result of layer visibility changes"
 msgstr ""
 
@@ -308,6 +316,7 @@ msgid ""
 " in the map frame."
 msgstr ""
 
+#: ../../build/doc/quickstart/qgis_quickstart.rst:192
 msgid "QGIS modified the order of layers"
 msgstr ""
 
@@ -327,6 +336,7 @@ msgid ""
 " map extent."
 msgstr ""
 
+#: ../../build/doc/quickstart/qgis_quickstart.rst:204
 msgid "QGIS navigation toolbar"
 msgstr ""
 
@@ -421,6 +431,7 @@ msgid ""
 "layer panel as shown below."
 msgstr ""
 
+#: ../../build/doc/quickstart/qgis_quickstart.rst:241
 msgid "QGIS style dock"
 msgstr ""
 
@@ -438,6 +449,7 @@ msgid ""
 " at the top of the style dock."
 msgstr ""
 
+#: ../../build/doc/quickstart/qgis_quickstart.rst:251
 msgid "QGIS style dock layer"
 msgstr ""
 
@@ -454,7 +466,7 @@ msgid ""
 "palette allowing you to choose a different colour."
 msgstr ""
 
-#: ../../build/doc/quickstart/qgis_quickstart.rst
+#: ../../build/doc/quickstart/qgis_quickstart.rst:260
 msgid "QGIS style dock color"
 msgstr ""
 
@@ -464,7 +476,7 @@ msgid ""
 "colour."
 msgstr ""
 
-#: ../../build/doc/quickstart/qgis_quickstart.rst
+#: ../../build/doc/quickstart/qgis_quickstart.rst:266
 msgid "QGIS color palette"
 msgstr ""
 
@@ -472,7 +484,7 @@ msgstr ""
 msgid "Then click the back arrow to return to the symbol render preview."
 msgstr ""
 
-#: ../../build/doc/quickstart/qgis_quickstart.rst
+#: ../../build/doc/quickstart/qgis_quickstart.rst:272
 msgid "QGIS style return"
 msgstr ""
 
@@ -482,7 +494,7 @@ msgid ""
 "layer in the map frame."
 msgstr ""
 
-#: ../../build/doc/quickstart/qgis_quickstart.rst
+#: ../../build/doc/quickstart/qgis_quickstart.rst:278
 msgid "QGIS style result"
 msgstr ""
 
@@ -502,7 +514,7 @@ msgstr ""
 msgid "In the style panel enter the value '0.5' in the 'width' input."
 msgstr ""
 
-#: ../../build/doc/quickstart/qgis_quickstart.rst
+#: ../../build/doc/quickstart/qgis_quickstart.rst:288
 msgid "QGIS style width"
 msgstr ""
 
@@ -548,21 +560,5 @@ msgstr ""
 msgid ""
 "To learn more about QGIS, a good starting point is the `Documentation "
 "page`_ on the QGIS homepage and `A Gentle Introduction to GIS`_ eBook."
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 

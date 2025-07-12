@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 15:05-0600\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.14.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:39
 msgid "PostGIS Quickstart"
@@ -228,7 +228,7 @@ msgid ""
 "spheroidal surface"
 msgstr ""
 
-#: ../../build/doc/quickstart/postgis_quickstart.rst:224
+#: ../../build/doc/quickstart/postgis_quickstart.rst:223
 msgid ""
 "`raster` - is a data type that stores data as an n-dimensional matrix "
 "where each position (pixel) represents"
@@ -396,6 +396,7 @@ msgid ""
 "Natural Earth, or just hit ``Connect`` to continue:"
 msgstr ""
 
+#: ../../build/doc/quickstart/postgis_quickstart.rst:387
 msgid "Connect to Natural Earth"
 msgstr ""
 
@@ -403,6 +404,7 @@ msgstr ""
 msgid "You will now get a list of the spatial tables in the database:"
 msgstr ""
 
+#: ../../build/doc/quickstart/postgis_quickstart.rst:394
 msgid "Natural Earth Layers"
 msgstr ""
 
@@ -413,6 +415,7 @@ msgid ""
 "be loaded into QGIS:"
 msgstr ""
 
+#: ../../build/doc/quickstart/postgis_quickstart.rst:403
 msgid "My First PostGIS layer"
 msgstr ""
 
@@ -452,6 +455,7 @@ msgid ""
 "them. The Preview tab will show you a little map."
 msgstr ""
 
+#: ../../build/doc/quickstart/postgis_quickstart.rst:425
 msgid "QGIS Manager Preview"
 msgstr ""
 
@@ -469,6 +473,7 @@ msgid ""
 "directory. (located in /home/user/data/vector/R/shapes):"
 msgstr ""
 
+#: ../../build/doc/quickstart/postgis_quickstart.rst:438
 msgid "Find the shapefile"
 msgstr ""
 
@@ -476,6 +481,7 @@ msgstr ""
 msgid "Leave everything else as it is and hit ``Load``"
 msgstr ""
 
+#: ../../build/doc/quickstart/postgis_quickstart.rst:445
 msgid "Import a shapefile"
 msgstr ""
 
@@ -495,6 +501,7 @@ msgid ""
 "counts (sid74 or sid79 fields) in North Carolina:"
 msgstr ""
 
+#: ../../build/doc/quickstart/postgis_quickstart.rst:457
 msgid "SIDS data mapped"
 msgstr ""
 
@@ -522,6 +529,7 @@ msgid ""
 "OSGeoLive Desktop."
 msgstr ""
 
+#: ../../build/doc/quickstart/postgis_quickstart.rst:478
 msgid "phpPgAdmin main"
 msgstr ""
 
@@ -530,8 +538,7 @@ msgid ""
 "Here, you have the option of creating a new connection to a PostgreSQL "
 "server, or connecting to an existing server. The red \"X\" on the "
 "``PostgreSQL`` server denotes that you haven't been yet connected. Click "
-"on it then enter the user name ``user`` and the master password "
-"``user``."
+"on it then enter the user name ``user`` and the master password ``user``."
 msgstr ""
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:487
@@ -541,6 +548,9 @@ msgid ""
 "already existing in the system."
 msgstr ""
 
+#: ../../build/doc/quickstart/postgis_quickstart.rst:489
+#: ../../build/doc/quickstart/postgis_quickstart.rst:504
+#: ../../build/doc/quickstart/postgis_quickstart.rst:529
 msgid "phpPgAdmin"
 msgstr ""
 
@@ -606,6 +616,10 @@ msgid ""
 "Desktop."
 msgstr ""
 
+#: ../../build/doc/quickstart/postgis_quickstart.rst:542
+#: ../../build/doc/quickstart/postgis_quickstart.rst:555
+#: ../../build/doc/quickstart/postgis_quickstart.rst:573
+#: ../../build/doc/quickstart/postgis_quickstart.rst:598
 msgid "pgAdmin"
 msgstr ""
 
@@ -869,21 +883,5 @@ msgstr ""
 
 #: ../../build/doc/quickstart/postgis_quickstart.rst:766
 msgid "PostGIS Documentation - http://postgis.net/documentation/"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 

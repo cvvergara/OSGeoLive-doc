@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 17.0.0\n"
+"Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 15:05-0600\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,7 +45,7 @@ msgstr ""
 msgid "The Software at the core of the ODC is a Python library that enables a user to index data (add records to the Index), to ingest data (optimise indexed data for performance), to query data (returning data in a standard data format) and a wide range of other functions related to managing data."
 msgstr ""
 
-#: ../../build/doc/overview/odc_overview.rst:None
+#: ../../build/doc/overview/odc_overview.rst:48
 msgid "odc screenshot"
 msgstr ""
 
@@ -95,21 +95,4 @@ msgstr ""
 
 #: ../../build/doc/overview/odc_overview.rst:81
 msgid ":doc:`Quickstart documentation <../quickstart/odc_quickstart>`"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 15:05-0600\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.14.0\n"
+"Generated-By: Babel 2.17.0\n"
 
 #: ../../build/doc/quickstart/openlayers_quickstart.rst:23
 msgid "OpenLayers Quickstart"
@@ -53,7 +53,7 @@ msgid ""
 " core concepts:"
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:38
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:37
 msgid "**Map**"
 msgstr ""
 
@@ -63,7 +63,7 @@ msgid ""
 "*view*, one or more *layers*, and a target container are needed."
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:41
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:40
 msgid "**View**"
 msgstr ""
 
@@ -74,7 +74,7 @@ msgid ""
 "we look at the map's content."
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:44
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:43
 msgid "**Layers**"
 msgstr ""
 
@@ -84,7 +84,7 @@ msgid ""
 " *raster layers* (images), or *vector layers* (points/lines/polygons)."
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:50
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:46
 msgid "**Source**"
 msgstr ""
 
@@ -96,7 +96,7 @@ msgid ""
 " set of *features*."
 msgstr ""
 
-#: ../../build/doc/quickstart/openlayers_quickstart.rst:55
+#: ../../build/doc/quickstart/openlayers_quickstart.rst:52
 msgid "**Features**"
 msgstr ""
 
@@ -221,8 +221,8 @@ msgstr ""
 #: ../../build/doc/quickstart/openlayers_quickstart.rst:233
 msgid ""
 "Features within vector layers can be styled. The style is determined by a"
-" combination of fill, stroke, text and image, which are all optional. In"
-" addition, a style can be applied to a layer, which determines the style "
+" combination of fill, stroke, text and image, which are all optional. In "
+"addition, a style can be applied to a layer, which determines the style "
 "of all contained features, or to an individual feature."
 msgstr ""
 
@@ -288,21 +288,5 @@ msgstr ""
 
 #: ../../build/doc/quickstart/openlayers_quickstart.rst:299
 msgid "`OpenLayers.org Website <https://openlayers.org/>`_"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>
-msgid "OSGeo Community"
 msgstr ""
 

@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: OSGeoLive 17.0.0\n"
+"Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17 21:19+0000\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,7 +44,7 @@ msgstr ""
 msgid "Click the QField icon in the Education menu"
 msgstr ""
 
-#: ../../build/doc/quickstart/qfield_quickstart.rst:0
+#: ../../build/doc/quickstart/qfield_quickstart.rst:30
 msgid "Find QField in the menu"
 msgstr ""
 
@@ -52,7 +52,7 @@ msgstr ""
 msgid "You will see QField launch and show the changelog of the release. Close the screen by clicking on the arrow button on the top left."
 msgstr ""
 
-#: ../../build/doc/quickstart/qfield_quickstart.rst:0
+#: ../../build/doc/quickstart/qfield_quickstart.rst:37
 msgid "The changelog is shown once"
 msgstr ""
 
@@ -76,7 +76,7 @@ msgstr ""
 msgid "Click the `QGIS-Itasca-Example.qgz` project file to open the project"
 msgstr ""
 
-#: ../../build/doc/quickstart/qfield_quickstart.rst:0
+#: ../../build/doc/quickstart/qfield_quickstart.rst:51
 msgid "Choose the Itasca project to open"
 msgstr ""
 
@@ -116,8 +116,8 @@ msgstr ""
 msgid "To inspect the attributes of one of the features, click on the feature in the identification panel. You will see all attributes of this feature appear."
 msgstr ""
 
-#: ../../build/doc/quickstart/qfield_quickstart.rst:0
-#: ../../build/doc/quickstart/qfield_quickstart.rst:0
+#: ../../build/doc/quickstart/qfield_quickstart.rst:76
+#: ../../build/doc/quickstart/qfield_quickstart.rst:85
 msgid "The hamburger menu"
 msgstr ""
 
@@ -133,7 +133,7 @@ msgstr ""
 msgid "You will see all layers in the project listed. By right clicking on the layer (or long pressing on a touch screen) you will have additional actions available for each layer."
 msgstr ""
 
-#: ../../build/doc/quickstart/qfield_quickstart.rst:0
+#: ../../build/doc/quickstart/qfield_quickstart.rst:93
 msgid "The legend"
 msgstr ""
 
@@ -157,7 +157,7 @@ msgstr ""
 msgid "Click the pencil switch to go into digitize mode."
 msgstr ""
 
-#: ../../build/doc/quickstart/qfield_quickstart.rst:0
+#: ../../build/doc/quickstart/qfield_quickstart.rst:109
 msgid "Switch to the digitize mode"
 msgstr ""
 
@@ -227,21 +227,4 @@ msgstr ""
 
 #: ../../build/doc/quickstart/qfield_quickstart.rst:138
 msgid "To learn more about QField, a good starting point is the `Documentation page`_."
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""

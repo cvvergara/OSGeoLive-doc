@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-03 20:51+0000\n"
+"POT-Creation-Date: 2025-07-12 23:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -145,7 +145,7 @@ msgstr ""
 msgid "To learn more about QGIS Server, a good starting point is the `QGIS Server Guide`_."
 msgstr ""
 
-#: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:103
+#: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:102
 msgid "Documentation:"
 msgstr ""
 
@@ -165,27 +165,10 @@ msgstr ""
 msgid "-> http://localhost/cgi-bin/qgis_mapserv.fcgi"
 msgstr ""
 
-#: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:113
+#: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:110
 msgid "QGIS Web Client:"
 msgstr ""
 
 #: ../../build/doc/quickstart/qgis_mapserver_quickstart.rst:111
 msgid "https://github.com/qgis/qgis-web-client"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:13
-msgid "vmdk"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:16
-msgid "nologo"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Project"
-msgstr ""
-
-#: ../../build/doc/<rst_epilog>:0
-#: ../../build/doc/<rst_epilog>:0
-msgid "OSGeo Community"
 msgstr ""
